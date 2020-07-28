@@ -1,0 +1,51 @@
+1595935320.287469 client started (18143): version next-3.3, socket /tmp/tmux-1001/default, protocol 8
+1595935320.287507 on Linux 4.15.0-48-generic #51-Ubuntu SMP Wed Apr 3 08:28:49 UTC 2019
+1595935320.287512 using libevent 2.1.8-stable (poll); ncurses 6.1
+1595935320.287532 flags are 0x18010000
+1595935320.287537 socket is /tmp/tmux-1001/default
+1595935320.287551 trying connect
+1595935320.287570 connect failed: Connection refused
+1595935320.287581 lock file is /tmp/tmux-1001/default.lock
+1595935320.287615 flock succeeded
+1595935320.287620 got lock (6)
+1595935320.287626 trying connect
+1595935320.287635 connect failed: Connection refused
+1595935320.287828 add peer 0x56366d2e3e00: 7 ((nil))
+1595935320.287953 sending message 100 to peer 0x56366d2e3e00 (4 bytes)
+1595935320.287964 sending message 101 to peer 0x56366d2e3e00 (15 bytes)
+1595935320.287968 sending message 109 to peer 0x56366d2e3e00 (4 bytes)
+1595935320.287972 sending message 102 to peer 0x56366d2e3e00 (11 bytes)
+1595935320.287975 sending message 108 to peer 0x56366d2e3e00 (10 bytes)
+1595935320.287978 sending message 104 to peer 0x56366d2e3e00 (0 bytes)
+1595935320.287986 sending message 110 to peer 0x56366d2e3e00 (0 bytes)
+1595935320.287990 sending message 107 to peer 0x56366d2e3e00 (4 bytes)
+1595935320.287992 sending message 105 to peer 0x56366d2e3e00 (9 bytes)
+1595935320.287995 sending message 105 to peer 0x56366d2e3e00 (12 bytes)
+1595935320.287997 sending message 105 to peer 0x56366d2e3e00 (15 bytes)
+1595935320.288000 sending message 105 to peer 0x56366d2e3e00 (94 bytes)
+1595935320.288002 sending message 105 to peer 0x56366d2e3e00 (19 bytes)
+1595935320.288005 sending message 105 to peer 0x56366d2e3e00 (19 bytes)
+1595935320.288007 sending message 105 to peer 0x56366d2e3e00 (35 bytes)
+1595935320.288009 sending message 105 to peer 0x56366d2e3e00 (53 bytes)
+1595935320.288012 sending message 105 to peer 0x56366d2e3e00 (19 bytes)
+1595935320.288014 sending message 105 to peer 0x56366d2e3e00 (20 bytes)
+1595935320.288017 sending message 105 to peer 0x56366d2e3e00 (19 bytes)
+1595935320.288019 sending message 105 to peer 0x56366d2e3e00 (31 bytes)
+1595935320.288030 sending message 105 to peer 0x56366d2e3e00 (17 bytes)
+1595935320.288034 sending message 105 to peer 0x56366d2e3e00 (8 bytes)
+1595935320.288037 sending message 105 to peer 0x56366d2e3e00 (14 bytes)
+1595935320.288039 sending message 105 to peer 0x56366d2e3e00 (17 bytes)
+1595935320.288042 sending message 105 to peer 0x56366d2e3e00 (12 bytes)
+1595935320.288044 sending message 105 to peer 0x56366d2e3e00 (34 bytes)
+1595935320.288054 sending message 105 to peer 0x56366d2e3e00 (11 bytes)
+1595935320.288062 sending message 105 to peer 0x56366d2e3e00 (8 bytes)
+1595935320.288068 sending message 105 to peer 0x56366d2e3e00 (32 bytes)
+1595935320.288072 sending message 105 to peer 0x56366d2e3e00 (1516 bytes)
+1595935320.288077 sending message 105 to peer 0x56366d2e3e00 (22 bytes)
+1595935320.288080 sending message 106 to peer 0x56366d2e3e00 (0 bytes)
+1595935320.288085 cmd_pack_argv: argv[0]=new
+1595935320.288089 sending message 200 to peer 0x56366d2e3e00 (8 bytes)
+1595935320.288092 client loop enter
+1595935321.012552 peer 0x56366d2e3e00 message 207
+1595935321.012561 sending message 208 to peer 0x56366d2e3e00 (0 bytes)
+1595937450.483025 client loop exit

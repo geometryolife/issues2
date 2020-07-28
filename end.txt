@@ -1,0 +1,2892 @@
+
+1595939871.216775 %0 has 6 bytes
+1595939871.216782 @0 alerts timer reset 0
+1595939871.216785 @0 alerts flags added 0x2
+1595939871.216789 window_add_ref: @0 alerts_queue, now 2
+1595939871.216792 alerts check queued (by @0)
+1595939871.216798 screen_write_start_pane: size 164x56, pane %0 (at 0,0)
+1595939871.216803 input_parse_buffer: %0 ground, 6 bytes: \033[?25h
+1595939871.216808 input_csi_dispatch: 'h' "?" "25"
+1595939871.216812 parameter 0: number 25
+1595939871.216817 screen_write_collect_flush: flushed 0 items (0 bytes) (screen_write_stop)
+1595939871.216822 screen_write_stop: 0 cells (0 written, 0 skipped)
+1595939871.216827 @0 alerts check, alerts 0x2
+1595939871.216831 window_remove_ref: @0 alerts_callback, now 1
+1595939871.216835 cmdq_next <global>: empty
+1595939871.216839 cmdq_next </dev/pts/4>: empty
+1595939871.216844 server_client_reset_state: client /dev/pts/4 mode e5d
+1595939871.216848 server_client_reset_state: cursor to 102,19
+1595939871.216852 /dev/pts/4: update mode e5c to e5d
+1595939871.216856 /dev/pts/4: \033[?12l\033[?25h
+1595939871.216864 server_client_check_pane_buffer: %0 has 6 minimum (of 6) bytes used
+1595939871.216868 server_client_check_pane_buffer: pane %0 is on
+1595939871.216871 @0 active pane changed
+1595939871.216875 @0 name timer already queued (445586 left)
+1595939871.216879 server_client_check_pane_buffer: pane %1 is on
+1595939871.216882 @1 active pane not changed
+1595939871.216885 server_client_check_pane_buffer: pane %2 is on
+1595939871.216887 @2 active pane not changed
+1595939871.216941 /dev/pts/4: wrote 12 bytes (of 12)
+1595939871.216948 cmdq_next <global>: empty
+1595939871.216951 cmdq_next </dev/pts/4>: empty
+1595939871.216956 server_client_reset_state: client /dev/pts/4 mode e5d
+1595939871.216960 server_client_reset_state: cursor to 102,19
+1595939871.216965 server_client_check_pane_buffer: pane %0 is on
+1595939871.216969 @0 active pane changed
+1595939871.216973 @0 name timer already queued (445488 left)
+1595939871.216977 server_client_check_pane_buffer: pane %1 is on
+1595939871.216981 @1 active pane not changed
+1595939871.216985 server_client_check_pane_buffer: pane %2 is on
+1595939871.216988 @2 active pane not changed
+1595939871.220764 %0 has 6 bytes
+1595939871.220799 @0 alerts timer reset 0
+1595939871.220804 @0 alerts flags added 0x2
+1595939871.220811 window_add_ref: @0 alerts_queue, now 2
+1595939871.220815 alerts check queued (by @0)
+1595939871.220823 screen_write_start_pane: size 164x56, pane %0 (at 0,0)
+1595939871.220828 input_parse_buffer: %0 ground, 6 bytes: \033[?25l
+1595939871.220836 input_csi_dispatch: 'l' "?" "25"
+1595939871.220842 parameter 0: number 25
+1595939871.220852 screen_write_collect_flush: flushed 0 items (0 bytes) (screen_write_stop)
+1595939871.220856 screen_write_stop: 0 cells (0 written, 0 skipped)
+1595939871.220865 @0 alerts check, alerts 0x2
+1595939871.220870 window_remove_ref: @0 alerts_callback, now 1
+1595939871.220876 cmdq_next <global>: empty
+1595939871.220881 cmdq_next </dev/pts/4>: empty
+1595939871.220887 server_client_reset_state: client /dev/pts/4 mode e5c
+1595939871.220892 server_client_reset_state: cursor to 102,19
+1595939871.220897 /dev/pts/4: update mode e5d to e5c
+1595939871.220903 /dev/pts/4: \033[?25l
+1595939871.220915 server_client_check_pane_buffer: %0 has 6 minimum (of 6) bytes used
+1595939871.220920 server_client_check_pane_buffer: pane %0 is on
+1595939871.220925 @0 active pane changed
+1595939871.220929 @0 name timer already queued (441533 left)
+1595939871.220934 server_client_check_pane_buffer: pane %1 is on
+1595939871.220938 @1 active pane not changed
+1595939871.220943 server_client_check_pane_buffer: pane %2 is on
+1595939871.220947 @2 active pane not changed
+1595939871.220965 /dev/pts/4: wrote 6 bytes (of 6)
+1595939871.220969 cmdq_next <global>: empty
+1595939871.220973 cmdq_next </dev/pts/4>: empty
+1595939871.220978 server_client_reset_state: client /dev/pts/4 mode e5c
+1595939871.220982 server_client_reset_state: cursor to 102,19
+1595939871.221002 server_client_check_pane_buffer: pane %0 is on
+1595939871.221006 @0 active pane changed
+1595939871.221010 @0 name timer already queued (441451 left)
+1595939871.221014 server_client_check_pane_buffer: pane %1 is on
+1595939871.221018 @1 active pane not changed
+1595939871.221022 server_client_check_pane_buffer: pane %2 is on
+1595939871.221025 @2 active pane not changed
+1595939871.221123 %0 has 171 bytes
+1595939871.221131 @0 alerts timer reset 0
+1595939871.221135 @0 alerts flags added 0x2
+1595939871.221139 window_add_ref: @0 alerts_queue, now 2
+1595939871.221143 alerts check queued (by @0)
+1595939871.221149 screen_write_start_pane: size 164x56, pane %0 (at 0,0)
+1595939871.221158 input_parse_buffer: %0 ground, 171 bytes: \033[54;90H\033(B\033[0;1m\033[38;2;255;255;255m\033[48;2;153;199;148m COMPL\033(B\033[m\033[38;2;255;255;255m\033[48;2;153;199;148m \033(B\033[m\033[38;2;216;222;233m\033[48;2;52;61;70m test2_std.c[+]\033[20;103H
+1595939871.221164 input_csi_dispatch: 'H' "" "54;90"
+1595939871.221169 parameter 0: number 54
+1595939871.221173 parameter 1: number 90
+1595939871.221178 input_esc_dispatch: 'B', (
+1595939871.221183 input_csi_dispatch: 'm' "" "0;1"
+1595939871.221187 parameter 0: number 0
+1595939871.221191 parameter 1: number 1
+1595939871.221196 input_csi_dispatch: 'm' "" "38;2;255;255;255"
+1595939871.221201 parameter 0: number 38
+1595939871.221204 parameter 1: number 2
+1595939871.221208 parameter 2: number 255
+1595939871.221211 parameter 3: number 255
+1595939871.221214 parameter 4: number 255
+1595939871.221219 input_csi_dispatch: 'm' "" "48;2;153;199;148"
+1595939871.221223 parameter 0: number 48
+1595939871.221227 parameter 1: number 2
+1595939871.221230 parameter 2: number 153
+1595939871.221233 parameter 3: number 199
+1595939871.221236 parameter 4: number 148
+1595939871.221243 screen_write_collect_end: 6  COMPL (at 89,53)
+1595939871.221261 utf8_to_data: 41000020 -> (1 1  )
+1595939871.221268 utf8_from_data: (1 1  ) -> 41000020
+1595939871.221272 utf8_from_data: (1 1  ) -> 41000020
+1595939871.221288 utf8_from_data: (1 1  ) -> 41000020
+1595939871.221293 utf8_from_data: (1 1  ) -> 41000020
+1595939871.221297 utf8_from_data: (1 1  ) -> 41000020
+1595939871.221301 utf8_from_data: (1 1  ) -> 41000020
+1595939871.221306 utf8_to_data: 41000032 -> (1 1 2)
+1595939871.221310 input_esc_dispatch: 'B', (
+1595939871.221314 input_csi_dispatch: 'm' "" ""
+1595939871.221319 input_csi_dispatch: 'm' "" "38;2;255;255;255"
+1595939871.221324 parameter 0: number 38
+1595939871.221327 parameter 1: number 2
+1595939871.221330 parameter 2: number 255
+1595939871.221333 parameter 3: number 255
+1595939871.221337 parameter 4: number 255
+1595939871.221342 input_csi_dispatch: 'm' "" "48;2;153;199;148"
+1595939871.221346 parameter 0: number 48
+1595939871.221349 parameter 1: number 2
+1595939871.221352 parameter 2: number 153
+1595939871.221355 parameter 3: number 199
+1595939871.221359 parameter 4: number 148
+1595939871.221364 screen_write_collect_end: 1   (at 95,53)
+1595939871.221368 utf8_to_data: 41000032 -> (1 1 2)
+1595939871.221372 utf8_from_data: (1 1  ) -> 41000020
+1595939871.221376 utf8_to_data: 4100005f -> (1 1 _)
+1595939871.221380 input_esc_dispatch: 'B', (
+1595939871.221383 input_csi_dispatch: 'm' "" ""
+1595939871.221389 input_csi_dispatch: 'm' "" "38;2;216;222;233"
+1595939871.221392 parameter 0: number 38
+1595939871.221395 parameter 1: number 2
+1595939871.221398 parameter 2: number 216
+1595939871.221402 parameter 3: number 222
+1595939871.221405 parameter 4: number 233
+1595939871.221410 input_csi_dispatch: 'm' "" "48;2;52;61;70"
+1595939871.221414 parameter 0: number 48
+1595939871.221417 parameter 1: number 2
+1595939871.221420 parameter 2: number 52
+1595939871.221423 parameter 3: number 61
+1595939871.221426 parameter 4: number 70
+1595939871.221432 screen_write_collect_end: 15  test2_std.c[+] (at 96,53)
+1595939871.221436 utf8_to_data: 4100005f -> (1 1 _)
+1595939871.221440 utf8_from_data: (1 1  ) -> 41000020
+1595939871.221444 utf8_from_data: (1 1  ) -> 41000020
+1595939871.221448 utf8_from_data: (1 1  ) -> 41000020
+1595939871.221458 utf8_from_data: (1 1  ) -> 41000020
+1595939871.221462 utf8_from_data: (1 1  ) -> 41000020
+1595939871.221465 utf8_from_data: (1 1  ) -> 41000020
+1595939871.221469 utf8_from_data: (1 1  ) -> 41000020
+1595939871.221473 utf8_from_data: (1 1  ) -> 41000020
+1595939871.221477 utf8_from_data: (1 1  ) -> 41000020
+1595939871.221481 utf8_from_data: (1 1  ) -> 41000020
+1595939871.221484 utf8_from_data: (1 1  ) -> 41000020
+1595939871.221488 utf8_from_data: (1 1  ) -> 41000020
+1595939871.221492 utf8_from_data: (1 1  ) -> 41000020
+1595939871.221496 utf8_from_data: (1 1  ) -> 41000020
+1595939871.221499 utf8_from_data: (1 1  ) -> 41000020
+1595939871.221504 utf8_to_data: 41000020 -> (1 1  )
+1595939871.221508 input_csi_dispatch: 'H' "" "20;103"
+1595939871.221512 parameter 0: number 20
+1595939871.221515 parameter 1: number 103
+1595939871.221527 /dev/pts/4: \033[54;90H
+1595939871.221537 /dev/pts/4: \033[38;2;255;255;255m
+1595939871.221544 /dev/pts/4: \033[48;2;153;199;148m
+1595939871.221549 /dev/pts/4: \033[1m
+1595939871.221554 /dev/pts/4:  COMPL
+1595939871.221560 /dev/pts/4: \033(B\033[m
+1595939871.221566 /dev/pts/4: \033[38;2;255;255;255m
+1595939871.221573 /dev/pts/4: \033[48;2;153;199;148m
+1595939871.221578 /dev/pts/4:  
+1595939871.221584 /dev/pts/4: \033[38;2;216;222;233m
+1595939871.221590 /dev/pts/4: \033[48;2;52;61;70m
+1595939871.221595 /dev/pts/4:  test2_std.c[+]
+1595939871.221602 screen_write_collect_flush: flushed 3 items (22 bytes) (screen_write_stop)
+1595939871.221607 screen_write_stop: 22 cells (22 written, 0 skipped)
+1595939871.221613 @0 alerts check, alerts 0x2
+1595939871.221617 window_remove_ref: @0 alerts_callback, now 1
+1595939871.221622 cmdq_next <global>: empty
+1595939871.221625 cmdq_next </dev/pts/4>: empty
+1595939871.221630 server_client_reset_state: client /dev/pts/4 mode e5c
+1595939871.221634 server_client_reset_state: cursor to 102,19
+1595939871.221639 /dev/pts/4: \033[20;103H
+1595939871.221644 /dev/pts/4: \033(B\033[m
+1595939871.221651 server_client_check_pane_buffer: %0 has 171 minimum (of 171) bytes used
+1595939871.221656 server_client_check_pane_buffer: pane %0 is on
+1595939871.221660 @0 active pane changed
+1595939871.221664 @0 name timer already queued (440798 left)
+1595939871.221668 server_client_check_pane_buffer: pane %1 is on
+1595939871.221671 @1 active pane not changed
+1595939871.221675 server_client_check_pane_buffer: pane %2 is on
+1595939871.221678 @2 active pane not changed
+1595939871.221694 /dev/pts/4: wrote 166 bytes (of 166)
+1595939871.221698 cmdq_next <global>: empty
+1595939871.221702 cmdq_next </dev/pts/4>: empty
+1595939871.221706 server_client_reset_state: client /dev/pts/4 mode e5c
+1595939871.221710 server_client_reset_state: cursor to 102,19
+1595939871.221714 server_client_check_pane_buffer: pane %0 is on
+1595939871.221718 @0 active pane changed
+1595939871.221722 @0 name timer already queued (440740 left)
+1595939871.221725 server_client_check_pane_buffer: pane %1 is on
+1595939871.221729 @1 active pane not changed
+1595939871.221732 server_client_check_pane_buffer: pane %2 is on
+1595939871.221736 @2 active pane not changed
+1595939871.221802 %0 has 6 bytes
+1595939871.221810 @0 alerts timer reset 0
+1595939871.221813 @0 alerts flags added 0x2
+1595939871.221818 window_add_ref: @0 alerts_queue, now 2
+1595939871.221821 alerts check queued (by @0)
+1595939871.221827 screen_write_start_pane: size 164x56, pane %0 (at 0,0)
+1595939871.221831 input_parse_buffer: %0 ground, 6 bytes: \033[?25h
+1595939871.221837 input_csi_dispatch: 'h' "?" "25"
+1595939871.221841 parameter 0: number 25
+1595939871.221847 screen_write_collect_flush: flushed 0 items (0 bytes) (screen_write_stop)
+1595939871.221851 screen_write_stop: 0 cells (0 written, 0 skipped)
+1595939871.221856 @0 alerts check, alerts 0x2
+1595939871.221861 window_remove_ref: @0 alerts_callback, now 1
+1595939871.221864 cmdq_next <global>: empty
+1595939871.221868 cmdq_next </dev/pts/4>: empty
+1595939871.221873 server_client_reset_state: client /dev/pts/4 mode e5d
+1595939871.221877 server_client_reset_state: cursor to 102,19
+1595939871.221881 /dev/pts/4: update mode e5c to e5d
+1595939871.221893 /dev/pts/4: \033[?12l\033[?25h
+1595939871.221901 server_client_check_pane_buffer: %0 has 6 minimum (of 6) bytes used
+1595939871.221905 server_client_check_pane_buffer: pane %0 is on
+1595939871.221909 @0 active pane changed
+1595939871.221913 @0 name timer already queued (440548 left)
+1595939871.221918 server_client_check_pane_buffer: pane %1 is on
+1595939871.221921 @1 active pane not changed
+1595939871.221925 server_client_check_pane_buffer: pane %2 is on
+1595939871.221929 @2 active pane not changed
+1595939871.221972 /dev/pts/4: wrote 12 bytes (of 12)
+1595939871.221979 cmdq_next <global>: empty
+1595939871.221983 cmdq_next </dev/pts/4>: empty
+1595939871.221987 server_client_reset_state: client /dev/pts/4 mode e5d
+1595939871.221992 server_client_reset_state: cursor to 102,19
+1595939871.221996 server_client_check_pane_buffer: pane %0 is on
+1595939871.222001 @0 active pane changed
+1595939871.222005 @0 name timer already queued (440457 left)
+1595939871.222009 server_client_check_pane_buffer: pane %1 is on
+1595939871.222012 @1 active pane not changed
+1595939871.222016 server_client_check_pane_buffer: pane %2 is on
+1595939871.222019 @2 active pane not changed
+1595939871.228181 cmdq_next <global>: empty
+1595939871.228218 cmdq_next </dev/pts/4>: empty
+1595939871.228226 server_client_reset_state: client /dev/pts/4 mode e5d
+1595939871.228233 server_client_reset_state: cursor to 102,19
+1595939871.228243 server_client_check_pane_buffer: pane %0 is on
+1595939871.228261 @0 active pane changed
+1595939871.228267 @0 name timer already queued (434195 left)
+1595939871.228272 server_client_check_pane_buffer: pane %1 is on
+1595939871.228289 @1 active pane not changed
+1595939871.228294 server_client_check_pane_buffer: pane %2 is on
+1595939871.228298 @2 active pane not changed
+1595939871.523114 /dev/pts/4: read 1 bytes (already 0)
+1595939871.523132 /dev/pts/4: keys are 1 (t)
+1595939871.523137 /dev/pts/4: next key is 1 (t) (expired=0)
+1595939871.523141 /dev/pts/4: complete key t 0x74
+1595939871.523152 cmdq_append </dev/pts/4>: [server_client_key_callback/0x56366d459790]
+1595939871.523157 cmdq_next <global>: empty
+1595939871.523160 cmdq_next </dev/pts/4>: enter
+1595939871.523164 cmdq_next </dev/pts/4>: [server_client_key_callback/0x56366d459790] (1), flags 0
+1595939871.523168 session $0 0 activity 1595939871.523166 (last 1595939871.143531)
+1595939871.523174 cmd_find_from_client: s=$0 0
+1595939871.523177 cmd_find_from_client: wl=1 1 w=@0 nvim
+1595939871.523179 cmd_find_from_client: wp=%0
+1595939871.523181 cmd_find_from_client: idx=none
+1595939871.523186 session 0 not pasting
+1595939871.523190 key table root (pane %0)
+1595939871.523193 key table root (pane %0)
+1595939871.523196 not found in key table root
+1595939871.523201 writing key 0x74 (t) to %0
+1595939871.523209 unref client 0x56366d41a470 (2 references)
+1595939871.523212 cmdq_next </dev/pts/4>: exit (empty)
+1595939871.523215 cmdq_next <global>: empty
+1595939871.523217 cmdq_next </dev/pts/4>: empty
+1595939871.523222 server_client_reset_state: client /dev/pts/4 mode e5d
+1595939871.523225 server_client_reset_state: cursor to 102,19
+1595939871.523231 server_client_check_pane_buffer: pane %0 is on
+1595939871.523236 @0 active pane changed
+1595939871.523240 @0 name timer already queued (139222 left)
+1595939871.523243 server_client_check_pane_buffer: pane %1 is on
+1595939871.523246 @1 active pane not changed
+1595939871.523248 server_client_check_pane_buffer: pane %2 is on
+1595939871.523262 @2 active pane not changed
+1595939871.523280 cmdq_next <global>: empty
+1595939871.523283 cmdq_next </dev/pts/4>: empty
+1595939871.523286 server_client_reset_state: client /dev/pts/4 mode e5d
+1595939871.523289 server_client_reset_state: cursor to 102,19
+1595939871.523292 server_client_check_pane_buffer: pane %0 is on
+1595939871.523295 @0 active pane changed
+1595939871.523297 @0 name timer already queued (139164 left)
+1595939871.523299 server_client_check_pane_buffer: pane %1 is on
+1595939871.523301 @1 active pane not changed
+1595939871.523304 server_client_check_pane_buffer: pane %2 is on
+1595939871.523316 @2 active pane not changed
+1595939871.534992 %0 has 6 bytes
+1595939871.535028 @0 alerts timer reset 0
+1595939871.535032 @0 alerts flags added 0x2
+1595939871.535039 window_add_ref: @0 alerts_queue, now 2
+1595939871.535043 alerts check queued (by @0)
+1595939871.535051 screen_write_start_pane: size 164x56, pane %0 (at 0,0)
+1595939871.535058 input_parse_buffer: %0 ground, 6 bytes: \033[?25l
+1595939871.535068 input_csi_dispatch: 'l' "?" "25"
+1595939871.535074 parameter 0: number 25
+1595939871.535084 screen_write_collect_flush: flushed 0 items (0 bytes) (screen_write_stop)
+1595939871.535089 screen_write_stop: 0 cells (0 written, 0 skipped)
+1595939871.535101 @0 alerts check, alerts 0x2
+1595939871.535106 window_remove_ref: @0 alerts_callback, now 1
+1595939871.535112 cmdq_next <global>: empty
+1595939871.535117 cmdq_next </dev/pts/4>: empty
+1595939871.535124 server_client_reset_state: client /dev/pts/4 mode e5c
+1595939871.535130 server_client_reset_state: cursor to 102,19
+1595939871.535135 /dev/pts/4: update mode e5d to e5c
+1595939871.535139 /dev/pts/4: \033[?25l
+1595939871.535151 server_client_check_pane_buffer: %0 has 6 minimum (of 6) bytes used
+1595939871.535154 server_client_check_pane_buffer: pane %0 is on
+1595939871.535158 @0 active pane changed
+1595939871.535161 @0 name timer already queued (127301 left)
+1595939871.535163 server_client_check_pane_buffer: pane %1 is on
+1595939871.535166 @1 active pane not changed
+1595939871.535169 server_client_check_pane_buffer: pane %2 is on
+1595939871.535171 @2 active pane not changed
+1595939871.535187 /dev/pts/4: wrote 6 bytes (of 6)
+1595939871.535191 cmdq_next <global>: empty
+1595939871.535193 cmdq_next </dev/pts/4>: empty
+1595939871.535196 server_client_reset_state: client /dev/pts/4 mode e5c
+1595939871.535199 server_client_reset_state: cursor to 102,19
+1595939871.535202 server_client_check_pane_buffer: pane %0 is on
+1595939871.535205 @0 active pane changed
+1595939871.535207 @0 name timer already queued (127254 left)
+1595939871.535210 server_client_check_pane_buffer: pane %1 is on
+1595939871.535212 @1 active pane not changed
+1595939871.535215 server_client_check_pane_buffer: pane %2 is on
+1595939871.535217 @2 active pane not changed
+1595939871.535336 %0 has 43 bytes
+1595939871.535343 @0 alerts timer reset 0
+1595939871.535346 @0 alerts flags added 0x2
+1595939871.535349 window_add_ref: @0 alerts_queue, now 2
+1595939871.535351 alerts check queued (by @0)
+1595939871.535355 screen_write_start_pane: size 164x56, pane %0 (at 0,0)
+1595939871.535360 input_parse_buffer: %0 ground, 43 bytes: \033(B\033[m\033[38;2;101;115;126m\033[48;2;52;61;70mt\b
+1595939871.535363 input_esc_dispatch: 'B', (
+1595939871.535367 input_csi_dispatch: 'm' "" ""
+1595939871.535371 input_csi_dispatch: 'm' "" "38;2;101;115;126"
+1595939871.535374 parameter 0: number 38
+1595939871.535376 parameter 1: number 2
+1595939871.535378 parameter 2: number 101
+1595939871.535380 parameter 3: number 115
+1595939871.535382 parameter 4: number 126
+1595939871.535386 input_csi_dispatch: 'm' "" "48;2;52;61;70"
+1595939871.535389 parameter 0: number 48
+1595939871.535391 parameter 1: number 2
+1595939871.535393 parameter 2: number 52
+1595939871.535395 parameter 3: number 61
+1595939871.535397 parameter 4: number 70
+1595939871.535401 screen_write_collect_end: 1 t (at 102,19)
+1595939871.535406 utf8_to_data: 41000020 -> (1 1  )
+1595939871.535409 utf8_from_data: (1 1 t) -> 41000074
+1595939871.535412 utf8_to_data: 41000020 -> (1 1  )
+1595939871.535415 input_c0_dispatch: '\b'
+1595939871.535425 /dev/pts/4: \033[38;2;101;115;126m
+1595939871.535430 /dev/pts/4: \033[48;2;52;61;70m
+1595939871.535434 /dev/pts/4: t
+1595939871.535438 screen_write_collect_flush: flushed 1 items (1 bytes) (screen_write_stop)
+1595939871.535441 screen_write_stop: 1 cells (1 written, 0 skipped)
+1595939871.535445 @0 alerts check, alerts 0x2
+1595939871.535447 window_remove_ref: @0 alerts_callback, now 1
+1595939871.535450 cmdq_next <global>: empty
+1595939871.535453 cmdq_next </dev/pts/4>: empty
+1595939871.535456 server_client_reset_state: client /dev/pts/4 mode e5c
+1595939871.535471 server_client_reset_state: cursor to 102,19
+1595939871.535474 /dev/pts/4: \b
+1595939871.535477 /dev/pts/4: \033(B\033[m
+1595939871.535481 server_client_check_pane_buffer: %0 has 43 minimum (of 43) bytes used
+1595939871.535484 server_client_check_pane_buffer: pane %0 is on
+1595939871.535487 @0 active pane changed
+1595939871.535489 @0 name timer already queued (126972 left)
+1595939871.535491 server_client_check_pane_buffer: pane %1 is on
+1595939871.535493 @1 active pane not changed
+1595939871.535496 server_client_check_pane_buffer: pane %2 is on
+1595939871.535498 @2 active pane not changed
+1595939871.535508 /dev/pts/4: wrote 43 bytes (of 43)
+1595939871.535511 cmdq_next <global>: empty
+1595939871.535513 cmdq_next </dev/pts/4>: empty
+1595939871.535516 server_client_reset_state: client /dev/pts/4 mode e5c
+1595939871.535519 server_client_reset_state: cursor to 102,19
+1595939871.535521 server_client_check_pane_buffer: pane %0 is on
+1595939871.535524 @0 active pane changed
+1595939871.535526 @0 name timer already queued (126935 left)
+1595939871.535529 server_client_check_pane_buffer: pane %1 is on
+1595939871.535530 @1 active pane not changed
+1595939871.535533 server_client_check_pane_buffer: pane %2 is on
+1595939871.535535 @2 active pane not changed
+1595939871.535589 %0 has 6 bytes
+1595939871.535595 @0 alerts timer reset 0
+1595939871.535597 @0 alerts flags added 0x2
+1595939871.535600 window_add_ref: @0 alerts_queue, now 2
+1595939871.535602 alerts check queued (by @0)
+1595939871.535605 screen_write_start_pane: size 164x56, pane %0 (at 0,0)
+1595939871.535609 input_parse_buffer: %0 ground, 6 bytes: \033[?25h
+1595939871.535613 input_csi_dispatch: 'h' "?" "25"
+1595939871.535616 parameter 0: number 25
+1595939871.535619 screen_write_collect_flush: flushed 0 items (0 bytes) (screen_write_stop)
+1595939871.535622 screen_write_stop: 0 cells (0 written, 0 skipped)
+1595939871.535626 @0 alerts check, alerts 0x2
+1595939871.535628 window_remove_ref: @0 alerts_callback, now 1
+1595939871.535631 cmdq_next <global>: empty
+1595939871.535634 cmdq_next </dev/pts/4>: empty
+1595939871.535637 server_client_reset_state: client /dev/pts/4 mode e5d
+1595939871.535639 server_client_reset_state: cursor to 102,19
+1595939871.535642 /dev/pts/4: update mode e5c to e5d
+1595939871.535645 /dev/pts/4: \033[?12l\033[?25h
+1595939871.535650 server_client_check_pane_buffer: %0 has 6 minimum (of 6) bytes used
+1595939871.535652 server_client_check_pane_buffer: pane %0 is on
+1595939871.535655 @0 active pane changed
+1595939871.535657 @0 name timer already queued (126804 left)
+1595939871.535660 server_client_check_pane_buffer: pane %1 is on
+1595939871.535662 @1 active pane not changed
+1595939871.535664 server_client_check_pane_buffer: pane %2 is on
+1595939871.535666 @2 active pane not changed
+1595939871.535675 /dev/pts/4: wrote 12 bytes (of 12)
+1595939871.535678 cmdq_next <global>: empty
+1595939871.535680 cmdq_next </dev/pts/4>: empty
+1595939871.535683 server_client_reset_state: client /dev/pts/4 mode e5d
+1595939871.535685 server_client_reset_state: cursor to 102,19
+1595939871.535688 server_client_check_pane_buffer: pane %0 is on
+1595939871.535691 @0 active pane changed
+1595939871.535693 @0 name timer already queued (126768 left)
+1595939871.535695 server_client_check_pane_buffer: pane %1 is on
+1595939871.535697 @1 active pane not changed
+1595939871.535699 server_client_check_pane_buffer: pane %2 is on
+1595939871.535702 @2 active pane not changed
+1595939871.535791 %0 has 6 bytes
+1595939871.535800 @0 alerts timer reset 0
+1595939871.535804 @0 alerts flags added 0x2
+1595939871.535808 window_add_ref: @0 alerts_queue, now 2
+1595939871.535811 alerts check queued (by @0)
+1595939871.535818 screen_write_start_pane: size 164x56, pane %0 (at 0,0)
+1595939871.535821 input_parse_buffer: %0 ground, 6 bytes: \033[?25l
+1595939871.535825 input_csi_dispatch: 'l' "?" "25"
+1595939871.535828 parameter 0: number 25
+1595939871.535833 screen_write_collect_flush: flushed 0 items (0 bytes) (screen_write_stop)
+1595939871.535835 screen_write_stop: 0 cells (0 written, 0 skipped)
+1595939871.535845 @0 alerts check, alerts 0x2
+1595939871.535848 window_remove_ref: @0 alerts_callback, now 1
+1595939871.535851 cmdq_next <global>: empty
+1595939871.535853 cmdq_next </dev/pts/4>: empty
+1595939871.535856 server_client_reset_state: client /dev/pts/4 mode e5c
+1595939871.535859 server_client_reset_state: cursor to 102,19
+1595939871.535861 /dev/pts/4: update mode e5d to e5c
+1595939871.535864 /dev/pts/4: \033[?25l
+1595939871.535869 server_client_check_pane_buffer: %0 has 6 minimum (of 6) bytes used
+1595939871.535871 server_client_check_pane_buffer: pane %0 is on
+1595939871.535873 @0 active pane changed
+1595939871.535876 @0 name timer already queued (126585 left)
+1595939871.535878 server_client_check_pane_buffer: pane %1 is on
+1595939871.535880 @1 active pane not changed
+1595939871.535883 server_client_check_pane_buffer: pane %2 is on
+1595939871.535885 @2 active pane not changed
+1595939871.535895 /dev/pts/4: wrote 6 bytes (of 6)
+1595939871.535898 cmdq_next <global>: empty
+1595939871.535900 cmdq_next </dev/pts/4>: empty
+1595939871.535902 server_client_reset_state: client /dev/pts/4 mode e5c
+1595939871.535905 server_client_reset_state: cursor to 102,19
+1595939871.535907 server_client_check_pane_buffer: pane %0 is on
+1595939871.535909 @0 active pane changed
+1595939871.535912 @0 name timer already queued (126549 left)
+1595939871.535914 server_client_check_pane_buffer: pane %1 is on
+1595939871.535915 @1 active pane not changed
+1595939871.535918 server_client_check_pane_buffer: pane %2 is on
+1595939871.535919 @2 active pane not changed
+1595939871.535985 %0 has 63 bytes
+1595939871.535993 @0 alerts timer reset 0
+1595939871.535998 @0 alerts flags added 0x2
+1595939871.536002 window_add_ref: @0 alerts_queue, now 2
+1595939871.536005 alerts check queued (by @0)
+1595939871.536011 screen_write_start_pane: size 164x56, pane %0 (at 0,0)
+1595939871.536018 input_parse_buffer: %0 ground, 63 bytes: \033[54;151H\033(B\033[m\033[38;2;255;255;255m\033[48;2;153;199;148m6\033[20;104H
+1595939871.536024 input_csi_dispatch: 'H' "" "54;151"
+1595939871.536029 parameter 0: number 54
+1595939871.536032 parameter 1: number 151
+1595939871.536037 input_esc_dispatch: 'B', (
+1595939871.536042 input_csi_dispatch: 'm' "" ""
+1595939871.536047 input_csi_dispatch: 'm' "" "38;2;255;255;255"
+1595939871.536051 parameter 0: number 38
+1595939871.536054 parameter 1: number 2
+1595939871.536056 parameter 2: number 255
+1595939871.536060 parameter 3: number 255
+1595939871.536063 parameter 4: number 255
+1595939871.536068 input_csi_dispatch: 'm' "" "48;2;153;199;148"
+1595939871.536072 parameter 0: number 48
+1595939871.536075 parameter 1: number 2
+1595939871.536078 parameter 2: number 153
+1595939871.536081 parameter 3: number 199
+1595939871.536084 parameter 4: number 148
+1595939871.536089 screen_write_collect_end: 1 6 (at 150,53)
+1595939871.536095 utf8_to_data: 41000035 -> (1 1 5)
+1595939871.536099 utf8_from_data: (1 1 6) -> 41000036
+1595939871.536103 utf8_to_data: 41000020 -> (1 1  )
+1595939871.536107 input_csi_dispatch: 'H' "" "20;104"
+1595939871.536111 parameter 0: number 20
+1595939871.536115 parameter 1: number 104
+1595939871.536122 /dev/pts/4: \033[54;151H
+1595939871.536130 /dev/pts/4: \033[38;2;255;255;255m
+1595939871.536137 /dev/pts/4: \033[48;2;153;199;148m
+1595939871.536142 /dev/pts/4: 6
+1595939871.536149 screen_write_collect_flush: flushed 1 items (1 bytes) (screen_write_stop)
+1595939871.536153 screen_write_stop: 1 cells (1 written, 0 skipped)
+1595939871.536159 @0 alerts check, alerts 0x2
+1595939871.536163 window_remove_ref: @0 alerts_callback, now 1
+1595939871.536167 cmdq_next <global>: empty
+1595939871.536171 cmdq_next </dev/pts/4>: empty
+1595939871.536174 server_client_reset_state: client /dev/pts/4 mode e5c
+1595939871.536177 server_client_reset_state: cursor to 103,19
+1595939871.536180 /dev/pts/4: \033[20;104H
+1595939871.536183 /dev/pts/4: \033(B\033[m
+1595939871.536188 server_client_check_pane_buffer: %0 has 63 minimum (of 63) bytes used
+1595939871.536190 server_client_check_pane_buffer: pane %0 is on
+1595939871.536193 @0 active pane changed
+1595939871.536195 @0 name timer already queued (126266 left)
+1595939871.536204 server_client_check_pane_buffer: pane %1 is on
+1595939871.536207 @1 active pane not changed
+1595939871.536209 server_client_check_pane_buffer: pane %2 is on
+1595939871.536211 @2 active pane not changed
+1595939871.536223 /dev/pts/4: wrote 63 bytes (of 63)
+1595939871.536225 cmdq_next <global>: empty
+1595939871.536227 cmdq_next </dev/pts/4>: empty
+1595939871.536230 server_client_reset_state: client /dev/pts/4 mode e5c
+1595939871.536233 server_client_reset_state: cursor to 103,19
+1595939871.536235 server_client_check_pane_buffer: pane %0 is on
+1595939871.536238 @0 active pane changed
+1595939871.536240 @0 name timer already queued (126221 left)
+1595939871.536242 server_client_check_pane_buffer: pane %1 is on
+1595939871.536244 @1 active pane not changed
+1595939871.536246 server_client_check_pane_buffer: pane %2 is on
+1595939871.536248 @2 active pane not changed
+1595939871.536316 %0 has 6 bytes
+1595939871.536322 @0 alerts timer reset 0
+1595939871.536324 @0 alerts flags added 0x2
+1595939871.536327 window_add_ref: @0 alerts_queue, now 2
+1595939871.536329 alerts check queued (by @0)
+1595939871.536333 screen_write_start_pane: size 164x56, pane %0 (at 0,0)
+1595939871.536336 input_parse_buffer: %0 ground, 6 bytes: \033[?25h
+1595939871.536340 input_csi_dispatch: 'h' "?" "25"
+1595939871.536343 parameter 0: number 25
+1595939871.536346 screen_write_collect_flush: flushed 0 items (0 bytes) (screen_write_stop)
+1595939871.536349 screen_write_stop: 0 cells (0 written, 0 skipped)
+1595939871.536353 @0 alerts check, alerts 0x2
+1595939871.536355 window_remove_ref: @0 alerts_callback, now 1
+1595939871.536358 cmdq_next <global>: empty
+1595939871.536361 cmdq_next </dev/pts/4>: empty
+1595939871.536364 server_client_reset_state: client /dev/pts/4 mode e5d
+1595939871.536366 server_client_reset_state: cursor to 103,19
+1595939871.536369 /dev/pts/4: update mode e5c to e5d
+1595939871.536371 /dev/pts/4: \033[?12l\033[?25h
+1595939871.536378 server_client_check_pane_buffer: %0 has 6 minimum (of 6) bytes used
+1595939871.536380 server_client_check_pane_buffer: pane %0 is on
+1595939871.536433 @0 active pane changed
+1595939871.536437 @0 name timer already queued (126024 left)
+1595939871.536440 server_client_check_pane_buffer: pane %1 is on
+1595939871.536443 @1 active pane not changed
+1595939871.536445 server_client_check_pane_buffer: pane %2 is on
+1595939871.536447 @2 active pane not changed
+1595939871.536488 /dev/pts/4: wrote 12 bytes (of 12)
+1595939871.536493 cmdq_next <global>: empty
+1595939871.536495 cmdq_next </dev/pts/4>: empty
+1595939871.536498 server_client_reset_state: client /dev/pts/4 mode e5d
+1595939871.536501 server_client_reset_state: cursor to 103,19
+1595939871.536504 server_client_check_pane_buffer: pane %0 is on
+1595939871.536507 @0 active pane changed
+1595939871.536510 @0 name timer already queued (125951 left)
+1595939871.536512 server_client_check_pane_buffer: pane %1 is on
+1595939871.536514 @1 active pane not changed
+1595939871.536517 server_client_check_pane_buffer: pane %2 is on
+1595939871.536519 @2 active pane not changed
+1595939871.536549 %0 has 6 bytes
+1595939871.536554 @0 alerts timer reset 0
+1595939871.536557 @0 alerts flags added 0x2
+1595939871.536559 window_add_ref: @0 alerts_queue, now 2
+1595939871.536561 alerts check queued (by @0)
+1595939871.536565 screen_write_start_pane: size 164x56, pane %0 (at 0,0)
+1595939871.536568 input_parse_buffer: %0 ground, 6 bytes: \033[?25l
+1595939871.536572 input_csi_dispatch: 'l' "?" "25"
+1595939871.536575 parameter 0: number 25
+1595939871.536578 screen_write_collect_flush: flushed 0 items (0 bytes) (screen_write_stop)
+1595939871.536581 screen_write_stop: 0 cells (0 written, 0 skipped)
+1595939871.536585 @0 alerts check, alerts 0x2
+1595939871.536587 window_remove_ref: @0 alerts_callback, now 1
+1595939871.536590 cmdq_next <global>: empty
+1595939871.536592 cmdq_next </dev/pts/4>: empty
+1595939871.536595 server_client_reset_state: client /dev/pts/4 mode e5c
+1595939871.536598 server_client_reset_state: cursor to 103,19
+1595939871.536600 /dev/pts/4: update mode e5d to e5c
+1595939871.536608 /dev/pts/4: \033[?25l
+1595939871.536613 server_client_check_pane_buffer: %0 has 6 minimum (of 6) bytes used
+1595939871.536615 server_client_check_pane_buffer: pane %0 is on
+1595939871.536618 @0 active pane changed
+1595939871.536620 @0 name timer already queued (125841 left)
+1595939871.536623 server_client_check_pane_buffer: pane %1 is on
+1595939871.536625 @1 active pane not changed
+1595939871.536627 server_client_check_pane_buffer: pane %2 is on
+1595939871.536629 @2 active pane not changed
+1595939871.536667 /dev/pts/4: wrote 6 bytes (of 6)
+1595939871.536672 cmdq_next <global>: empty
+1595939871.536674 cmdq_next </dev/pts/4>: empty
+1595939871.536677 server_client_reset_state: client /dev/pts/4 mode e5c
+1595939871.536680 server_client_reset_state: cursor to 103,19
+1595939871.536683 server_client_check_pane_buffer: pane %0 is on
+1595939871.536685 @0 active pane changed
+1595939871.536688 @0 name timer already queued (125773 left)
+1595939871.536690 server_client_check_pane_buffer: pane %1 is on
+1595939871.536692 @1 active pane not changed
+1595939871.536694 server_client_check_pane_buffer: pane %2 is on
+1595939871.536696 @2 active pane not changed
+1595939871.536715 %0 has 11 bytes
+1595939871.536719 @0 alerts timer reset 0
+1595939871.536721 @0 alerts flags added 0x2
+1595939871.536724 window_add_ref: @0 alerts_queue, now 2
+1595939871.536726 alerts check queued (by @0)
+1595939871.536729 screen_write_start_pane: size 164x56, pane %0 (at 0,0)
+1595939871.536732 input_parse_buffer: %0 ground, 11 bytes: \033]112\a\033[6 q
+1595939871.536736 input_enter_osc
+1595939871.536740 input_end_bel
+1595939871.536744 input_exit_osc: "112" (end BEL)
+1595939871.536750 input_csi_dispatch: 'q' " " "6"
+1595939871.536754 parameter 0: number 6
+1595939871.536760 screen_write_collect_flush: flushed 0 items (0 bytes) (screen_write_stop)
+1595939871.536764 screen_write_stop: 0 cells (0 written, 0 skipped)
+1595939871.536769 @0 alerts check, alerts 0x2
+1595939871.536774 window_remove_ref: @0 alerts_callback, now 1
+1595939871.536777 cmdq_next <global>: empty
+1595939871.536781 cmdq_next </dev/pts/4>: empty
+1595939871.536785 server_client_reset_state: client /dev/pts/4 mode e5c
+1595939871.536789 server_client_reset_state: cursor to 103,19
+1595939871.536794 server_client_check_pane_buffer: %0 has 11 minimum (of 11) bytes used
+1595939871.536798 server_client_check_pane_buffer: pane %0 is on
+1595939871.536802 @0 active pane changed
+1595939871.536806 @0 name timer already queued (125655 left)
+1595939871.536810 server_client_check_pane_buffer: pane %1 is on
+1595939871.536813 @1 active pane not changed
+1595939871.536817 server_client_check_pane_buffer: pane %2 is on
+1595939871.536820 @2 active pane not changed
+1595939871.536846 %0 has 6 bytes
+1595939871.536852 @0 alerts timer reset 0
+1595939871.536854 @0 alerts flags added 0x2
+1595939871.536857 window_add_ref: @0 alerts_queue, now 2
+1595939871.536859 alerts check queued (by @0)
+1595939871.536862 screen_write_start_pane: size 164x56, pane %0 (at 0,0)
+1595939871.536865 input_parse_buffer: %0 ground, 6 bytes: \033[?25h
+1595939871.536869 input_csi_dispatch: 'h' "?" "25"
+1595939871.536871 parameter 0: number 25
+1595939871.536875 screen_write_collect_flush: flushed 0 items (0 bytes) (screen_write_stop)
+1595939871.536877 screen_write_stop: 0 cells (0 written, 0 skipped)
+1595939871.536881 @0 alerts check, alerts 0x2
+1595939871.536883 window_remove_ref: @0 alerts_callback, now 1
+1595939871.536886 cmdq_next <global>: empty
+1595939871.536888 cmdq_next </dev/pts/4>: empty
+1595939871.536891 server_client_reset_state: client /dev/pts/4 mode e5d
+1595939871.536893 server_client_reset_state: cursor to 103,19
+1595939871.536896 /dev/pts/4: update mode e5c to e5d
+1595939871.536899 /dev/pts/4: \033[?12l\033[?25h
+1595939871.536904 server_client_check_pane_buffer: %0 has 6 minimum (of 6) bytes used
+1595939871.536906 server_client_check_pane_buffer: pane %0 is on
+1595939871.536908 @0 active pane changed
+1595939871.536911 @0 name timer already queued (125550 left)
+1595939871.536913 server_client_check_pane_buffer: pane %1 is on
+1595939871.536920 @1 active pane not changed
+1595939871.536922 server_client_check_pane_buffer: pane %2 is on
+1595939871.536924 @2 active pane not changed
+1595939871.536967 /dev/pts/4: wrote 12 bytes (of 12)
+1595939871.536974 cmdq_next <global>: empty
+1595939871.536978 cmdq_next </dev/pts/4>: empty
+1595939871.536983 server_client_reset_state: client /dev/pts/4 mode e5d
+1595939871.536987 server_client_reset_state: cursor to 103,19
+1595939871.536991 server_client_check_pane_buffer: pane %0 is on
+1595939871.536996 @0 active pane changed
+1595939871.536999 @0 name timer already queued (125462 left)
+1595939871.537003 server_client_check_pane_buffer: pane %1 is on
+1595939871.537007 @1 active pane not changed
+1595939871.537010 server_client_check_pane_buffer: pane %2 is on
+1595939871.537013 @2 active pane not changed
+1595939871.537066 %0 has 6 bytes
+1595939871.537073 @0 alerts timer reset 0
+1595939871.537077 @0 alerts flags added 0x2
+1595939871.537081 window_add_ref: @0 alerts_queue, now 2
+1595939871.537084 alerts check queued (by @0)
+1595939871.537089 screen_write_start_pane: size 164x56, pane %0 (at 0,0)
+1595939871.537094 input_parse_buffer: %0 ground, 6 bytes: \033[?25l
+1595939871.537099 input_csi_dispatch: 'l' "?" "25"
+1595939871.537103 parameter 0: number 25
+1595939871.537109 screen_write_collect_flush: flushed 0 items (0 bytes) (screen_write_stop)
+1595939871.537113 screen_write_stop: 0 cells (0 written, 0 skipped)
+1595939871.537118 @0 alerts check, alerts 0x2
+1595939871.537122 window_remove_ref: @0 alerts_callback, now 1
+1595939871.537126 cmdq_next <global>: empty
+1595939871.537130 cmdq_next </dev/pts/4>: empty
+1595939871.537134 server_client_reset_state: client /dev/pts/4 mode e5c
+1595939871.537138 server_client_reset_state: cursor to 103,19
+1595939871.537143 /dev/pts/4: update mode e5d to e5c
+1595939871.537147 /dev/pts/4: \033[?25l
+1595939871.537154 server_client_check_pane_buffer: %0 has 6 minimum (of 6) bytes used
+1595939871.537158 server_client_check_pane_buffer: pane %0 is on
+1595939871.537162 @0 active pane changed
+1595939871.537166 @0 name timer already queued (125296 left)
+1595939871.537169 server_client_check_pane_buffer: pane %1 is on
+1595939871.537172 @1 active pane not changed
+1595939871.537176 server_client_check_pane_buffer: pane %2 is on
+1595939871.537179 @2 active pane not changed
+1595939871.537223 /dev/pts/4: wrote 6 bytes (of 6)
+1595939871.537228 cmdq_next <global>: empty
+1595939871.537231 cmdq_next </dev/pts/4>: empty
+1595939871.537234 server_client_reset_state: client /dev/pts/4 mode e5c
+1595939871.537236 server_client_reset_state: cursor to 103,19
+1595939871.537240 server_client_check_pane_buffer: pane %0 is on
+1595939871.537243 @0 active pane changed
+1595939871.537245 @0 name timer already queued (125216 left)
+1595939871.537247 server_client_check_pane_buffer: pane %1 is on
+1595939871.537259 @1 active pane not changed
+1595939871.537262 server_client_check_pane_buffer: pane %2 is on
+1595939871.537264 @2 active pane not changed
+1595939871.537287 %0 has 129 bytes
+1595939871.537291 @0 alerts timer reset 0
+1595939871.537293 @0 alerts flags added 0x2
+1595939871.537296 window_add_ref: @0 alerts_queue, now 2
+1595939871.537298 alerts check queued (by @0)
+1595939871.537301 screen_write_start_pane: size 164x56, pane %0 (at 0,0)
+1595939871.537307 input_parse_buffer: %0 ground, 129 bytes: \033[22;101H\033(B\033[m\033[38;2;192;197;206m\033[48;2;27;43;52m                \033[21;103H\033(B\033[m\033[38;2;167;173;186m\033[48;2;52;61;70mtdio\033[20;104H
+1595939871.537310 input_csi_dispatch: 'H' "" "22;101"
+1595939871.537313 parameter 0: number 22
+1595939871.537316 parameter 1: number 101
+1595939871.537319 input_esc_dispatch: 'B', (
+1595939871.537321 input_csi_dispatch: 'm' "" ""
+1595939871.537325 input_csi_dispatch: 'm' "" "38;2;192;197;206"
+1595939871.537327 parameter 0: number 38
+1595939871.537329 parameter 1: number 2
+1595939871.537331 parameter 2: number 192
+1595939871.537333 parameter 3: number 197
+1595939871.537335 parameter 4: number 206
+1595939871.537338 input_csi_dispatch: 'm' "" "48;2;27;43;52"
+1595939871.537349 parameter 0: number 48
+1595939871.537351 parameter 1: number 2
+1595939871.537353 parameter 2: number 27
+1595939871.537355 parameter 3: number 43
+1595939871.537357 parameter 4: number 52
+1595939871.537361 screen_write_collect_end: 16                  (at 100,21)
+1595939871.537364 utf8_to_data: 41000020 -> (1 1  )
+1595939871.537367 utf8_from_data: (1 1  ) -> 41000020
+1595939871.537369 utf8_from_data: (1 1  ) -> 41000020
+1595939871.537372 utf8_from_data: (1 1  ) -> 41000020
+1595939871.537374 utf8_from_data: (1 1  ) -> 41000020
+1595939871.537376 utf8_from_data: (1 1  ) -> 41000020
+1595939871.537378 utf8_from_data: (1 1  ) -> 41000020
+1595939871.537381 utf8_from_data: (1 1  ) -> 41000020
+1595939871.537383 utf8_from_data: (1 1  ) -> 41000020
+1595939871.537385 utf8_from_data: (1 1  ) -> 41000020
+1595939871.537387 utf8_from_data: (1 1  ) -> 41000020
+1595939871.537389 utf8_from_data: (1 1  ) -> 41000020
+1595939871.537391 utf8_from_data: (1 1  ) -> 41000020
+1595939871.537393 utf8_from_data: (1 1  ) -> 41000020
+1595939871.537395 utf8_from_data: (1 1  ) -> 41000020
+1595939871.537397 utf8_from_data: (1 1  ) -> 41000020
+1595939871.537399 utf8_from_data: (1 1  ) -> 41000020
+1595939871.537401 utf8_to_data: 41000020 -> (1 1  )
+1595939871.537404 input_csi_dispatch: 'H' "" "21;103"
+1595939871.537406 parameter 0: number 21
+1595939871.537408 parameter 1: number 103
+1595939871.537410 input_esc_dispatch: 'B', (
+1595939871.537413 input_csi_dispatch: 'm' "" ""
+1595939871.537415 input_csi_dispatch: 'm' "" "38;2;167;173;186"
+1595939871.537418 parameter 0: number 38
+1595939871.537419 parameter 1: number 2
+1595939871.537421 parameter 2: number 167
+1595939871.537423 parameter 3: number 173
+1595939871.537425 parameter 4: number 186
+1595939871.537427 input_csi_dispatch: 'm' "" "48;2;52;61;70"
+1595939871.537430 parameter 0: number 48
+1595939871.537431 parameter 1: number 2
+1595939871.537433 parameter 2: number 52
+1595939871.537435 parameter 3: number 61
+1595939871.537437 parameter 4: number 70
+1595939871.537440 screen_write_collect_end: 4 tdio (at 102,20)
+1595939871.537442 utf8_to_data: 41000063 -> (1 1 c)
+1595939871.537444 utf8_from_data: (1 1 t) -> 41000074
+1595939871.537447 utf8_from_data: (1 1 t) -> 41000074
+1595939871.537449 utf8_from_data: (1 1 t) -> 41000074
+1595939871.537451 utf8_from_data: (1 1 t) -> 41000074
+1595939871.537453 utf8_to_data: 41000020 -> (1 1  )
+1595939871.537456 input_csi_dispatch: 'H' "" "20;104"
+1595939871.537458 parameter 0: number 20
+1595939871.537459 parameter 1: number 104
+1595939871.537464 /dev/pts/4: \033[21;103H
+1595939871.537470 /dev/pts/4: \033[38;2;167;173;186m
+1595939871.537473 /dev/pts/4: \033[48;2;52;61;70m
+1595939871.537477 /dev/pts/4: tdio
+1595939871.537480 /dev/pts/4: \033[22;101H
+1595939871.537484 /dev/pts/4: \033[38;2;192;197;206m
+1595939871.537493 /dev/pts/4: \033[48;2;27;43;52m
+1595939871.537496 /dev/pts/4:                 
+1595939871.537501 screen_write_collect_flush: flushed 2 items (20 bytes) (screen_write_stop)
+1595939871.537504 screen_write_stop: 20 cells (20 written, 0 skipped)
+1595939871.537507 @0 alerts check, alerts 0x2
+1595939871.537510 window_remove_ref: @0 alerts_callback, now 1
+1595939871.537512 cmdq_next <global>: empty
+1595939871.537515 cmdq_next </dev/pts/4>: empty
+1595939871.537518 server_client_reset_state: client /dev/pts/4 mode e5c
+1595939871.537520 server_client_reset_state: cursor to 103,19
+1595939871.537523 /dev/pts/4: \033[20;104H
+1595939871.537526 /dev/pts/4: \033(B\033[m
+1595939871.537531 server_client_check_pane_buffer: %0 has 129 minimum (of 129) bytes used
+1595939871.537533 server_client_check_pane_buffer: pane %0 is on
+1595939871.537535 @0 active pane changed
+1595939871.537538 @0 name timer already queued (124923 left)
+1595939871.537540 server_client_check_pane_buffer: pane %1 is on
+1595939871.537542 @1 active pane not changed
+1595939871.537544 server_client_check_pane_buffer: pane %2 is on
+1595939871.537546 @2 active pane not changed
+1595939871.537581 /dev/pts/4: wrote 123 bytes (of 123)
+1595939871.537586 cmdq_next <global>: empty
+1595939871.537601 cmdq_next </dev/pts/4>: empty
+1595939871.537604 server_client_reset_state: client /dev/pts/4 mode e5c
+1595939871.537606 server_client_reset_state: cursor to 103,19
+1595939871.537609 server_client_check_pane_buffer: pane %0 is on
+1595939871.537612 @0 active pane changed
+1595939871.537614 @0 name timer already queued (124846 left)
+1595939871.537617 server_client_check_pane_buffer: pane %1 is on
+1595939871.537619 @1 active pane not changed
+1595939871.537621 server_client_check_pane_buffer: pane %2 is on
+1595939871.537623 @2 active pane not changed
+1595939871.537643 %0 has 6 bytes
+1595939871.537647 @0 alerts timer reset 0
+1595939871.537649 @0 alerts flags added 0x2
+1595939871.537652 window_add_ref: @0 alerts_queue, now 2
+1595939871.537654 alerts check queued (by @0)
+1595939871.537657 screen_write_start_pane: size 164x56, pane %0 (at 0,0)
+1595939871.537660 input_parse_buffer: %0 ground, 6 bytes: \033[?25h
+1595939871.537663 input_csi_dispatch: 'h' "?" "25"
+1595939871.537665 parameter 0: number 25
+1595939871.537668 screen_write_collect_flush: flushed 0 items (0 bytes) (screen_write_stop)
+1595939871.537671 screen_write_stop: 0 cells (0 written, 0 skipped)
+1595939871.537674 @0 alerts check, alerts 0x2
+1595939871.537677 window_remove_ref: @0 alerts_callback, now 1
+1595939871.537680 cmdq_next <global>: empty
+1595939871.537682 cmdq_next </dev/pts/4>: empty
+1595939871.537684 server_client_reset_state: client /dev/pts/4 mode e5d
+1595939871.537686 server_client_reset_state: cursor to 103,19
+1595939871.537689 /dev/pts/4: update mode e5c to e5d
+1595939871.537691 /dev/pts/4: \033[?12l\033[?25h
+1595939871.537696 server_client_check_pane_buffer: %0 has 6 minimum (of 6) bytes used
+1595939871.537699 server_client_check_pane_buffer: pane %0 is on
+1595939871.537701 @0 active pane changed
+1595939871.537703 @0 name timer already queued (124758 left)
+1595939871.537706 server_client_check_pane_buffer: pane %1 is on
+1595939871.537707 @1 active pane not changed
+1595939871.537710 server_client_check_pane_buffer: pane %2 is on
+1595939871.537712 @2 active pane not changed
+1595939871.537742 /dev/pts/4: wrote 12 bytes (of 12)
+1595939871.537746 cmdq_next <global>: empty
+1595939871.537748 cmdq_next </dev/pts/4>: empty
+1595939871.537752 server_client_reset_state: client /dev/pts/4 mode e5d
+1595939871.537754 server_client_reset_state: cursor to 103,19
+1595939871.537757 server_client_check_pane_buffer: pane %0 is on
+1595939871.537760 @0 active pane changed
+1595939871.537762 @0 name timer already queued (124699 left)
+1595939871.537765 server_client_check_pane_buffer: pane %1 is on
+1595939871.537768 @1 active pane not changed
+1595939871.537771 server_client_check_pane_buffer: pane %2 is on
+1595939871.537774 @2 active pane not changed
+1595939871.547897 cmdq_next <global>: empty
+1595939871.547927 cmdq_next </dev/pts/4>: empty
+1595939871.547934 server_client_reset_state: client /dev/pts/4 mode e5d
+1595939871.547938 server_client_reset_state: cursor to 103,19
+1595939871.547948 server_client_check_pane_buffer: pane %0 is on
+1595939871.547954 @0 active pane changed
+1595939871.547957 @0 name timer already queued (114505 left)
+1595939871.547960 server_client_check_pane_buffer: pane %1 is on
+1595939871.547963 @1 active pane not changed
+1595939871.547966 server_client_check_pane_buffer: pane %2 is on
+1595939871.547968 @2 active pane not changed
+1595939871.664154 @0 name timer expired
+1595939871.664187 cmdq_next <global>: empty
+1595939871.664192 cmdq_next </dev/pts/4>: empty
+1595939871.664199 server_client_reset_state: client /dev/pts/4 mode e5d
+1595939871.664204 server_client_reset_state: cursor to 103,19
+1595939871.664213 server_client_check_pane_buffer: pane %0 is on
+1595939871.664219 @0 active pane changed
+1595939871.664299 format_expand1: expanding format: #{?pane_in_mode,[tmux],#{pane_current_command}}#{?pane_dead,[dead],}
+1595939871.664306 format_expand1: found #{}: ?pane_in_mode,[tmux],#{pane_current_command}
+1595939871.664311 format_replace: condition is: pane_in_mode
+1595939871.664321 format_replace: condition 'pane_in_mode' found
+1595939871.664327 format_replace: condition 'pane_in_mode' is false
+1595939871.664358 format_expand1: expanding format: #{pane_current_command}
+1595939871.664363 format_expand1: found #{}: pane_current_command
+1595939871.664435 format_replace: format 'pane_current_command' found: nvim
+1595939871.664441 format_replace: replaced 'pane_current_command' with 'nvim'
+1595939871.664444 format_expand1: result is: nvim
+1595939871.664448 format_replace: replaced '?pane_in_mode,[tmux],#{pane_current_command}' with 'nvim'
+1595939871.664451 format_expand1: found #{}: ?pane_dead,[dead],
+1595939871.664454 format_replace: condition is: pane_dead
+1595939871.664458 format_replace: condition 'pane_dead' found
+1595939871.664461 format_replace: condition 'pane_dead' is false
+1595939871.664464 format_replace: replaced '?pane_dead,[dead],' with ''
+1595939871.664466 format_expand1: result is: nvim
+1595939871.664480 @0 name not changed (still nvim)
+1595939871.664484 server_client_check_pane_buffer: pane %1 is on
+1595939871.664488 @1 active pane not changed
+1595939871.664490 server_client_check_pane_buffer: pane %2 is on
+1595939871.664493 @2 active pane not changed
+1595939871.731269 /dev/pts/4: read 1 bytes (already 0)
+1595939871.731312 /dev/pts/4: keys are 1 (r)
+1595939871.731320 /dev/pts/4: next key is 1 (r) (expired=0)
+1595939871.731332 /dev/pts/4: complete key r 0x72
+1595939871.731346 cmdq_append </dev/pts/4>: [server_client_key_callback/0x56366d482a40]
+1595939871.731354 cmdq_next <global>: empty
+1595939871.731359 cmdq_next </dev/pts/4>: enter
+1595939871.731365 cmdq_next </dev/pts/4>: [server_client_key_callback/0x56366d482a40] (1), flags 0
+1595939871.731372 session $0 0 activity 1595939871.731369 (last 1595939871.523166)
+1595939871.731381 cmd_find_from_client: s=$0 0
+1595939871.731387 cmd_find_from_client: wl=1 1 w=@0 nvim
+1595939871.731391 cmd_find_from_client: wp=%0
+1595939871.731394 cmd_find_from_client: idx=none
+1595939871.731401 session 0 not pasting
+1595939871.731408 key table root (pane %0)
+1595939871.731413 key table root (pane %0)
+1595939871.731417 not found in key table root
+1595939871.731424 writing key 0x72 (r) to %0
+1595939871.731438 unref client 0x56366d41a470 (2 references)
+1595939871.731444 cmdq_next </dev/pts/4>: exit (empty)
+1595939871.731448 cmdq_next <global>: empty
+1595939871.731451 cmdq_next </dev/pts/4>: empty
+1595939871.731458 server_client_reset_state: client /dev/pts/4 mode e5d
+1595939871.731465 server_client_reset_state: cursor to 103,19
+1595939871.731474 server_client_check_pane_buffer: pane %0 is on
+1595939871.731481 @0 active pane not changed
+1595939871.731486 server_client_check_pane_buffer: pane %1 is on
+1595939871.731491 @1 active pane not changed
+1595939871.731495 server_client_check_pane_buffer: pane %2 is on
+1595939871.731500 @2 active pane not changed
+1595939871.732238 cmdq_next <global>: empty
+1595939871.732260 cmdq_next </dev/pts/4>: empty
+1595939871.732268 server_client_reset_state: client /dev/pts/4 mode e5d
+1595939871.732274 server_client_reset_state: cursor to 103,19
+1595939871.732281 server_client_check_pane_buffer: pane %0 is on
+1595939871.732286 @0 active pane not changed
+1595939871.732291 server_client_check_pane_buffer: pane %1 is on
+1595939871.732295 @1 active pane not changed
+1595939871.732299 server_client_check_pane_buffer: pane %2 is on
+1595939871.732303 @2 active pane not changed
+1595939871.740843 %0 has 6 bytes
+1595939871.740880 @0 alerts timer reset 0
+1595939871.740887 @0 alerts flags added 0x2
+1595939871.740894 window_add_ref: @0 alerts_queue, now 2
+1595939871.740898 alerts check queued (by @0)
+1595939871.740907 screen_write_start_pane: size 164x56, pane %0 (at 0,0)
+1595939871.740915 input_parse_buffer: %0 ground, 6 bytes: \033[?25l
+1595939871.740924 input_csi_dispatch: 'l' "?" "25"
+1595939871.740931 parameter 0: number 25
+1595939871.740941 screen_write_collect_flush: flushed 0 items (0 bytes) (screen_write_stop)
+1595939871.740946 screen_write_stop: 0 cells (0 written, 0 skipped)
+1595939871.740957 @0 alerts check, alerts 0x2
+1595939871.740963 window_remove_ref: @0 alerts_callback, now 1
+1595939871.740970 cmdq_next <global>: empty
+1595939871.740995 cmdq_next </dev/pts/4>: empty
+1595939871.741004 server_client_reset_state: client /dev/pts/4 mode e5c
+1595939871.741010 server_client_reset_state: cursor to 103,19
+1595939871.741016 /dev/pts/4: update mode e5d to e5c
+1595939871.741022 /dev/pts/4: \033[?25l
+1595939871.741037 server_client_check_pane_buffer: %0 has 6 minimum (of 6) bytes used
+1595939871.741043 server_client_check_pane_buffer: pane %0 is on
+1595939871.741048 @0 active pane changed
+1595939871.741053 @0 name timer queued (423170 left)
+1595939871.741059 server_client_check_pane_buffer: pane %1 is on
+1595939871.741064 @1 active pane not changed
+1595939871.741069 server_client_check_pane_buffer: pane %2 is on
+1595939871.741073 @2 active pane not changed
+1595939871.741095 /dev/pts/4: wrote 6 bytes (of 6)
+1595939871.741100 cmdq_next <global>: empty
+1595939871.741105 cmdq_next </dev/pts/4>: empty
+1595939871.741110 server_client_reset_state: client /dev/pts/4 mode e5c
+1595939871.741114 server_client_reset_state: cursor to 103,19
+1595939871.741119 server_client_check_pane_buffer: pane %0 is on
+1595939871.741123 @0 active pane changed
+1595939871.741128 @0 name timer already queued (423095 left)
+1595939871.741151 server_client_check_pane_buffer: pane %1 is on
+1595939871.741156 @1 active pane not changed
+1595939871.741160 server_client_check_pane_buffer: pane %2 is on
+1595939871.741163 @2 active pane not changed
+1595939871.741326 %0 has 43 bytes
+1595939871.741336 @0 alerts timer reset 0
+1595939871.741341 @0 alerts flags added 0x2
+1595939871.741346 window_add_ref: @0 alerts_queue, now 2
+1595939871.741350 alerts check queued (by @0)
+1595939871.741356 screen_write_start_pane: size 164x56, pane %0 (at 0,0)
+1595939871.741362 input_parse_buffer: %0 ground, 43 bytes: \033(B\033[m\033[38;2;101;115;126m\033[48;2;52;61;70mr\b
+1595939871.741368 input_esc_dispatch: 'B', (
+1595939871.741375 input_csi_dispatch: 'm' "" ""
+1595939871.741382 input_csi_dispatch: 'm' "" "38;2;101;115;126"
+1595939871.741387 parameter 0: number 38
+1595939871.741391 parameter 1: number 2
+1595939871.741395 parameter 2: number 101
+1595939871.741398 parameter 3: number 115
+1595939871.741401 parameter 4: number 126
+1595939871.741408 input_csi_dispatch: 'm' "" "48;2;52;61;70"
+1595939871.741413 parameter 0: number 48
+1595939871.741416 parameter 1: number 2
+1595939871.741419 parameter 2: number 52
+1595939871.741423 parameter 3: number 61
+1595939871.741426 parameter 4: number 70
+1595939871.741433 screen_write_collect_end: 1 r (at 103,19)
+1595939871.741441 utf8_to_data: 41000020 -> (1 1  )
+1595939871.741446 utf8_from_data: (1 1 r) -> 41000072
+1595939871.741452 utf8_to_data: 41000020 -> (1 1  )
+1595939871.741456 input_c0_dispatch: '\b'
+1595939871.741470 /dev/pts/4: \033[38;2;101;115;126m
+1595939871.741479 /dev/pts/4: \033[48;2;52;61;70m
+1595939871.741485 /dev/pts/4: r
+1595939871.741493 screen_write_collect_flush: flushed 1 items (1 bytes) (screen_write_stop)
+1595939871.741498 screen_write_stop: 1 cells (1 written, 0 skipped)
+1595939871.741504 @0 alerts check, alerts 0x2
+1595939871.741509 window_remove_ref: @0 alerts_callback, now 1
+1595939871.741514 cmdq_next <global>: empty
+1595939871.741518 cmdq_next </dev/pts/4>: empty
+1595939871.741523 server_client_reset_state: client /dev/pts/4 mode e5c
+1595939871.741528 server_client_reset_state: cursor to 103,19
+1595939871.741533 /dev/pts/4: \b
+1595939871.741539 /dev/pts/4: \033(B\033[m
+1595939871.741546 server_client_check_pane_buffer: %0 has 43 minimum (of 43) bytes used
+1595939871.741551 server_client_check_pane_buffer: pane %0 is on
+1595939871.741555 @0 active pane changed
+1595939871.741560 @0 name timer already queued (422663 left)
+1595939871.741564 server_client_check_pane_buffer: pane %1 is on
+1595939871.741568 @1 active pane not changed
+1595939871.741572 server_client_check_pane_buffer: pane %2 is on
+1595939871.741575 @2 active pane not changed
+1595939871.741593 /dev/pts/4: wrote 43 bytes (of 43)
+1595939871.741599 cmdq_next <global>: empty
+1595939871.741603 cmdq_next </dev/pts/4>: empty
+1595939871.741608 server_client_reset_state: client /dev/pts/4 mode e5c
+1595939871.741621 server_client_reset_state: cursor to 103,19
+1595939871.741626 server_client_check_pane_buffer: pane %0 is on
+1595939871.741631 @0 active pane changed
+1595939871.741635 @0 name timer already queued (422588 left)
+1595939871.741639 server_client_check_pane_buffer: pane %1 is on
+1595939871.741642 @1 active pane not changed
+1595939871.741646 server_client_check_pane_buffer: pane %2 is on
+1595939871.741650 @2 active pane not changed
+1595939871.741735 %0 has 6 bytes
+1595939871.741745 @0 alerts timer reset 0
+1595939871.741750 @0 alerts flags added 0x2
+1595939871.741754 window_add_ref: @0 alerts_queue, now 2
+1595939871.741758 alerts check queued (by @0)
+1595939871.741764 screen_write_start_pane: size 164x56, pane %0 (at 0,0)
+1595939871.741769 input_parse_buffer: %0 ground, 6 bytes: \033[?25h
+1595939871.741775 input_csi_dispatch: 'h' "?" "25"
+1595939871.741780 parameter 0: number 25
+1595939871.741788 screen_write_collect_flush: flushed 0 items (0 bytes) (screen_write_stop)
+1595939871.741793 screen_write_stop: 0 cells (0 written, 0 skipped)
+1595939871.741799 @0 alerts check, alerts 0x2
+1595939871.741804 window_remove_ref: @0 alerts_callback, now 1
+1595939871.741808 cmdq_next <global>: empty
+1595939871.741813 cmdq_next </dev/pts/4>: empty
+1595939871.741818 server_client_reset_state: client /dev/pts/4 mode e5d
+1595939871.741822 server_client_reset_state: cursor to 103,19
+1595939871.741827 /dev/pts/4: update mode e5c to e5d
+1595939871.741832 /dev/pts/4: \033[?12l\033[?25h
+1595939871.741840 server_client_check_pane_buffer: %0 has 6 minimum (of 6) bytes used
+1595939871.741845 server_client_check_pane_buffer: pane %0 is on
+1595939871.741850 @0 active pane changed
+1595939871.741854 @0 name timer already queued (422369 left)
+1595939871.741858 server_client_check_pane_buffer: pane %1 is on
+1595939871.741862 @1 active pane not changed
+1595939871.741866 server_client_check_pane_buffer: pane %2 is on
+1595939871.741869 @2 active pane not changed
+1595939871.741885 /dev/pts/4: wrote 12 bytes (of 12)
+1595939871.741890 cmdq_next <global>: empty
+1595939871.741895 cmdq_next </dev/pts/4>: empty
+1595939871.741899 server_client_reset_state: client /dev/pts/4 mode e5d
+1595939871.741904 server_client_reset_state: cursor to 103,19
+1595939871.741909 server_client_check_pane_buffer: pane %0 is on
+1595939871.741913 @0 active pane changed
+1595939871.741918 @0 name timer already queued (422305 left)
+1595939871.741922 server_client_check_pane_buffer: pane %1 is on
+1595939871.741925 @1 active pane not changed
+1595939871.741929 server_client_check_pane_buffer: pane %2 is on
+1595939871.741933 @2 active pane not changed
+1595939871.752042 cmdq_next <global>: empty
+1595939871.752076 cmdq_next </dev/pts/4>: empty
+1595939871.752086 server_client_reset_state: client /dev/pts/4 mode e5d
+1595939871.752094 server_client_reset_state: cursor to 103,19
+1595939871.752104 server_client_check_pane_buffer: pane %0 is on
+1595939871.752113 @0 active pane changed
+1595939871.752118 @0 name timer already queued (412105 left)
+1595939871.752123 server_client_check_pane_buffer: pane %1 is on
+1595939871.752127 @1 active pane not changed
+1595939871.752148 server_client_check_pane_buffer: pane %2 is on
+1595939871.752153 @2 active pane not changed
+1595939871.752244 %0 has 6 bytes
+1595939871.752263 @0 alerts timer reset 0
+1595939871.752268 @0 alerts flags added 0x2
+1595939871.752275 window_add_ref: @0 alerts_queue, now 2
+1595939871.752278 alerts check queued (by @0)
+1595939871.752286 screen_write_start_pane: size 164x56, pane %0 (at 0,0)
+1595939871.752293 input_parse_buffer: %0 ground, 6 bytes: \033[?25l
+1595939871.752302 input_csi_dispatch: 'l' "?" "25"
+1595939871.752309 parameter 0: number 25
+1595939871.752319 screen_write_collect_flush: flushed 0 items (0 bytes) (screen_write_stop)
+1595939871.752325 screen_write_stop: 0 cells (0 written, 0 skipped)
+1595939871.752334 @0 alerts check, alerts 0x2
+1595939871.752340 window_remove_ref: @0 alerts_callback, now 1
+1595939871.752345 cmdq_next <global>: empty
+1595939871.752349 cmdq_next </dev/pts/4>: empty
+1595939871.752372 server_client_reset_state: client /dev/pts/4 mode e5c
+1595939871.752378 server_client_reset_state: cursor to 103,19
+1595939871.752383 /dev/pts/4: update mode e5d to e5c
+1595939871.752388 /dev/pts/4: \033[?25l
+1595939871.752401 server_client_check_pane_buffer: %0 has 6 minimum (of 6) bytes used
+1595939871.752406 server_client_check_pane_buffer: pane %0 is on
+1595939871.752424 @0 active pane changed
+1595939871.752431 @0 name timer already queued (411792 left)
+1595939871.752435 server_client_check_pane_buffer: pane %1 is on
+1595939871.752439 @1 active pane not changed
+1595939871.752443 server_client_check_pane_buffer: pane %2 is on
+1595939871.752446 @2 active pane not changed
+1595939871.752465 /dev/pts/4: wrote 6 bytes (of 6)
+1595939871.752471 cmdq_next <global>: empty
+1595939871.752475 cmdq_next </dev/pts/4>: empty
+1595939871.752481 server_client_reset_state: client /dev/pts/4 mode e5c
+1595939871.752486 server_client_reset_state: cursor to 103,19
+1595939871.752490 server_client_check_pane_buffer: pane %0 is on
+1595939871.752494 @0 active pane changed
+1595939871.752498 @0 name timer already queued (411724 left)
+1595939871.752503 server_client_check_pane_buffer: pane %1 is on
+1595939871.752506 @1 active pane not changed
+1595939871.752510 server_client_check_pane_buffer: pane %2 is on
+1595939871.752513 @2 active pane not changed
+1595939871.753968 %0 has 63 bytes
+1595939871.753981 @0 alerts timer reset 0
+1595939871.753987 @0 alerts flags added 0x2
+1595939871.753992 window_add_ref: @0 alerts_queue, now 2
+1595939871.753995 alerts check queued (by @0)
+1595939871.754003 screen_write_start_pane: size 164x56, pane %0 (at 0,0)
+1595939871.754011 input_parse_buffer: %0 ground, 63 bytes: \033[54;151H\033(B\033[m\033[38;2;255;255;255m\033[48;2;153;199;148m7\033[20;105H
+1595939871.754017 input_csi_dispatch: 'H' "" "54;151"
+1595939871.754021 parameter 0: number 54
+1595939871.754025 parameter 1: number 151
+1595939871.754031 input_esc_dispatch: 'B', (
+1595939871.754036 input_csi_dispatch: 'm' "" ""
+1595939871.754042 input_csi_dispatch: 'm' "" "38;2;255;255;255"
+1595939871.754046 parameter 0: number 38
+1595939871.754049 parameter 1: number 2
+1595939871.754052 parameter 2: number 255
+1595939871.754056 parameter 3: number 255
+1595939871.754059 parameter 4: number 255
+1595939871.754065 input_csi_dispatch: 'm' "" "48;2;153;199;148"
+1595939871.754069 parameter 0: number 48
+1595939871.754072 parameter 1: number 2
+1595939871.754075 parameter 2: number 153
+1595939871.754078 parameter 3: number 199
+1595939871.754081 parameter 4: number 148
+1595939871.754087 screen_write_collect_end: 1 7 (at 150,53)
+1595939871.754094 utf8_to_data: 41000036 -> (1 1 6)
+1595939871.754098 utf8_from_data: (1 1 7) -> 41000037
+1595939871.754102 utf8_to_data: 41000020 -> (1 1  )
+1595939871.754106 input_csi_dispatch: 'H' "" "20;105"
+1595939871.754109 parameter 0: number 20
+1595939871.754112 parameter 1: number 105
+1595939871.754123 /dev/pts/4: \033[54;151H
+1595939871.754147 /dev/pts/4: \033[38;2;255;255;255m
+1595939871.754155 /dev/pts/4: \033[48;2;153;199;148m
+1595939871.754159 /dev/pts/4: 7
+1595939871.754166 screen_write_collect_flush: flushed 1 items (1 bytes) (screen_write_stop)
+1595939871.754170 screen_write_stop: 1 cells (1 written, 0 skipped)
+1595939871.754177 @0 alerts check, alerts 0x2
+1595939871.754181 window_remove_ref: @0 alerts_callback, now 1
+1595939871.754185 cmdq_next <global>: empty
+1595939871.754189 cmdq_next </dev/pts/4>: empty
+1595939871.754194 server_client_reset_state: client /dev/pts/4 mode e5c
+1595939871.754198 server_client_reset_state: cursor to 104,19
+1595939871.754203 /dev/pts/4: \033[20;105H
+1595939871.754209 /dev/pts/4: \033(B\033[m
+1595939871.754217 server_client_check_pane_buffer: %0 has 63 minimum (of 63) bytes used
+1595939871.754222 server_client_check_pane_buffer: pane %0 is on
+1595939871.754226 @0 active pane changed
+1595939871.754231 @0 name timer already queued (409992 left)
+1595939871.754235 server_client_check_pane_buffer: pane %1 is on
+1595939871.754239 @1 active pane not changed
+1595939871.754244 server_client_check_pane_buffer: pane %2 is on
+1595939871.754266 @2 active pane not changed
+1595939871.754287 /dev/pts/4: wrote 63 bytes (of 63)
+1595939871.754294 cmdq_next <global>: empty
+1595939871.754298 cmdq_next </dev/pts/4>: empty
+1595939871.754303 server_client_reset_state: client /dev/pts/4 mode e5c
+1595939871.754307 server_client_reset_state: cursor to 104,19
+1595939871.754312 server_client_check_pane_buffer: pane %0 is on
+1595939871.754317 @0 active pane changed
+1595939871.754321 @0 name timer already queued (409902 left)
+1595939871.754325 server_client_check_pane_buffer: pane %1 is on
+1595939871.754328 @1 active pane not changed
+1595939871.754332 server_client_check_pane_buffer: pane %2 is on
+1595939871.754335 @2 active pane not changed
+1595939871.754434 %0 has 6 bytes
+1595939871.754444 @0 alerts timer reset 0
+1595939871.754448 @0 alerts flags added 0x2
+1595939871.754453 window_add_ref: @0 alerts_queue, now 2
+1595939871.754457 alerts check queued (by @0)
+1595939871.754463 screen_write_start_pane: size 164x56, pane %0 (at 0,0)
+1595939871.754468 input_parse_buffer: %0 ground, 6 bytes: \033[?25h
+1595939871.754474 input_csi_dispatch: 'h' "?" "25"
+1595939871.754479 parameter 0: number 25
+1595939871.754486 screen_write_collect_flush: flushed 0 items (0 bytes) (screen_write_stop)
+1595939871.754490 screen_write_stop: 0 cells (0 written, 0 skipped)
+1595939871.754497 @0 alerts check, alerts 0x2
+1595939871.754502 window_remove_ref: @0 alerts_callback, now 1
+1595939871.754507 cmdq_next <global>: empty
+1595939871.754511 cmdq_next </dev/pts/4>: empty
+1595939871.754516 server_client_reset_state: client /dev/pts/4 mode e5d
+1595939871.754520 server_client_reset_state: cursor to 104,19
+1595939871.754525 /dev/pts/4: update mode e5c to e5d
+1595939871.754530 /dev/pts/4: \033[?12l\033[?25h
+1595939871.754538 server_client_check_pane_buffer: %0 has 6 minimum (of 6) bytes used
+1595939871.754543 server_client_check_pane_buffer: pane %0 is on
+1595939871.754547 @0 active pane changed
+1595939871.754551 @0 name timer already queued (409671 left)
+1595939871.754556 server_client_check_pane_buffer: pane %1 is on
+1595939871.754559 @1 active pane not changed
+1595939871.754563 server_client_check_pane_buffer: pane %2 is on
+1595939871.754567 @2 active pane not changed
+1595939871.754582 /dev/pts/4: wrote 12 bytes (of 12)
+1595939871.754588 cmdq_next <global>: empty
+1595939871.754592 cmdq_next </dev/pts/4>: empty
+1595939871.754596 server_client_reset_state: client /dev/pts/4 mode e5d
+1595939871.754601 server_client_reset_state: cursor to 104,19
+1595939871.754606 server_client_check_pane_buffer: pane %0 is on
+1595939871.754610 @0 active pane changed
+1595939871.754614 @0 name timer already queued (409609 left)
+1595939871.754618 server_client_check_pane_buffer: pane %1 is on
+1595939871.754621 @1 active pane not changed
+1595939871.754625 server_client_check_pane_buffer: pane %2 is on
+1595939871.754648 @2 active pane not changed
+1595939871.762836 cmdq_next <global>: empty
+1595939871.762869 cmdq_next </dev/pts/4>: empty
+1595939871.762879 server_client_reset_state: client /dev/pts/4 mode e5d
+1595939871.762886 server_client_reset_state: cursor to 104,19
+1595939871.762897 server_client_check_pane_buffer: pane %0 is on
+1595939871.762905 @0 active pane changed
+1595939871.762911 @0 name timer already queued (401312 left)
+1595939871.762916 server_client_check_pane_buffer: pane %1 is on
+1595939871.762920 @1 active pane not changed
+1595939871.762925 server_client_check_pane_buffer: pane %2 is on
+1595939871.762930 @2 active pane not changed
+1595939871.765324 %0 has 6 bytes
+1595939871.765346 @0 alerts timer reset 0
+1595939871.765353 @0 alerts flags added 0x2
+1595939871.765361 window_add_ref: @0 alerts_queue, now 2
+1595939871.765366 alerts check queued (by @0)
+1595939871.765374 screen_write_start_pane: size 164x56, pane %0 (at 0,0)
+1595939871.765382 input_parse_buffer: %0 ground, 6 bytes: \033[?25l
+1595939871.765391 input_csi_dispatch: 'l' "?" "25"
+1595939871.765398 parameter 0: number 25
+1595939871.765408 screen_write_collect_flush: flushed 0 items (0 bytes) (screen_write_stop)
+1595939871.765434 screen_write_stop: 0 cells (0 written, 0 skipped)
+1595939871.765446 @0 alerts check, alerts 0x2
+1595939871.765452 window_remove_ref: @0 alerts_callback, now 1
+1595939871.765457 cmdq_next <global>: empty
+1595939871.765463 cmdq_next </dev/pts/4>: empty
+1595939871.765469 server_client_reset_state: client /dev/pts/4 mode e5c
+1595939871.765475 server_client_reset_state: cursor to 104,19
+1595939871.765481 /dev/pts/4: update mode e5d to e5c
+1595939871.765486 /dev/pts/4: \033[?25l
+1595939871.765501 server_client_check_pane_buffer: %0 has 6 minimum (of 6) bytes used
+1595939871.765506 server_client_check_pane_buffer: pane %0 is on
+1595939871.765511 @0 active pane changed
+1595939871.765517 @0 name timer already queued (398706 left)
+1595939871.765521 server_client_check_pane_buffer: pane %1 is on
+1595939871.765525 @1 active pane not changed
+1595939871.765530 server_client_check_pane_buffer: pane %2 is on
+1595939871.765534 @2 active pane not changed
+1595939871.765554 /dev/pts/4: wrote 6 bytes (of 6)
+1595939871.765561 cmdq_next <global>: empty
+1595939871.765565 cmdq_next </dev/pts/4>: empty
+1595939871.765570 server_client_reset_state: client /dev/pts/4 mode e5c
+1595939871.765575 server_client_reset_state: cursor to 104,19
+1595939871.765580 server_client_check_pane_buffer: pane %0 is on
+1595939871.765584 @0 active pane changed
+1595939871.765588 @0 name timer already queued (398634 left)
+1595939871.765592 server_client_check_pane_buffer: pane %1 is on
+1595939871.765596 @1 active pane not changed
+1595939871.765600 server_client_check_pane_buffer: pane %2 is on
+1595939871.765603 @2 active pane not changed
+1595939871.765753 %0 has 190 bytes
+1595939871.765763 @0 alerts timer reset 0
+1595939871.765768 @0 alerts flags added 0x2
+1595939871.765772 window_add_ref: @0 alerts_queue, now 2
+1595939871.765776 alerts check queued (by @0)
+1595939871.765782 screen_write_start_pane: size 164x56, pane %0 (at 0,0)
+1595939871.765792 input_parse_buffer: %0 ground, 190 bytes: \033[21;101H\033(B\033[m\033[38;2;192;197;206m\033[48;2;27;43;52m                \033[54;90H\033(B\033[m\033[38;2;255;255;255m\033[48;2;153;199;148m \033(B\033[m\033[38;2;216;222;233m\033[48;2;52;61;70m test2_std.c[+]      \033[20;105H
+1595939871.765800 input_csi_dispatch: 'H' "" "21;101"
+1595939871.765806 parameter 0: number 21
+1595939871.765810 parameter 1: number 101
+1595939871.765817 input_esc_dispatch: 'B', (
+1595939871.765822 input_csi_dispatch: 'm' "" ""
+1595939871.765829 input_csi_dispatch: 'm' "" "38;2;192;197;206"
+1595939871.765834 parameter 0: number 38
+1595939871.765837 parameter 1: number 2
+1595939871.765840 parameter 2: number 192
+1595939871.765844 parameter 3: number 197
+1595939871.765847 parameter 4: number 206
+1595939871.765853 input_csi_dispatch: 'm' "" "48;2;27;43;52"
+1595939871.765858 parameter 0: number 48
+1595939871.765861 parameter 1: number 2
+1595939871.765864 parameter 2: number 27
+1595939871.765868 parameter 3: number 43
+1595939871.765871 parameter 4: number 52
+1595939871.765878 screen_write_collect_end: 16                  (at 100,20)
+1595939871.765885 utf8_to_data: 41000020 -> (1 1  )
+1595939871.765890 utf8_from_data: (1 1  ) -> 41000020
+1595939871.765895 utf8_from_data: (1 1  ) -> 41000020
+1595939871.765899 utf8_from_data: (1 1  ) -> 41000020
+1595939871.765902 utf8_from_data: (1 1  ) -> 41000020
+1595939871.765906 utf8_from_data: (1 1  ) -> 41000020
+1595939871.765911 utf8_from_data: (1 1  ) -> 41000020
+1595939871.765915 utf8_from_data: (1 1  ) -> 41000020
+1595939871.765919 utf8_from_data: (1 1  ) -> 41000020
+1595939871.765923 utf8_from_data: (1 1  ) -> 41000020
+1595939871.765927 utf8_from_data: (1 1  ) -> 41000020
+1595939871.765931 utf8_from_data: (1 1  ) -> 41000020
+1595939871.765935 utf8_from_data: (1 1  ) -> 41000020
+1595939871.765938 utf8_from_data: (1 1  ) -> 41000020
+1595939871.765943 utf8_from_data: (1 1  ) -> 41000020
+1595939871.765947 utf8_from_data: (1 1  ) -> 41000020
+1595939871.765950 utf8_from_data: (1 1  ) -> 41000020
+1595939871.765955 utf8_to_data: 41000020 -> (1 1  )
+1595939871.765960 input_csi_dispatch: 'H' "" "54;90"
+1595939871.765964 parameter 0: number 54
+1595939871.765975 parameter 1: number 90
+1595939871.765979 input_esc_dispatch: 'B', (
+1595939871.765984 input_csi_dispatch: 'm' "" ""
+1595939871.765989 input_csi_dispatch: 'm' "" "38;2;255;255;255"
+1595939871.765993 parameter 0: number 38
+1595939871.765996 parameter 1: number 2
+1595939871.765999 parameter 2: number 255
+1595939871.766003 parameter 3: number 255
+1595939871.766006 parameter 4: number 255
+1595939871.766011 input_csi_dispatch: 'm' "" "48;2;153;199;148"
+1595939871.766015 parameter 0: number 48
+1595939871.766018 parameter 1: number 2
+1595939871.766021 parameter 2: number 153
+1595939871.766024 parameter 3: number 199
+1595939871.766027 parameter 4: number 148
+1595939871.766032 screen_write_collect_end: 1   (at 89,53)
+1595939871.766037 utf8_to_data: 41000020 -> (1 1  )
+1595939871.766041 utf8_from_data: (1 1  ) -> 41000020
+1595939871.766045 utf8_to_data: 41000043 -> (1 1 C)
+1595939871.766049 input_esc_dispatch: 'B', (
+1595939871.766053 input_csi_dispatch: 'm' "" ""
+1595939871.766058 input_csi_dispatch: 'm' "" "38;2;216;222;233"
+1595939871.766062 parameter 0: number 38
+1595939871.766066 parameter 1: number 2
+1595939871.766069 parameter 2: number 216
+1595939871.766072 parameter 3: number 222
+1595939871.766075 parameter 4: number 233
+1595939871.766080 input_csi_dispatch: 'm' "" "48;2;52;61;70"
+1595939871.766085 parameter 0: number 48
+1595939871.766088 parameter 1: number 2
+1595939871.766091 parameter 2: number 52
+1595939871.766095 parameter 3: number 61
+1595939871.766098 parameter 4: number 70
+1595939871.766104 screen_write_collect_end: 21  test2_std.c[+]       (at 90,53)
+1595939871.766109 utf8_to_data: 41000043 -> (1 1 C)
+1595939871.766113 utf8_from_data: (1 1  ) -> 41000020
+1595939871.766117 utf8_from_data: (1 1  ) -> 41000020
+1595939871.766121 utf8_from_data: (1 1  ) -> 41000020
+1595939871.766125 utf8_from_data: (1 1  ) -> 41000020
+1595939871.766143 utf8_from_data: (1 1  ) -> 41000020
+1595939871.766150 utf8_from_data: (1 1  ) -> 41000020
+1595939871.766154 utf8_from_data: (1 1  ) -> 41000020
+1595939871.766158 utf8_from_data: (1 1  ) -> 41000020
+1595939871.766162 utf8_from_data: (1 1  ) -> 41000020
+1595939871.766166 utf8_from_data: (1 1  ) -> 41000020
+1595939871.766170 utf8_from_data: (1 1  ) -> 41000020
+1595939871.766174 utf8_from_data: (1 1  ) -> 41000020
+1595939871.766178 utf8_from_data: (1 1  ) -> 41000020
+1595939871.766182 utf8_from_data: (1 1  ) -> 41000020
+1595939871.766185 utf8_from_data: (1 1  ) -> 41000020
+1595939871.766189 utf8_from_data: (1 1  ) -> 41000020
+1595939871.766193 utf8_from_data: (1 1  ) -> 41000020
+1595939871.766197 utf8_from_data: (1 1  ) -> 41000020
+1595939871.766201 utf8_from_data: (1 1  ) -> 41000020
+1595939871.766204 utf8_from_data: (1 1  ) -> 41000020
+1595939871.766208 utf8_from_data: (1 1  ) -> 41000020
+1595939871.766212 utf8_to_data: 41000020 -> (1 1  )
+1595939871.766218 input_csi_dispatch: 'H' "" "20;105"
+1595939871.766222 parameter 0: number 20
+1595939871.766225 parameter 1: number 105
+1595939871.766237 /dev/pts/4: \033[21;101H
+1595939871.766256 /dev/pts/4: \033[38;2;192;197;206m
+1595939871.766266 /dev/pts/4: \033[48;2;27;43;52m
+1595939871.766271 /dev/pts/4:                 
+1595939871.766278 /dev/pts/4: \033[54;90H
+1595939871.766285 /dev/pts/4: \033[38;2;255;255;255m
+1595939871.766292 /dev/pts/4: \033[48;2;153;199;148m
+1595939871.766297 /dev/pts/4:  
+1595939871.766304 /dev/pts/4: \033[38;2;216;222;233m
+1595939871.766310 /dev/pts/4: \033[48;2;52;61;70m
+1595939871.766316 /dev/pts/4:  test2_std.c[+]      
+1595939871.766323 screen_write_collect_flush: flushed 3 items (38 bytes) (screen_write_stop)
+1595939871.766329 screen_write_stop: 38 cells (38 written, 0 skipped)
+1595939871.766336 @0 alerts check, alerts 0x2
+1595939871.766341 window_remove_ref: @0 alerts_callback, now 1
+1595939871.766346 cmdq_next <global>: empty
+1595939871.766350 cmdq_next </dev/pts/4>: empty
+1595939871.766356 server_client_reset_state: client /dev/pts/4 mode e5c
+1595939871.766361 server_client_reset_state: cursor to 104,19
+1595939871.766366 /dev/pts/4: \033[20;105H
+1595939871.766372 /dev/pts/4: \033(B\033[m
+1595939871.766387 server_client_check_pane_buffer: %0 has 190 minimum (of 190) bytes used
+1595939871.766392 server_client_check_pane_buffer: pane %0 is on
+1595939871.766397 @0 active pane changed
+1595939871.766401 @0 name timer already queued (397822 left)
+1595939871.766405 server_client_check_pane_buffer: pane %1 is on
+1595939871.766409 @1 active pane not changed
+1595939871.766413 server_client_check_pane_buffer: pane %2 is on
+1595939871.766417 @2 active pane not changed
+1595939871.766435 /dev/pts/4: wrote 178 bytes (of 178)
+1595939871.766441 cmdq_next <global>: empty
+1595939871.766445 cmdq_next </dev/pts/4>: empty
+1595939871.766450 server_client_reset_state: client /dev/pts/4 mode e5c
+1595939871.766454 server_client_reset_state: cursor to 104,19
+1595939871.766459 server_client_check_pane_buffer: pane %0 is on
+1595939871.766463 @0 active pane changed
+1595939871.766467 @0 name timer already queued (397755 left)
+1595939871.766472 server_client_check_pane_buffer: pane %1 is on
+1595939871.766475 @1 active pane not changed
+1595939871.766479 server_client_check_pane_buffer: pane %2 is on
+1595939871.766483 @2 active pane not changed
+1595939871.766573 %0 has 6 bytes
+1595939871.766583 @0 alerts timer reset 0
+1595939871.766587 @0 alerts flags added 0x2
+1595939871.766592 window_add_ref: @0 alerts_queue, now 2
+1595939871.766596 alerts check queued (by @0)
+1595939871.766602 screen_write_start_pane: size 164x56, pane %0 (at 0,0)
+1595939871.766607 input_parse_buffer: %0 ground, 6 bytes: \033[?25h
+1595939871.766613 input_csi_dispatch: 'h' "?" "25"
+1595939871.766618 parameter 0: number 25
+1595939871.766624 screen_write_collect_flush: flushed 0 items (0 bytes) (screen_write_stop)
+1595939871.766653 screen_write_stop: 0 cells (0 written, 0 skipped)
+1595939871.766664 @0 alerts check, alerts 0x2
+1595939871.766669 window_remove_ref: @0 alerts_callback, now 1
+1595939871.766674 cmdq_next <global>: empty
+1595939871.766678 cmdq_next </dev/pts/4>: empty
+1595939871.766683 server_client_reset_state: client /dev/pts/4 mode e5d
+1595939871.766688 server_client_reset_state: cursor to 104,19
+1595939871.766692 /dev/pts/4: update mode e5c to e5d
+1595939871.766697 /dev/pts/4: \033[?12l\033[?25h
+1595939871.766707 server_client_check_pane_buffer: %0 has 6 minimum (of 6) bytes used
+1595939871.766712 server_client_check_pane_buffer: pane %0 is on
+1595939871.766716 @0 active pane changed
+1595939871.766720 @0 name timer already queued (397502 left)
+1595939871.766724 server_client_check_pane_buffer: pane %1 is on
+1595939871.766729 @1 active pane not changed
+1595939871.766733 server_client_check_pane_buffer: pane %2 is on
+1595939871.766736 @2 active pane not changed
+1595939871.766802 /dev/pts/4: wrote 12 bytes (of 12)
+1595939871.766811 cmdq_next <global>: empty
+1595939871.766815 cmdq_next </dev/pts/4>: empty
+1595939871.766820 server_client_reset_state: client /dev/pts/4 mode e5d
+1595939871.766825 server_client_reset_state: cursor to 104,19
+1595939871.766831 server_client_check_pane_buffer: pane %0 is on
+1595939871.766835 @0 active pane changed
+1595939871.766839 @0 name timer already queued (397383 left)
+1595939871.766843 server_client_check_pane_buffer: pane %1 is on
+1595939871.766847 @1 active pane not changed
+1595939871.766851 server_client_check_pane_buffer: pane %2 is on
+1595939871.766854 @2 active pane not changed
+1595939871.775085 cmdq_next <global>: empty
+1595939871.775130 cmdq_next </dev/pts/4>: empty
+1595939871.775154 server_client_reset_state: client /dev/pts/4 mode e5d
+1595939871.775161 server_client_reset_state: cursor to 104,19
+1595939871.775175 server_client_check_pane_buffer: pane %0 is on
+1595939871.775183 @0 active pane changed
+1595939871.775188 @0 name timer already queued (389035 left)
+1595939871.775193 server_client_check_pane_buffer: pane %1 is on
+1595939871.775198 @1 active pane not changed
+1595939871.775203 server_client_check_pane_buffer: pane %2 is on
+1595939871.775207 @2 active pane not changed
+1595939871.871207 /dev/pts/4: read 1 bytes (already 0)
+1595939871.871235 /dev/pts/4: keys are 1 (i)
+1595939871.871259 /dev/pts/4: next key is 1 (i) (expired=0)
+1595939871.871287 /dev/pts/4: complete key i 0x69
+1595939871.871300 cmdq_append </dev/pts/4>: [server_client_key_callback/0x56366d4ac450]
+1595939871.871305 cmdq_next <global>: empty
+1595939871.871308 cmdq_next </dev/pts/4>: enter
+1595939871.871312 cmdq_next </dev/pts/4>: [server_client_key_callback/0x56366d4ac450] (1), flags 0
+1595939871.871316 session $0 0 activity 1595939871.871314 (last 1595939871.731369)
+1595939871.871322 cmd_find_from_client: s=$0 0
+1595939871.871325 cmd_find_from_client: wl=1 1 w=@0 nvim
+1595939871.871328 cmd_find_from_client: wp=%0
+1595939871.871330 cmd_find_from_client: idx=none
+1595939871.871335 session 0 not pasting
+1595939871.871339 key table root (pane %0)
+1595939871.871343 key table root (pane %0)
+1595939871.871346 not found in key table root
+1595939871.871354 writing key 0x69 (i) to %0
+1595939871.871366 unref client 0x56366d41a470 (2 references)
+1595939871.871371 cmdq_next </dev/pts/4>: exit (empty)
+1595939871.871374 cmdq_next <global>: empty
+1595939871.871377 cmdq_next </dev/pts/4>: empty
+1595939871.871385 server_client_reset_state: client /dev/pts/4 mode e5d
+1595939871.871390 server_client_reset_state: cursor to 104,19
+1595939871.871399 server_client_check_pane_buffer: pane %0 is on
+1595939871.871405 @0 active pane changed
+1595939871.871410 @0 name timer already queued (292813 left)
+1595939871.871414 server_client_check_pane_buffer: pane %1 is on
+1595939871.871418 @1 active pane not changed
+1595939871.871423 server_client_check_pane_buffer: pane %2 is on
+1595939871.871427 @2 active pane not changed
+1595939871.871464 cmdq_next <global>: empty
+1595939871.871470 cmdq_next </dev/pts/4>: empty
+1595939871.871474 server_client_reset_state: client /dev/pts/4 mode e5d
+1595939871.871479 server_client_reset_state: cursor to 104,19
+1595939871.871483 server_client_check_pane_buffer: pane %0 is on
+1595939871.871486 @0 active pane changed
+1595939871.871488 @0 name timer already queued (292734 left)
+1595939871.871491 server_client_check_pane_buffer: pane %1 is on
+1595939871.871493 @1 active pane not changed
+1595939871.871495 server_client_check_pane_buffer: pane %2 is on
+1595939871.871497 @2 active pane not changed
+1595939871.886550 %0 has 6 bytes
+1595939871.886581 @0 alerts timer reset 0
+1595939871.886585 @0 alerts flags added 0x2
+1595939871.886590 window_add_ref: @0 alerts_queue, now 2
+1595939871.886592 alerts check queued (by @0)
+1595939871.886599 screen_write_start_pane: size 164x56, pane %0 (at 0,0)
+1595939871.886603 input_parse_buffer: %0 ground, 6 bytes: \033[?25l
+1595939871.886609 input_csi_dispatch: 'l' "?" "25"
+1595939871.886614 parameter 0: number 25
+1595939871.886621 screen_write_collect_flush: flushed 0 items (0 bytes) (screen_write_stop)
+1595939871.886624 screen_write_stop: 0 cells (0 written, 0 skipped)
+1595939871.886656 @0 alerts check, alerts 0x2
+1595939871.886661 window_remove_ref: @0 alerts_callback, now 1
+1595939871.886666 cmdq_next <global>: empty
+1595939871.886670 cmdq_next </dev/pts/4>: empty
+1595939871.886677 server_client_reset_state: client /dev/pts/4 mode e5c
+1595939871.886681 server_client_reset_state: cursor to 104,19
+1595939871.886685 /dev/pts/4: update mode e5d to e5c
+1595939871.886689 /dev/pts/4: \033[?25l
+1595939871.886700 server_client_check_pane_buffer: %0 has 6 minimum (of 6) bytes used
+1595939871.886704 server_client_check_pane_buffer: pane %0 is on
+1595939871.886708 @0 active pane changed
+1595939871.886711 @0 name timer already queued (277512 left)
+1595939871.886714 server_client_check_pane_buffer: pane %1 is on
+1595939871.886717 @1 active pane not changed
+1595939871.886720 server_client_check_pane_buffer: pane %2 is on
+1595939871.886722 @2 active pane not changed
+1595939871.886737 /dev/pts/4: wrote 6 bytes (of 6)
+1595939871.886740 cmdq_next <global>: empty
+1595939871.886743 cmdq_next </dev/pts/4>: empty
+1595939871.886746 server_client_reset_state: client /dev/pts/4 mode e5c
+1595939871.886748 server_client_reset_state: cursor to 104,19
+1595939871.886752 server_client_check_pane_buffer: pane %0 is on
+1595939871.886754 @0 active pane changed
+1595939871.886769 @0 name timer already queued (277453 left)
+1595939871.886772 server_client_check_pane_buffer: pane %1 is on
+1595939871.886774 @1 active pane not changed
+1595939871.886776 server_client_check_pane_buffer: pane %2 is on
+1595939871.886778 @2 active pane not changed
+1595939871.886923 %0 has 105 bytes
+1595939871.886930 @0 alerts timer reset 0
+1595939871.886933 @0 alerts flags added 0x2
+1595939871.886936 window_add_ref: @0 alerts_queue, now 2
+1595939871.886938 alerts check queued (by @0)
+1595939871.886942 screen_write_start_pane: size 164x56, pane %0 (at 0,0)
+1595939871.886948 input_parse_buffer: %0 ground, 105 bytes: \033(B\033[m\033[38;2;101;115;126m\033[48;2;52;61;70mi\033[54;151H\033(B\033[m\033[38;2;255;255;255m\033[48;2;153;199;148m8\033[20;106H
+1595939871.886951 input_esc_dispatch: 'B', (
+1595939871.886955 input_csi_dispatch: 'm' "" ""
+1595939871.886959 input_csi_dispatch: 'm' "" "38;2;101;115;126"
+1595939871.886962 parameter 0: number 38
+1595939871.886965 parameter 1: number 2
+1595939871.886966 parameter 2: number 101
+1595939871.886968 parameter 3: number 115
+1595939871.886970 parameter 4: number 126
+1595939871.886974 input_csi_dispatch: 'm' "" "48;2;52;61;70"
+1595939871.886977 parameter 0: number 48
+1595939871.886979 parameter 1: number 2
+1595939871.886981 parameter 2: number 52
+1595939871.886983 parameter 3: number 61
+1595939871.886985 parameter 4: number 70
+1595939871.886988 screen_write_collect_end: 1 i (at 104,19)
+1595939871.886992 utf8_to_data: 41000020 -> (1 1  )
+1595939871.886996 utf8_from_data: (1 1 i) -> 41000069
+1595939871.886999 utf8_to_data: 41000020 -> (1 1  )
+1595939871.887002 input_csi_dispatch: 'H' "" "54;151"
+1595939871.887004 parameter 0: number 54
+1595939871.887006 parameter 1: number 151
+1595939871.887009 input_esc_dispatch: 'B', (
+1595939871.887011 input_csi_dispatch: 'm' "" ""
+1595939871.887014 input_csi_dispatch: 'm' "" "38;2;255;255;255"
+1595939871.887017 parameter 0: number 38
+1595939871.887019 parameter 1: number 2
+1595939871.887021 parameter 2: number 255
+1595939871.887023 parameter 3: number 255
+1595939871.887024 parameter 4: number 255
+1595939871.887027 input_csi_dispatch: 'm' "" "48;2;153;199;148"
+1595939871.887029 parameter 0: number 48
+1595939871.887031 parameter 1: number 2
+1595939871.887033 parameter 2: number 153
+1595939871.887035 parameter 3: number 199
+1595939871.887037 parameter 4: number 148
+1595939871.887039 screen_write_collect_end: 1 8 (at 150,53)
+1595939871.887042 utf8_to_data: 41000037 -> (1 1 7)
+1595939871.887045 utf8_from_data: (1 1 8) -> 41000038
+1595939871.887047 utf8_to_data: 41000020 -> (1 1  )
+1595939871.887049 input_csi_dispatch: 'H' "" "20;106"
+1595939871.887051 parameter 0: number 20
+1595939871.887053 parameter 1: number 106
+1595939871.887064 /dev/pts/4: \033[38;2;101;115;126m
+1595939871.887069 /dev/pts/4: \033[48;2;52;61;70m
+1595939871.887073 /dev/pts/4: i
+1595939871.887077 /dev/pts/4: \033[54;151H
+1595939871.887081 /dev/pts/4: \033[38;2;255;255;255m
+1595939871.887085 /dev/pts/4: \033[48;2;153;199;148m
+1595939871.887088 /dev/pts/4: 8
+1595939871.887092 screen_write_collect_flush: flushed 2 items (2 bytes) (screen_write_stop)
+1595939871.887095 screen_write_stop: 2 cells (2 written, 0 skipped)
+1595939871.887099 @0 alerts check, alerts 0x2
+1595939871.887101 window_remove_ref: @0 alerts_callback, now 1
+1595939871.887104 cmdq_next <global>: empty
+1595939871.887107 cmdq_next </dev/pts/4>: empty
+1595939871.887110 server_client_reset_state: client /dev/pts/4 mode e5c
+1595939871.887112 server_client_reset_state: cursor to 105,19
+1595939871.887115 /dev/pts/4: \033[20;106H
+1595939871.887118 /dev/pts/4: \033(B\033[m
+1595939871.887123 server_client_check_pane_buffer: %0 has 105 minimum (of 105) bytes used
+1595939871.887125 server_client_check_pane_buffer: pane %0 is on
+1595939871.887128 @0 active pane changed
+1595939871.887131 @0 name timer already queued (277092 left)
+1595939871.887133 server_client_check_pane_buffer: pane %1 is on
+1595939871.887135 @1 active pane not changed
+1595939871.887138 server_client_check_pane_buffer: pane %2 is on
+1595939871.887140 @2 active pane not changed
+1595939871.887157 /dev/pts/4: wrote 99 bytes (of 99)
+1595939871.887160 cmdq_next <global>: empty
+1595939871.887162 cmdq_next </dev/pts/4>: empty
+1595939871.887165 server_client_reset_state: client /dev/pts/4 mode e5c
+1595939871.887167 server_client_reset_state: cursor to 105,19
+1595939871.887170 server_client_check_pane_buffer: pane %0 is on
+1595939871.887172 @0 active pane changed
+1595939871.887174 @0 name timer already queued (277047 left)
+1595939871.887176 server_client_check_pane_buffer: pane %1 is on
+1595939871.887178 @1 active pane not changed
+1595939871.887180 server_client_check_pane_buffer: pane %2 is on
+1595939871.887182 @2 active pane not changed
+1595939871.887263 %0 has 6 bytes
+1595939871.887271 @0 alerts timer reset 0
+1595939871.887273 @0 alerts flags added 0x2
+1595939871.887276 window_add_ref: @0 alerts_queue, now 2
+1595939871.887278 alerts check queued (by @0)
+1595939871.887282 screen_write_start_pane: size 164x56, pane %0 (at 0,0)
+1595939871.887285 input_parse_buffer: %0 ground, 6 bytes: \033[?25h
+1595939871.887288 input_csi_dispatch: 'h' "?" "25"
+1595939871.887290 parameter 0: number 25
+1595939871.887294 screen_write_collect_flush: flushed 0 items (0 bytes) (screen_write_stop)
+1595939871.887297 screen_write_stop: 0 cells (0 written, 0 skipped)
+1595939871.887301 @0 alerts check, alerts 0x2
+1595939871.887304 window_remove_ref: @0 alerts_callback, now 1
+1595939871.887306 cmdq_next <global>: empty
+1595939871.887309 cmdq_next </dev/pts/4>: empty
+1595939871.887311 server_client_reset_state: client /dev/pts/4 mode e5d
+1595939871.887314 server_client_reset_state: cursor to 105,19
+1595939871.887317 /dev/pts/4: update mode e5c to e5d
+1595939871.887319 /dev/pts/4: \033[?12l\033[?25h
+1595939871.887325 server_client_check_pane_buffer: %0 has 6 minimum (of 6) bytes used
+1595939871.887327 server_client_check_pane_buffer: pane %0 is on
+1595939871.887330 @0 active pane changed
+1595939871.887332 @0 name timer already queued (276890 left)
+1595939871.887334 server_client_check_pane_buffer: pane %1 is on
+1595939871.887336 @1 active pane not changed
+1595939871.887339 server_client_check_pane_buffer: pane %2 is on
+1595939871.887341 @2 active pane not changed
+1595939871.887351 /dev/pts/4: wrote 12 bytes (of 12)
+1595939871.887353 cmdq_next <global>: empty
+1595939871.887356 cmdq_next </dev/pts/4>: empty
+1595939871.887358 server_client_reset_state: client /dev/pts/4 mode e5d
+1595939871.887360 server_client_reset_state: cursor to 105,19
+1595939871.887363 server_client_check_pane_buffer: pane %0 is on
+1595939871.887365 @0 active pane changed
+1595939871.887368 @0 name timer already queued (276854 left)
+1595939871.887370 server_client_check_pane_buffer: pane %1 is on
+1595939871.887372 @1 active pane not changed
+1595939871.887374 server_client_check_pane_buffer: pane %2 is on
+1595939871.887376 @2 active pane not changed
+1595939871.897545 cmdq_next <global>: empty
+1595939871.897577 cmdq_next </dev/pts/4>: empty
+1595939871.897584 server_client_reset_state: client /dev/pts/4 mode e5d
+1595939871.897589 server_client_reset_state: cursor to 105,19
+1595939871.897599 server_client_check_pane_buffer: pane %0 is on
+1595939871.897605 @0 active pane changed
+1595939871.897608 @0 name timer already queued (266614 left)
+1595939871.897612 server_client_check_pane_buffer: pane %1 is on
+1595939871.897615 @1 active pane not changed
+1595939871.897619 server_client_check_pane_buffer: pane %2 is on
+1595939871.897622 @2 active pane not changed
+1595939872.023365 /dev/pts/4: read 1 bytes (already 0)
+1595939872.023401 /dev/pts/4: keys are 1 (n)
+1595939872.023409 /dev/pts/4: next key is 1 (n) (expired=0)
+1595939872.023415 /dev/pts/4: complete key n 0x6e
+1595939872.023428 cmdq_append </dev/pts/4>: [server_client_key_callback/0x56366d35c040]
+1595939872.023435 cmdq_next <global>: empty
+1595939872.023440 cmdq_next </dev/pts/4>: enter
+1595939872.023446 cmdq_next </dev/pts/4>: [server_client_key_callback/0x56366d35c040] (1), flags 0
+1595939872.023452 session $0 0 activity 1595939872.023449 (last 1595939871.871314)
+1595939872.023460 cmd_find_from_client: s=$0 0
+1595939872.023486 cmd_find_from_client: wl=1 1 w=@0 nvim
+1595939872.023490 cmd_find_from_client: wp=%0
+1595939872.023494 cmd_find_from_client: idx=none
+1595939872.023500 session 0 not pasting
+1595939872.023506 key table root (pane %0)
+1595939872.023511 key table root (pane %0)
+1595939872.023514 not found in key table root
+1595939872.023522 writing key 0x6e (n) to %0
+1595939872.023533 unref client 0x56366d41a470 (2 references)
+1595939872.023539 cmdq_next </dev/pts/4>: exit (empty)
+1595939872.023542 cmdq_next <global>: empty
+1595939872.023546 cmdq_next </dev/pts/4>: empty
+1595939872.023552 server_client_reset_state: client /dev/pts/4 mode e5d
+1595939872.023558 server_client_reset_state: cursor to 105,19
+1595939872.023566 server_client_check_pane_buffer: pane %0 is on
+1595939872.023572 @0 active pane changed
+1595939872.023577 @0 name timer already queued (140646 left)
+1595939872.023581 server_client_check_pane_buffer: pane %1 is on
+1595939872.023585 @1 active pane not changed
+1595939872.023590 server_client_check_pane_buffer: pane %2 is on
+1595939872.023592 @2 active pane not changed
+1595939872.023612 cmdq_next <global>: empty
+1595939872.023615 cmdq_next </dev/pts/4>: empty
+1595939872.023618 server_client_reset_state: client /dev/pts/4 mode e5d
+1595939872.023621 server_client_reset_state: cursor to 105,19
+1595939872.023624 server_client_check_pane_buffer: pane %0 is on
+1595939872.023626 @0 active pane changed
+1595939872.023628 @0 name timer already queued (140594 left)
+1595939872.023631 server_client_check_pane_buffer: pane %1 is on
+1595939872.023633 @1 active pane not changed
+1595939872.023635 server_client_check_pane_buffer: pane %2 is on
+1595939872.023637 @2 active pane not changed
+1595939872.046717 %0 has 6 bytes
+1595939872.046748 @0 alerts timer reset 0
+1595939872.046752 @0 alerts flags added 0x2
+1595939872.046756 window_add_ref: @0 alerts_queue, now 2
+1595939872.046759 alerts check queued (by @0)
+1595939872.046765 screen_write_start_pane: size 164x56, pane %0 (at 0,0)
+1595939872.046769 input_parse_buffer: %0 ground, 6 bytes: \033[?25l
+1595939872.046776 input_csi_dispatch: 'l' "?" "25"
+1595939872.046780 parameter 0: number 25
+1595939872.046787 screen_write_collect_flush: flushed 0 items (0 bytes) (screen_write_stop)
+1595939872.046790 screen_write_stop: 0 cells (0 written, 0 skipped)
+1595939872.046801 @0 alerts check, alerts 0x2
+1595939872.046806 window_remove_ref: @0 alerts_callback, now 1
+1595939872.046812 cmdq_next <global>: empty
+1595939872.046817 cmdq_next </dev/pts/4>: empty
+1595939872.046825 server_client_reset_state: client /dev/pts/4 mode e5c
+1595939872.046831 server_client_reset_state: cursor to 105,19
+1595939872.046836 /dev/pts/4: update mode e5d to e5c
+1595939872.046841 /dev/pts/4: \033[?25l
+1595939872.046857 server_client_check_pane_buffer: %0 has 6 minimum (of 6) bytes used
+1595939872.046863 server_client_check_pane_buffer: pane %0 is on
+1595939872.046868 @0 active pane changed
+1595939872.046873 @0 name timer already queued (117350 left)
+1595939872.046877 server_client_check_pane_buffer: pane %1 is on
+1595939872.046881 @1 active pane not changed
+1595939872.046886 server_client_check_pane_buffer: pane %2 is on
+1595939872.046890 @2 active pane not changed
+1595939872.046910 /dev/pts/4: wrote 6 bytes (of 6)
+1595939872.046915 cmdq_next <global>: empty
+1595939872.046919 cmdq_next </dev/pts/4>: empty
+1595939872.046922 server_client_reset_state: client /dev/pts/4 mode e5c
+1595939872.046925 server_client_reset_state: cursor to 105,19
+1595939872.046928 server_client_check_pane_buffer: pane %0 is on
+1595939872.046931 @0 active pane changed
+1595939872.046933 @0 name timer already queued (117289 left)
+1595939872.046936 server_client_check_pane_buffer: pane %1 is on
+1595939872.046938 @1 active pane not changed
+1595939872.046940 server_client_check_pane_buffer: pane %2 is on
+1595939872.046942 @2 active pane not changed
+1595939872.047051 %0 has 105 bytes
+1595939872.047057 @0 alerts timer reset 0
+1595939872.047060 @0 alerts flags added 0x2
+1595939872.047063 window_add_ref: @0 alerts_queue, now 2
+1595939872.047077 alerts check queued (by @0)
+1595939872.047081 screen_write_start_pane: size 164x56, pane %0 (at 0,0)
+1595939872.047087 input_parse_buffer: %0 ground, 105 bytes: \033(B\033[m\033[38;2;101;115;126m\033[48;2;52;61;70mn\033[54;151H\033(B\033[m\033[38;2;255;255;255m\033[48;2;153;199;148m9\033[20;107H
+1595939872.047091 input_esc_dispatch: 'B', (
+1595939872.047094 input_csi_dispatch: 'm' "" ""
+1595939872.047098 input_csi_dispatch: 'm' "" "38;2;101;115;126"
+1595939872.047101 parameter 0: number 38
+1595939872.047104 parameter 1: number 2
+1595939872.047105 parameter 2: number 101
+1595939872.047107 parameter 3: number 115
+1595939872.047109 parameter 4: number 126
+1595939872.047113 input_csi_dispatch: 'm' "" "48;2;52;61;70"
+1595939872.047116 parameter 0: number 48
+1595939872.047118 parameter 1: number 2
+1595939872.047120 parameter 2: number 52
+1595939872.047121 parameter 3: number 61
+1595939872.047123 parameter 4: number 70
+1595939872.047127 screen_write_collect_end: 1 n (at 105,19)
+1595939872.047131 utf8_to_data: 41000020 -> (1 1  )
+1595939872.047134 utf8_from_data: (1 1 n) -> 4100006e
+1595939872.047138 utf8_to_data: 41000020 -> (1 1  )
+1595939872.047140 input_csi_dispatch: 'H' "" "54;151"
+1595939872.047143 parameter 0: number 54
+1595939872.047144 parameter 1: number 151
+1595939872.047147 input_esc_dispatch: 'B', (
+1595939872.047150 input_csi_dispatch: 'm' "" ""
+1595939872.047152 input_csi_dispatch: 'm' "" "38;2;255;255;255"
+1595939872.047155 parameter 0: number 38
+1595939872.047157 parameter 1: number 2
+1595939872.047159 parameter 2: number 255
+1595939872.047160 parameter 3: number 255
+1595939872.047162 parameter 4: number 255
+1595939872.047165 input_csi_dispatch: 'm' "" "48;2;153;199;148"
+1595939872.047167 parameter 0: number 48
+1595939872.047169 parameter 1: number 2
+1595939872.047171 parameter 2: number 153
+1595939872.047173 parameter 3: number 199
+1595939872.047174 parameter 4: number 148
+1595939872.047177 screen_write_collect_end: 1 9 (at 150,53)
+1595939872.047180 utf8_to_data: 41000038 -> (1 1 8)
+1595939872.047182 utf8_from_data: (1 1 9) -> 41000039
+1595939872.047185 utf8_to_data: 41000020 -> (1 1  )
+1595939872.047187 input_csi_dispatch: 'H' "" "20;107"
+1595939872.047189 parameter 0: number 20
+1595939872.047191 parameter 1: number 107
+1595939872.047200 /dev/pts/4: \033[38;2;101;115;126m
+1595939872.047205 /dev/pts/4: \033[48;2;52;61;70m
+1595939872.047209 /dev/pts/4: n
+1595939872.047214 /dev/pts/4: \033[54;151H
+1595939872.047218 /dev/pts/4: \033[38;2;255;255;255m
+1595939872.047222 /dev/pts/4: \033[48;2;153;199;148m
+1595939872.047225 /dev/pts/4: 9
+1595939872.047229 screen_write_collect_flush: flushed 2 items (2 bytes) (screen_write_stop)
+1595939872.047232 screen_write_stop: 2 cells (2 written, 0 skipped)
+1595939872.047236 @0 alerts check, alerts 0x2
+1595939872.047239 window_remove_ref: @0 alerts_callback, now 1
+1595939872.047241 cmdq_next <global>: empty
+1595939872.047244 cmdq_next </dev/pts/4>: empty
+1595939872.047247 server_client_reset_state: client /dev/pts/4 mode e5c
+1595939872.047259 server_client_reset_state: cursor to 106,19
+1595939872.047262 /dev/pts/4: \033[20;107H
+1595939872.047266 /dev/pts/4: \033(B\033[m
+1595939872.047271 server_client_check_pane_buffer: %0 has 105 minimum (of 105) bytes used
+1595939872.047274 server_client_check_pane_buffer: pane %0 is on
+1595939872.047276 @0 active pane changed
+1595939872.047279 @0 name timer already queued (116943 left)
+1595939872.047282 server_client_check_pane_buffer: pane %1 is on
+1595939872.047284 @1 active pane not changed
+1595939872.047286 server_client_check_pane_buffer: pane %2 is on
+1595939872.047288 @2 active pane not changed
+1595939872.047301 /dev/pts/4: wrote 99 bytes (of 99)
+1595939872.047306 cmdq_next <global>: empty
+1595939872.047309 cmdq_next </dev/pts/4>: empty
+1595939872.047313 server_client_reset_state: client /dev/pts/4 mode e5c
+1595939872.047317 server_client_reset_state: cursor to 106,19
+1595939872.047322 server_client_check_pane_buffer: pane %0 is on
+1595939872.047325 @0 active pane changed
+1595939872.047329 @0 name timer already queued (116894 left)
+1595939872.047340 server_client_check_pane_buffer: pane %1 is on
+1595939872.047343 @1 active pane not changed
+1595939872.047347 server_client_check_pane_buffer: pane %2 is on
+1595939872.047350 @2 active pane not changed
+1595939872.047426 %0 has 6 bytes
+1595939872.047432 @0 alerts timer reset 0
+1595939872.047436 @0 alerts flags added 0x2
+1595939872.047438 window_add_ref: @0 alerts_queue, now 2
+1595939872.047440 alerts check queued (by @0)
+1595939872.047444 screen_write_start_pane: size 164x56, pane %0 (at 0,0)
+1595939872.047447 input_parse_buffer: %0 ground, 6 bytes: \033[?25h
+1595939872.047451 input_csi_dispatch: 'h' "?" "25"
+1595939872.047454 parameter 0: number 25
+1595939872.047457 screen_write_collect_flush: flushed 0 items (0 bytes) (screen_write_stop)
+1595939872.047460 screen_write_stop: 0 cells (0 written, 0 skipped)
+1595939872.047464 @0 alerts check, alerts 0x2
+1595939872.047466 window_remove_ref: @0 alerts_callback, now 1
+1595939872.047469 cmdq_next <global>: empty
+1595939872.047471 cmdq_next </dev/pts/4>: empty
+1595939872.047474 server_client_reset_state: client /dev/pts/4 mode e5d
+1595939872.047477 server_client_reset_state: cursor to 106,19
+1595939872.047479 /dev/pts/4: update mode e5c to e5d
+1595939872.047482 /dev/pts/4: \033[?12l\033[?25h
+1595939872.047487 server_client_check_pane_buffer: %0 has 6 minimum (of 6) bytes used
+1595939872.047489 server_client_check_pane_buffer: pane %0 is on
+1595939872.047492 @0 active pane changed
+1595939872.047494 @0 name timer already queued (116728 left)
+1595939872.047497 server_client_check_pane_buffer: pane %1 is on
+1595939872.047499 @1 active pane not changed
+1595939872.047501 server_client_check_pane_buffer: pane %2 is on
+1595939872.047503 @2 active pane not changed
+1595939872.047512 /dev/pts/4: wrote 12 bytes (of 12)
+1595939872.047515 cmdq_next <global>: empty
+1595939872.047518 cmdq_next </dev/pts/4>: empty
+1595939872.047520 server_client_reset_state: client /dev/pts/4 mode e5d
+1595939872.047523 server_client_reset_state: cursor to 106,19
+1595939872.047525 server_client_check_pane_buffer: pane %0 is on
+1595939872.047527 @0 active pane changed
+1595939872.047530 @0 name timer already queued (116692 left)
+1595939872.047532 server_client_check_pane_buffer: pane %1 is on
+1595939872.047534 @1 active pane not changed
+1595939872.047536 server_client_check_pane_buffer: pane %2 is on
+1595939872.047538 @2 active pane not changed
+1595939872.057657 cmdq_next <global>: empty
+1595939872.057685 cmdq_next </dev/pts/4>: empty
+1595939872.057692 server_client_reset_state: client /dev/pts/4 mode e5d
+1595939872.057696 server_client_reset_state: cursor to 106,19
+1595939872.057705 server_client_check_pane_buffer: pane %0 is on
+1595939872.057710 @0 active pane changed
+1595939872.057714 @0 name timer already queued (106509 left)
+1595939872.057717 server_client_check_pane_buffer: pane %1 is on
+1595939872.057719 @1 active pane not changed
+1595939872.057722 server_client_check_pane_buffer: pane %2 is on
+1595939872.057725 @2 active pane not changed
+1595939872.161939 @0 name timer expired
+1595939872.161980 cmdq_next <global>: empty
+1595939872.161988 cmdq_next </dev/pts/4>: empty
+1595939872.161995 server_client_reset_state: client /dev/pts/4 mode e5d
+1595939872.162000 server_client_reset_state: cursor to 106,19
+1595939872.162009 server_client_check_pane_buffer: pane %0 is on
+1595939872.162015 @0 active pane changed
+1595939872.162018 @0 name timer queued (2204 left)
+1595939872.162023 server_client_check_pane_buffer: pane %1 is on
+1595939872.162026 @1 active pane not changed
+1595939872.162029 server_client_check_pane_buffer: pane %2 is on
+1595939872.162031 @2 active pane not changed
+1595939872.168301 @0 name timer expired
+1595939872.168333 cmdq_next <global>: empty
+1595939872.168338 cmdq_next </dev/pts/4>: empty
+1595939872.168347 server_client_reset_state: client /dev/pts/4 mode e5d
+1595939872.168353 server_client_reset_state: cursor to 106,19
+1595939872.168365 server_client_check_pane_buffer: pane %0 is on
+1595939872.168373 @0 active pane changed
+1595939872.168455 format_expand1: expanding format: #{?pane_in_mode,[tmux],#{pane_current_command}}#{?pane_dead,[dead],}
+1595939872.168485 format_expand1: found #{}: ?pane_in_mode,[tmux],#{pane_current_command}
+1595939872.168492 format_replace: condition is: pane_in_mode
+1595939872.168501 format_replace: condition 'pane_in_mode' found
+1595939872.168506 format_replace: condition 'pane_in_mode' is false
+1595939872.168512 format_expand1: expanding format: #{pane_current_command}
+1595939872.168517 format_expand1: found #{}: pane_current_command
+1595939872.168571 format_replace: format 'pane_current_command' found: nvim
+1595939872.168575 format_replace: replaced 'pane_current_command' with 'nvim'
+1595939872.168578 format_expand1: result is: nvim
+1595939872.168581 format_replace: replaced '?pane_in_mode,[tmux],#{pane_current_command}' with 'nvim'
+1595939872.168584 format_expand1: found #{}: ?pane_dead,[dead],
+1595939872.168587 format_replace: condition is: pane_dead
+1595939872.168591 format_replace: condition 'pane_dead' found
+1595939872.168593 format_replace: condition 'pane_dead' is false
+1595939872.168596 format_replace: replaced '?pane_dead,[dead],' with ''
+1595939872.168599 format_expand1: result is: nvim
+1595939872.168611 @0 name not changed (still nvim)
+1595939872.168616 server_client_check_pane_buffer: pane %1 is on
+1595939872.168621 @1 active pane not changed
+1595939872.168626 server_client_check_pane_buffer: pane %2 is on
+1595939872.168629 @2 active pane not changed
+1595939872.191465 /dev/pts/4: read 1 bytes (already 0)
+1595939872.191506 /dev/pts/4: keys are 1 (g)
+1595939872.191514 /dev/pts/4: next key is 1 (g) (expired=0)
+1595939872.191521 /dev/pts/4: complete key g 0x67
+1595939872.191535 cmdq_append </dev/pts/4>: [server_client_key_callback/0x56366d4cfd70]
+1595939872.191543 cmdq_next <global>: empty
+1595939872.191557 cmdq_next </dev/pts/4>: enter
+1595939872.191570 cmdq_next </dev/pts/4>: [server_client_key_callback/0x56366d4cfd70] (1), flags 0
+1595939872.191578 session $0 0 activity 1595939872.191574 (last 1595939872.023449)
+1595939872.191586 cmd_find_from_client: s=$0 0
+1595939872.191591 cmd_find_from_client: wl=1 1 w=@0 nvim
+1595939872.191595 cmd_find_from_client: wp=%0
+1595939872.191605 cmd_find_from_client: idx=none
+1595939872.191612 session 0 not pasting
+1595939872.191622 key table root (pane %0)
+1595939872.191627 key table root (pane %0)
+1595939872.191630 not found in key table root
+1595939872.191638 writing key 0x67 (g) to %0
+1595939872.191650 unref client 0x56366d41a470 (2 references)
+1595939872.191660 cmdq_next </dev/pts/4>: exit (empty)
+1595939872.191664 cmdq_next <global>: empty
+1595939872.191667 cmdq_next </dev/pts/4>: empty
+1595939872.191675 server_client_reset_state: client /dev/pts/4 mode e5d
+1595939872.191681 server_client_reset_state: cursor to 106,19
+1595939872.191690 server_client_check_pane_buffer: pane %0 is on
+1595939872.191696 @0 active pane not changed
+1595939872.191701 server_client_check_pane_buffer: pane %1 is on
+1595939872.191706 @1 active pane not changed
+1595939872.191710 server_client_check_pane_buffer: pane %2 is on
+1595939872.191714 @2 active pane not changed
+1595939872.191743 cmdq_next <global>: empty
+1595939872.191752 cmdq_next </dev/pts/4>: empty
+1595939872.191757 server_client_reset_state: client /dev/pts/4 mode e5d
+1595939872.191762 server_client_reset_state: cursor to 106,19
+1595939872.191767 server_client_check_pane_buffer: pane %0 is on
+1595939872.191772 @0 active pane not changed
+1595939872.191776 server_client_check_pane_buffer: pane %1 is on
+1595939872.191779 @1 active pane not changed
+1595939872.191782 server_client_check_pane_buffer: pane %2 is on
+1595939872.191786 @2 active pane not changed
+1595939872.208219 %0 has 6 bytes
+1595939872.208268 @0 alerts timer reset 0
+1595939872.208275 @0 alerts flags added 0x2
+1595939872.208282 window_add_ref: @0 alerts_queue, now 2
+1595939872.208286 alerts check queued (by @0)
+1595939872.208295 screen_write_start_pane: size 164x56, pane %0 (at 0,0)
+1595939872.208302 input_parse_buffer: %0 ground, 6 bytes: \033[?25l
+1595939872.208312 input_csi_dispatch: 'l' "?" "25"
+1595939872.208319 parameter 0: number 25
+1595939872.208347 screen_write_collect_flush: flushed 0 items (0 bytes) (screen_write_stop)
+1595939872.208352 screen_write_stop: 0 cells (0 written, 0 skipped)
+1595939872.208363 @0 alerts check, alerts 0x2
+1595939872.208368 window_remove_ref: @0 alerts_callback, now 1
+1595939872.208374 cmdq_next <global>: empty
+1595939872.208380 cmdq_next </dev/pts/4>: empty
+1595939872.208387 server_client_reset_state: client /dev/pts/4 mode e5c
+1595939872.208393 server_client_reset_state: cursor to 106,19
+1595939872.208398 /dev/pts/4: update mode e5d to e5c
+1595939872.208403 /dev/pts/4: \033[?25l
+1595939872.208418 server_client_check_pane_buffer: %0 has 6 minimum (of 6) bytes used
+1595939872.208423 server_client_check_pane_buffer: pane %0 is on
+1595939872.208428 @0 active pane changed
+1595939872.208432 @0 name timer queued (459946 left)
+1595939872.208438 server_client_check_pane_buffer: pane %1 is on
+1595939872.208442 @1 active pane not changed
+1595939872.208447 server_client_check_pane_buffer: pane %2 is on
+1595939872.208451 @2 active pane not changed
+1595939872.208471 /dev/pts/4: wrote 6 bytes (of 6)
+1595939872.208475 cmdq_next <global>: empty
+1595939872.208479 cmdq_next </dev/pts/4>: empty
+1595939872.208483 server_client_reset_state: client /dev/pts/4 mode e5c
+1595939872.208487 server_client_reset_state: cursor to 106,19
+1595939872.208492 server_client_check_pane_buffer: pane %0 is on
+1595939872.208495 @0 active pane changed
+1595939872.208501 @0 name timer already queued (459878 left)
+1595939872.208504 server_client_check_pane_buffer: pane %1 is on
+1595939872.208507 @1 active pane not changed
+1595939872.208511 server_client_check_pane_buffer: pane %2 is on
+1595939872.208514 @2 active pane not changed
+1595939872.208701 %0 has 106 bytes
+1595939872.208711 @0 alerts timer reset 0
+1595939872.208715 @0 alerts flags added 0x2
+1595939872.208720 window_add_ref: @0 alerts_queue, now 2
+1595939872.208723 alerts check queued (by @0)
+1595939872.208729 screen_write_start_pane: size 164x56, pane %0 (at 0,0)
+1595939872.208737 input_parse_buffer: %0 ground, 106 bytes: \033(B\033[m\033[38;2;101;115;126m\033[48;2;52;61;70mg\033[54;150H\033(B\033[m\033[38;2;255;255;255m\033[48;2;153;199;148m20\033[20;108H
+1595939872.208742 input_esc_dispatch: 'B', (
+1595939872.208747 input_csi_dispatch: 'm' "" ""
+1595939872.208753 input_csi_dispatch: 'm' "" "38;2;101;115;126"
+1595939872.208758 parameter 0: number 38
+1595939872.208761 parameter 1: number 2
+1595939872.208764 parameter 2: number 101
+1595939872.208767 parameter 3: number 115
+1595939872.208770 parameter 4: number 126
+1595939872.208777 input_csi_dispatch: 'm' "" "48;2;52;61;70"
+1595939872.208781 parameter 0: number 48
+1595939872.208784 parameter 1: number 2
+1595939872.208787 parameter 2: number 52
+1595939872.208790 parameter 3: number 61
+1595939872.208793 parameter 4: number 70
+1595939872.208799 screen_write_collect_end: 1 g (at 106,19)
+1595939872.208805 utf8_to_data: 41000020 -> (1 1  )
+1595939872.208810 utf8_from_data: (1 1 g) -> 41000067
+1595939872.208815 utf8_to_data: 41000020 -> (1 1  )
+1595939872.208819 input_csi_dispatch: 'H' "" "54;150"
+1595939872.208823 parameter 0: number 54
+1595939872.208826 parameter 1: number 150
+1595939872.208830 input_esc_dispatch: 'B', (
+1595939872.208834 input_csi_dispatch: 'm' "" ""
+1595939872.208839 input_csi_dispatch: 'm' "" "38;2;255;255;255"
+1595939872.208842 parameter 0: number 38
+1595939872.208845 parameter 1: number 2
+1595939872.208848 parameter 2: number 255
+1595939872.208851 parameter 3: number 255
+1595939872.208854 parameter 4: number 255
+1595939872.208859 input_csi_dispatch: 'm' "" "48;2;153;199;148"
+1595939872.208863 parameter 0: number 48
+1595939872.208865 parameter 1: number 2
+1595939872.208868 parameter 2: number 153
+1595939872.208871 parameter 3: number 199
+1595939872.208874 parameter 4: number 148
+1595939872.208879 screen_write_collect_end: 2 20 (at 149,53)
+1595939872.208883 utf8_to_data: 41000031 -> (1 1 1)
+1595939872.208887 utf8_from_data: (1 1 2) -> 41000032
+1595939872.208890 utf8_from_data: (1 1 2) -> 41000032
+1595939872.208894 utf8_to_data: 41000020 -> (1 1  )
+1595939872.208906 input_csi_dispatch: 'H' "" "20;108"
+1595939872.208910 parameter 0: number 20
+1595939872.208913 parameter 1: number 108
+1595939872.208926 /dev/pts/4: \033[38;2;101;115;126m
+1595939872.208933 /dev/pts/4: \033[48;2;52;61;70m
+1595939872.208938 /dev/pts/4: g
+1595939872.208944 /dev/pts/4: \033[54;150H
+1595939872.208950 /dev/pts/4: \033[38;2;255;255;255m
+1595939872.208955 /dev/pts/4: \033[48;2;153;199;148m
+1595939872.208959 /dev/pts/4: 20
+1595939872.208966 screen_write_collect_flush: flushed 2 items (3 bytes) (screen_write_stop)
+1595939872.208970 screen_write_stop: 3 cells (3 written, 0 skipped)
+1595939872.208975 @0 alerts check, alerts 0x2
+1595939872.208980 window_remove_ref: @0 alerts_callback, now 1
+1595939872.208984 cmdq_next <global>: empty
+1595939872.208987 cmdq_next </dev/pts/4>: empty
+1595939872.208992 server_client_reset_state: client /dev/pts/4 mode e5c
+1595939872.208995 server_client_reset_state: cursor to 107,19
+1595939872.208999 /dev/pts/4: \033[20;108H
+1595939872.209005 /dev/pts/4: \033(B\033[m
+1595939872.209012 server_client_check_pane_buffer: %0 has 106 minimum (of 106) bytes used
+1595939872.209017 server_client_check_pane_buffer: pane %0 is on
+1595939872.209021 @0 active pane changed
+1595939872.209025 @0 name timer already queued (459353 left)
+1595939872.209029 server_client_check_pane_buffer: pane %1 is on
+1595939872.209032 @1 active pane not changed
+1595939872.209036 server_client_check_pane_buffer: pane %2 is on
+1595939872.209040 @2 active pane not changed
+1595939872.209057 /dev/pts/4: wrote 100 bytes (of 100)
+1595939872.209062 cmdq_next <global>: empty
+1595939872.209065 cmdq_next </dev/pts/4>: empty
+1595939872.209070 server_client_reset_state: client /dev/pts/4 mode e5c
+1595939872.209073 server_client_reset_state: cursor to 107,19
+1595939872.209078 server_client_check_pane_buffer: pane %0 is on
+1595939872.209082 @0 active pane changed
+1595939872.209085 @0 name timer already queued (459292 left)
+1595939872.209089 server_client_check_pane_buffer: pane %1 is on
+1595939872.209092 @1 active pane not changed
+1595939872.209096 server_client_check_pane_buffer: pane %2 is on
+1595939872.209099 @2 active pane not changed
+1595939872.209186 %0 has 6 bytes
+1595939872.209196 @0 alerts timer reset 0
+1595939872.209200 @0 alerts flags added 0x2
+1595939872.209204 window_add_ref: @0 alerts_queue, now 2
+1595939872.209207 alerts check queued (by @0)
+1595939872.209213 screen_write_start_pane: size 164x56, pane %0 (at 0,0)
+1595939872.209218 input_parse_buffer: %0 ground, 6 bytes: \033[?25h
+1595939872.209223 input_csi_dispatch: 'h' "?" "25"
+1595939872.209227 parameter 0: number 25
+1595939872.209234 screen_write_collect_flush: flushed 0 items (0 bytes) (screen_write_stop)
+1595939872.209238 screen_write_stop: 0 cells (0 written, 0 skipped)
+1595939872.209244 @0 alerts check, alerts 0x2
+1595939872.209249 window_remove_ref: @0 alerts_callback, now 1
+1595939872.209263 cmdq_next <global>: empty
+1595939872.209268 cmdq_next </dev/pts/4>: empty
+1595939872.209273 server_client_reset_state: client /dev/pts/4 mode e5d
+1595939872.209277 server_client_reset_state: cursor to 107,19
+1595939872.209281 /dev/pts/4: update mode e5c to e5d
+1595939872.209286 /dev/pts/4: \033[?12l\033[?25h
+1595939872.209294 server_client_check_pane_buffer: %0 has 6 minimum (of 6) bytes used
+1595939872.209298 server_client_check_pane_buffer: pane %0 is on
+1595939872.209303 @0 active pane changed
+1595939872.209307 @0 name timer already queued (459071 left)
+1595939872.209311 server_client_check_pane_buffer: pane %1 is on
+1595939872.209315 @1 active pane not changed
+1595939872.209319 server_client_check_pane_buffer: pane %2 is on
+1595939872.209322 @2 active pane not changed
+1595939872.209338 /dev/pts/4: wrote 12 bytes (of 12)
+1595939872.209342 cmdq_next <global>: empty
+1595939872.209346 cmdq_next </dev/pts/4>: empty
+1595939872.209351 server_client_reset_state: client /dev/pts/4 mode e5d
+1595939872.209354 server_client_reset_state: cursor to 107,19
+1595939872.209359 server_client_check_pane_buffer: pane %0 is on
+1595939872.209362 @0 active pane changed
+1595939872.209374 @0 name timer already queued (459004 left)
+1595939872.209378 server_client_check_pane_buffer: pane %1 is on
+1595939872.209381 @1 active pane not changed
+1595939872.209385 server_client_check_pane_buffer: pane %2 is on
+1595939872.209388 @2 active pane not changed
+1595939872.219529 cmdq_next <global>: empty
+1595939872.219563 cmdq_next </dev/pts/4>: empty
+1595939872.219570 server_client_reset_state: client /dev/pts/4 mode e5d
+1595939872.219575 server_client_reset_state: cursor to 107,19
+1595939872.219585 server_client_check_pane_buffer: pane %0 is on
+1595939872.219591 @0 active pane changed
+1595939872.219596 @0 name timer already queued (448782 left)
+1595939872.219601 server_client_check_pane_buffer: pane %1 is on
+1595939872.219605 @1 active pane not changed
+1595939872.219609 server_client_check_pane_buffer: pane %2 is on
+1595939872.219613 @2 active pane not changed
+1595939872.668208 @0 name timer expired
+1595939872.668265 cmdq_next <global>: empty
+1595939872.668274 cmdq_next </dev/pts/4>: empty
+1595939872.668282 server_client_reset_state: client /dev/pts/4 mode e5d
+1595939872.668288 server_client_reset_state: cursor to 107,19
+1595939872.668300 server_client_check_pane_buffer: pane %0 is on
+1595939872.668307 @0 active pane changed
+1595939872.668311 @0 name timer queued (67 left)
+1595939872.668317 server_client_check_pane_buffer: pane %1 is on
+1595939872.668321 @1 active pane not changed
+1595939872.668326 server_client_check_pane_buffer: pane %2 is on
+1595939872.668330 @2 active pane not changed
+1595939872.671716 @0 name timer expired
+1595939872.671767 cmdq_next <global>: empty
+1595939872.671775 cmdq_next </dev/pts/4>: empty
+1595939872.671785 server_client_reset_state: client /dev/pts/4 mode e5d
+1595939872.671793 server_client_reset_state: cursor to 107,19
+1595939872.671805 server_client_check_pane_buffer: pane %0 is on
+1595939872.671813 @0 active pane changed
+1595939872.671901 format_expand1: expanding format: #{?pane_in_mode,[tmux],#{pane_current_command}}#{?pane_dead,[dead],}
+1595939872.671911 format_expand1: found #{}: ?pane_in_mode,[tmux],#{pane_current_command}
+1595939872.671930 format_replace: condition is: pane_in_mode
+1595939872.671940 format_replace: condition 'pane_in_mode' found
+1595939872.671945 format_replace: condition 'pane_in_mode' is false
+1595939872.671952 format_expand1: expanding format: #{pane_current_command}
+1595939872.671958 format_expand1: found #{}: pane_current_command
+1595939872.672028 format_replace: format 'pane_current_command' found: nvim
+1595939872.672036 format_replace: replaced 'pane_current_command' with 'nvim'
+1595939872.672040 format_expand1: result is: nvim
+1595939872.672046 format_replace: replaced '?pane_in_mode,[tmux],#{pane_current_command}' with 'nvim'
+1595939872.672051 format_expand1: found #{}: ?pane_dead,[dead],
+1595939872.672056 format_replace: condition is: pane_dead
+1595939872.672062 format_replace: condition 'pane_dead' found
+1595939872.672067 format_replace: condition 'pane_dead' is false
+1595939872.672072 format_replace: replaced '?pane_dead,[dead],' with ''
+1595939872.672076 format_expand1: result is: nvim
+1595939872.672095 @0 name not changed (still nvim)
+1595939872.672101 server_client_check_pane_buffer: pane %1 is on
+1595939872.672106 @1 active pane not changed
+1595939872.672111 server_client_check_pane_buffer: pane %2 is on
+1595939872.672115 @2 active pane not changed
+1595939873.950617 %0 has 37 bytes
+1595939873.950747 @0 alerts timer reset 0
+1595939873.950754 @0 alerts flags added 0x2
+1595939873.950760 window_add_ref: @0 alerts_queue, now 2
+1595939873.950764 alerts check queued (by @0)
+1595939873.950773 screen_write_start_pane: size 164x56, pane %0 (at 0,0)
+1595939873.950780 input_parse_buffer: %0 ground, 37 bytes: [1]    14104 killed     nvim test2.c\n
+1595939873.950790 screen_write_collect_end: 36 [1]    14104 killed     nvim test2.c (at 107,19)
+1595939873.950796 utf8_to_data: 41000020 -> (1 1  )
+1595939873.950801 utf8_from_data: (1 1 [) -> 4100005b
+1595939873.950804 utf8_from_data: (1 1 [) -> 4100005b
+1595939873.950807 utf8_from_data: (1 1 [) -> 4100005b
+1595939873.950821 utf8_from_data: (1 1 [) -> 4100005b
+1595939873.950823 utf8_from_data: (1 1 [) -> 4100005b
+1595939873.950826 utf8_from_data: (1 1 [) -> 4100005b
+1595939873.950828 utf8_from_data: (1 1 [) -> 4100005b
+1595939873.950830 utf8_from_data: (1 1 [) -> 4100005b
+1595939873.950832 utf8_from_data: (1 1 [) -> 4100005b
+1595939873.950834 utf8_from_data: (1 1 [) -> 4100005b
+1595939873.950837 utf8_from_data: (1 1 [) -> 4100005b
+1595939873.950839 utf8_from_data: (1 1 [) -> 4100005b
+1595939873.950841 utf8_from_data: (1 1 [) -> 4100005b
+1595939873.950843 utf8_from_data: (1 1 [) -> 4100005b
+1595939873.950845 utf8_from_data: (1 1 [) -> 4100005b
+1595939873.950847 utf8_from_data: (1 1 [) -> 4100005b
+1595939873.950850 utf8_from_data: (1 1 [) -> 4100005b
+1595939873.950852 utf8_from_data: (1 1 [) -> 4100005b
+1595939873.950854 utf8_from_data: (1 1 [) -> 4100005b
+1595939873.950856 utf8_from_data: (1 1 [) -> 4100005b
+1595939873.950860 utf8_from_data: (1 1 [) -> 4100005b
+1595939873.950863 utf8_from_data: (1 1 [) -> 4100005b
+1595939873.950867 utf8_from_data: (1 1 [) -> 4100005b
+1595939873.950870 utf8_from_data: (1 1 [) -> 4100005b
+1595939873.950873 utf8_from_data: (1 1 [) -> 4100005b
+1595939873.950877 utf8_from_data: (1 1 [) -> 4100005b
+1595939873.950881 utf8_from_data: (1 1 [) -> 4100005b
+1595939873.950885 utf8_from_data: (1 1 [) -> 4100005b
+1595939873.950888 utf8_from_data: (1 1 [) -> 4100005b
+1595939873.950891 utf8_from_data: (1 1 [) -> 4100005b
+1595939873.950894 utf8_from_data: (1 1 [) -> 4100005b
+1595939873.950897 utf8_from_data: (1 1 [) -> 4100005b
+1595939873.950900 utf8_from_data: (1 1 [) -> 4100005b
+1595939873.950904 utf8_from_data: (1 1 [) -> 4100005b
+1595939873.950907 utf8_from_data: (1 1 [) -> 4100005b
+1595939873.950910 utf8_from_data: (1 1 [) -> 4100005b
+1595939873.950917 utf8_to_data: 41000020 -> (1 1  )
+1595939873.950920 input_c0_dispatch: '\n'
+1595939873.950925 screen_write_linefeed: at 143,19 (region 0-55)
+1595939873.950943 /dev/pts/4: \033[38;2;255;255;255m
+1595939873.950956 /dev/pts/4: \033[48;2;153;199;148m
+1595939873.950962 /dev/pts/4: [1]    14104 killed     nvim test2.c
+1595939873.950967 screen_write_collect_flush: flushed 1 items (36 bytes) (screen_write_stop)
+1595939873.950970 screen_write_stop: 36 cells (36 written, 0 skipped)
+1595939873.950979 @0 alerts check, alerts 0x2
+1595939873.950982 window_remove_ref: @0 alerts_callback, now 1
+1595939873.950987 cmdq_next <global>: empty
+1595939873.950990 cmdq_next </dev/pts/4>: empty
+1595939873.950995 server_client_reset_state: client /dev/pts/4 mode e5d
+1595939873.950998 server_client_reset_state: cursor to 143,20
+1595939873.951001 /dev/pts/4: \n
+1595939873.951005 /dev/pts/4: \033(B\033[m
+1595939873.951012 server_client_check_pane_buffer: %0 has 37 minimum (of 37) bytes used
+1595939873.951015 server_client_check_pane_buffer: pane %0 is on
+1595939873.951019 @0 active pane changed
+1595939873.951081 format_expand1: expanding format: #{?pane_in_mode,[tmux],#{pane_current_command}}#{?pane_dead,[dead],}
+1595939873.951087 format_expand1: found #{}: ?pane_in_mode,[tmux],#{pane_current_command}
+1595939873.951092 format_replace: condition is: pane_in_mode
+1595939873.951099 format_replace: condition 'pane_in_mode' found
+1595939873.951102 format_replace: condition 'pane_in_mode' is false
+1595939873.951105 format_expand1: expanding format: #{pane_current_command}
+1595939873.951108 format_expand1: found #{}: pane_current_command
+1595939873.951146 format_replace: format 'pane_current_command' found: zsh
+1595939873.951150 format_replace: replaced 'pane_current_command' with 'zsh'
+1595939873.951152 format_expand1: result is: zsh
+1595939873.951156 format_replace: replaced '?pane_in_mode,[tmux],#{pane_current_command}' with 'zsh'
+1595939873.951159 format_expand1: found #{}: ?pane_dead,[dead],
+1595939873.951161 format_replace: condition is: pane_dead
+1595939873.951165 format_replace: condition 'pane_dead' found
+1595939873.951167 format_replace: condition 'pane_dead' is false
+1595939873.951170 format_replace: replaced '?pane_dead,[dead],' with ''
+1595939873.951177 format_expand1: result is: zsh
+1595939873.951189 @0 new name zsh (was nvim)
+1595939873.951193 cmd_find_best_session_with_window: window is @0
+1595939873.951197 cmd_find_best_session: 1 sessions to try
+1595939873.951199 cmd_find_best_winlink_with_window: window is @0
+1595939873.951201 cmd_find_best_winlink_with_window: window is @0
+1595939873.951204 cmd_find_from_window: s=$0 0
+1595939873.951206 cmd_find_from_window: wl=1 1 w=@0 zsh
+1595939873.951208 cmd_find_from_window: wp=%0
+1595939873.951210 cmd_find_from_window: idx=1
+1595939873.951213 window_add_ref: @0 notify_add, now 2
+1595939873.951215 session_add_ref: 0 notify_add, now 2
+1595939873.951220 cmdq_append <global>: [notify_callback/0x56366d44d720]
+1595939873.951223 server_client_check_pane_buffer: pane %1 is on
+1595939873.951226 @1 active pane not changed
+1595939873.951229 server_client_check_pane_buffer: pane %2 is on
+1595939873.951232 @2 active pane not changed
+1595939873.951269 /dev/pts/4: wrote 81 bytes (of 81)
+1595939873.951273 cmdq_next <global>: enter
+1595939873.951276 cmdq_next <global>: [notify_callback/0x56366d44d720] (1), flags 0
+1595939873.951278 notify_callback: window-renamed
+1595939873.951281 notify_insert_hook: window-renamed
+1595939873.951295 window_remove_ref: @0 notify_callback, now 1
+1595939873.951298 session_remove_ref: 0 notify_callback, now 1
+1595939873.951300 cmdq_next <global>: exit (empty)
+1595939873.951302 cmdq_next </dev/pts/4>: empty
+1595939873.951304 cmdq_next <global>: empty
+1595939873.951306 cmdq_next </dev/pts/4>: empty
+1595939873.951309 /dev/pts/4: redraw status borders
+1595939873.951311 /dev/pts/4: redraw needed
+1595939873.951318 format_defaults: c=/dev/pts/4
+1595939873.951320 format_defaults: s=none
+1595939873.951322 format_defaults: wl=none
+1595939873.951324 format_defaults: wp=none
+1595939873.951389 format_expand1: expanding format: #h \342\235\220 #S \342\227\217 #I #W
+1595939873.951413 format_expand1: found #h: host_short
+1595939873.951420 format_replace: format 'host_short' found: mx
+1595939873.951423 format_replace: replaced 'host_short' with 'mx'
+1595939873.951426 format_expand1: found #S: session_name
+1595939873.951430 format_replace: format 'session_name' found: 0
+1595939873.951433 format_replace: replaced 'session_name' with '0'
+1595939873.951435 format_expand1: found #I: window_index
+1595939873.951439 format_replace: format 'window_index' found: 1
+1595939873.951441 format_replace: replaced 'window_index' with '1'
+1595939873.951444 format_expand1: found #W: window_name
+1595939873.951447 format_replace: format 'window_name' found: zsh
+1595939873.951449 format_replace: replaced 'window_name' with 'zsh'
+1595939873.951452 format_expand1: result is: mx \342\235\220 0 \342\227\217 1 zsh
+1595939873.951455 /dev/pts/4: \033]0;
+1595939873.951459 /dev/pts/4: mx \342\235\220 0 \342\227\217 1 zsh
+1595939873.951463 /dev/pts/4: \a
+1595939873.951477 unref client 0x56366d41a470 (2 references)
+1595939873.951479 status_redraw enter
+1595939873.951486 format_defaults: c=/dev/pts/4
+1595939873.951488 format_defaults: s=none
+1595939873.951490 format_defaults: wl=none
+1595939873.951492 format_defaults: wp=none
+1595939873.951537 screen_write_start: size 164x1, no pane
+1595939873.951999 format_expand1: expanding format: #[align=left range=left #{status-left-style}]#[push-default]#{T;=/#{status-left-length}:status-left}#[pop-default]#[norange default]#[list=on align=#{status-justify}]#[list=left-marker]<#[list=right-marker]>#[list=on]#{W:#[range=window|#{window_index} #{window-status-style}#{?#{&&:#{window_last_flag},#{!=:#{window-status-last-style},default}}, #{window-status-last-style},}#{?#{&&:#{window_bell_flag},#{!=:#{window-status-bell-style},default}}, #{window-status-bell-style},#{?#{&&:#{||:#{window_activity_flag},#{window_silence_flag}},#{!=:#{window-status-activity-style},default}}, #{window-status-activity-style},}}]#[push-default]#{T:window-status-format}#[pop-default]#[norange default]#{?window_end_flag,,#{window-status-separator}},#[range=window|#{window_index} list=focus #{?#{!=:#{window-status-current-style},default},#{window-status-current-style},#{window-status-style}}#{?#{&&:#{window_last_flag},#{!=:#{window-status-last-style},default}}, #{window-status-last-style},}#{?#{&&:#{window_bell_flag},#{!=:#{window-status-bell-style},default}}, #{window-status-bell-style},#{?#{&&:#{||:#{window_activity_flag},#{window_silence_flag}},#{!=:#{window-status-activity-style},default}}, #{window-status-activity-style},}}]#[push-default]#{T:window-status-current-format}#[pop-default]#[norange list=on default]#{?window_end_flag,,#{window-status-separator}}}#[nolist align=right range=right #{status-right-style}]#[push-default]#{T;=/#{status-right-length}:status-right}#[pop-default]#[norange default]
+1595939873.952020 format_expand1: found #{}: status-left-style
+1595939873.952026 format_replace: format 'status-left-style' found: fg=#8a8a8a,bg=#080808,none
+1595939873.952029 format_replace: replaced 'status-left-style' with 'fg=#8a8a8a,bg=#080808,none'
+1595939873.952032 format_expand1: found #{}: T;=/#{status-left-length}:status-left
+1595939873.952036 format_expand1: expanding format: #{status-left-length}
+1595939873.952039 format_expand1: found #{}: status-left-length
+1595939873.952043 format_replace: format 'status-left-length' found: 1000
+1595939873.952045 format_replace: replaced 'status-left-length' with '1000'
+1595939873.952048 format_expand1: result is: 1000
+1595939873.952050 format_replace: modifier 0 is T
+1595939873.952053 format_replace: modifier 1 is =
+1595939873.952055 format_replace: modifier 1 argument 0: 1000
+1595939873.952064 format_replace: format 'status-left' found: #[fg=#000000,bg=#ffff00,bold] \342\235\220 #S #[fg=#ffff00,bg=#ff00af,none]#[fg=#e4e4e4,bg=#ff00af,none] \342\206\221#{?@uptime_y, #{@uptime_y}y,}#{?@uptime_dy, #{@uptime_dy}d,}#{?@uptime_h, #{@uptime_h}h,}#{?@uptime_m, #{@uptime_m}m,} #[fg=#ff00af,bg=default,none] 
+1595939873.952070 format_expand1: expanding format: #[fg=#000000,bg=#ffff00,bold] \342\235\220 #S #[fg=#ffff00,bg=#ff00af,none]#[fg=#e4e4e4,bg=#ff00af,none] \342\206\221#{?@uptime_y, #{@uptime_y}y,}#{?@uptime_dy, #{@uptime_dy}d,}#{?@uptime_h, #{@uptime_h}h,}#{?@uptime_m, #{@uptime_m}m,} #[fg=#ff00af,bg=default,none] 
+1595939873.952076 format_expand1: found #S: session_name
+1595939873.952080 format_replace: format 'session_name' found: 0
+1595939873.952083 format_replace: replaced 'session_name' with '0'
+1595939873.952086 format_expand1: found #{}: ?@uptime_y, #{@uptime_y}y,
+1595939873.952089 format_replace: condition is: @uptime_y
+1595939873.952093 format_replace: condition '@uptime_y' found
+1595939873.952095 format_replace: condition '@uptime_y' is false
+1595939873.952098 format_replace: replaced '?@uptime_y, #{@uptime_y}y,' with ''
+1595939873.952101 format_expand1: found #{}: ?@uptime_dy, #{@uptime_dy}d,
+1595939873.952103 format_replace: condition is: @uptime_dy
+1595939873.952106 format_replace: condition '@uptime_dy' found
+1595939873.952109 format_replace: condition '@uptime_dy' is true
+1595939873.952113 format_expand1: expanding format:  #{@uptime_dy}d
+1595939873.952115 format_expand1: found #{}: @uptime_dy
+1595939873.952118 format_replace: format '@uptime_dy' found: 4
+1595939873.952121 format_replace: replaced '@uptime_dy' with '4'
+1595939873.952123 format_expand1: result is:  4d
+1595939873.952126 format_replace: replaced '?@uptime_dy, #{@uptime_dy}d,' with ' 4d'
+1595939873.952128 format_expand1: found #{}: ?@uptime_h, #{@uptime_h}h,
+1595939873.952131 format_replace: condition is: @uptime_h
+1595939873.952134 format_replace: condition '@uptime_h' found
+1595939873.952136 format_replace: condition '@uptime_h' is true
+1595939873.952139 format_expand1: expanding format:  #{@uptime_h}h
+1595939873.952141 format_expand1: found #{}: @uptime_h
+1595939873.952144 format_replace: format '@uptime_h' found: 11
+1595939873.952146 format_replace: replaced '@uptime_h' with '11'
+1595939873.952149 format_expand1: result is:  11h
+1595939873.952151 format_replace: replaced '?@uptime_h, #{@uptime_h}h,' with ' 11h'
+1595939873.952154 format_expand1: found #{}: ?@uptime_m, #{@uptime_m}m,
+1595939873.952156 format_replace: condition is: @uptime_m
+1595939873.952163 format_replace: condition '@uptime_m' found
+1595939873.952165 format_replace: condition '@uptime_m' is true
+1595939873.952168 format_expand1: expanding format:  #{@uptime_m}m
+1595939873.952170 format_expand1: found #{}: @uptime_m
+1595939873.952173 format_replace: format '@uptime_m' found: 42
+1595939873.952175 format_replace: replaced '@uptime_m' with '42'
+1595939873.952177 format_expand1: result is:  42m
+1595939873.952180 format_replace: replaced '?@uptime_m, #{@uptime_m}m,' with ' 42m'
+1595939873.952184 format_expand1: result is: #[fg=#000000,bg=#ffff00,bold] \342\235\220 0 #[fg=#ffff00,bg=#ff00af,none]#[fg=#e4e4e4,bg=#ff00af,none] \342\206\221 4d 11h 42m #[fg=#ff00af,bg=default,none] 
+1595939873.952197 format_replace: applied length limit 1000: #[fg=#000000,bg=#ffff00,bold] \342\235\220 0 #[fg=#ffff00,bg=#ff00af,none]#[fg=#e4e4e4,bg=#ff00af,none] \342\206\221 4d 11h 42m #[fg=#ff00af,bg=default,none] 
+1595939873.952203 format_replace: replaced 'T;=/#{status-left-length}:status-left' with '#[fg=#000000,bg=#ffff00,bold] \342\235\220 0 #[fg=#ffff00,bg=#ff00af,none]#[fg=#e4e4e4,bg=#ff00af,none] \342\206\221 4d 11h 42m #[fg=#ff00af,bg=default,none] '
+1595939873.952206 format_expand1: found #{}: status-justify
+1595939873.952211 format_replace: format 'status-justify' found: left
+1595939873.952213 format_replace: replaced 'status-justify' with 'left'
+1595939873.952237 format_expand1: found #{}: W:#[range=window|#{window_index} #{window-status-style}#{?#{&&:#{window_last_flag},#{!=:#{window-status-last-style},default}}, #{window-status-last-style},}#{?#{&&:#{window_bell_flag},#{!=:#{window-status-bell-style},default}}, #{window-status-bell-style},#{?#{&&:#{||:#{window_activity_flag},#{window_silence_flag}},#{!=:#{window-status-activity-style},default}}, #{window-status-activity-style},}}]#[push-default]#{T:window-status-format}#[pop-default]#[norange default]#{?window_end_flag,,#{window-status-separator}},#[range=window|#{window_index} list=focus #{?#{!=:#{window-status-current-style},default},#{window-status-current-style},#{window-status-style}}#{?#{&&:#{window_last_flag},#{!=:#{window-status-last-style},default}}, #{window-status-last-style},}#{?#{&&:#{window_bell_flag},#{!=:#{window-status-bell-style},default}}, #{window-status-bell-style},#{?#{&&:#{||:#{window_activity_flag},#{window_silence_flag}},#{!=:#{window-status-activity-style},default}}, #{window-status-activity-style},}}]#[push-default]#{T:window-status-current-format}#[pop-default]#[norange list=on default]#{?window_end_flag,,#{window-status-separator}}
+1595939873.952259 format_replace: modifier 0 is W
+1595939873.952265 format_loop_windows: window loop: 1 @0
+1595939873.952272 format_defaults: c=/dev/pts/4
+1595939873.952275 format_defaults: s=$0
+1595939873.952277 format_defaults: wl=1
+1595939873.952279 format_defaults: wp=none
+1595939873.952363 format_expand1: expanding format: #[range=window|#{window_index} list=focus #{?#{!=:#{window-status-current-style},default},#{window-status-current-style},#{window-status-style}}#{?#{&&:#{window_last_flag},#{!=:#{window-status-last-style},default}}, #{window-status-last-style},}#{?#{&&:#{window_bell_flag},#{!=:#{window-status-bell-style},default}}, #{window-status-bell-style},#{?#{&&:#{||:#{window_activity_flag},#{window_silence_flag}},#{!=:#{window-status-activity-style},default}}, #{window-status-activity-style},}}]#[push-default]#{T:window-status-current-format}#[pop-default]#[norange list=on default]#{?window_end_flag,,#{window-status-separator}}
+1595939873.952367 format_expand1: found #{}: window_index
+1595939873.952372 format_replace: format 'window_index' found: 1
+1595939873.952375 format_replace: replaced 'window_index' with '1'
+1595939873.952379 format_expand1: found #{}: ?#{!=:#{window-status-current-style},default},#{window-status-current-style},#{window-status-style}
+1595939873.952383 format_replace: condition is: #{!=:#{window-status-current-style},default}
+1595939873.952388 format_expand1: expanding format: #{!=:#{window-status-current-style},default}
+1595939873.952391 format_expand1: found #{}: !=:#{window-status-current-style},default
+1595939873.952399 format_replace: modifier 0 is !=
+1595939873.952403 format_expand1: expanding format: #{window-status-current-style}
+1595939873.952406 format_expand1: found #{}: window-status-current-style
+1595939873.952411 format_replace: format 'window-status-current-style' found: fg=#000000,bg=#00afff,bold
+1595939873.952414 format_replace: replaced 'window-status-current-style' with 'fg=#000000,bg=#00afff,bold'
+1595939873.952416 format_expand1: result is: fg=#000000,bg=#00afff,bold
+1595939873.952419 format_expand1: expanding format: default
+1595939873.952421 format_expand1: result is: default
+1595939873.952423 format_replace: compare != left is: fg=#000000,bg=#00afff,bold
+1595939873.952426 format_replace: compare != right is: default
+1595939873.952429 format_replace: replaced '!=:#{window-status-current-style},default' with '1'
+1595939873.952431 format_expand1: result is: 1
+1595939873.952434 format_replace: condition '#{!=:#{window-status-current-style},default}' not found; assuming false
+1595939873.952437 format_replace: condition '#{!=:#{window-status-current-style},default}' is true
+1595939873.952440 format_expand1: expanding format: #{window-status-current-style}
+1595939873.952442 format_expand1: found #{}: window-status-current-style
+1595939873.952445 format_replace: format 'window-status-current-style' found: fg=#000000,bg=#00afff,bold
+1595939873.952448 format_replace: replaced 'window-status-current-style' with 'fg=#000000,bg=#00afff,bold'
+1595939873.952450 format_expand1: result is: fg=#000000,bg=#00afff,bold
+1595939873.952454 format_replace: replaced '?#{!=:#{window-status-current-style},default},#{window-status-current-style},#{window-status-style}' with 'fg=#000000,bg=#00afff,bold'
+1595939873.952458 format_expand1: found #{}: ?#{&&:#{window_last_flag},#{!=:#{window-status-last-style},default}}, #{window-status-last-style},
+1595939873.952462 format_replace: condition is: #{&&:#{window_last_flag},#{!=:#{window-status-last-style},default}}
+1595939873.952466 format_expand1: expanding format: #{&&:#{window_last_flag},#{!=:#{window-status-last-style},default}}
+1595939873.952469 format_expand1: found #{}: &&:#{window_last_flag},#{!=:#{window-status-last-style},default}
+1595939873.952472 format_replace: modifier 0 is &&
+1595939873.952475 format_expand1: expanding format: #{window_last_flag}
+1595939873.952477 format_expand1: found #{}: window_last_flag
+1595939873.952481 format_replace: format 'window_last_flag' found: 0
+1595939873.952484 format_replace: replaced 'window_last_flag' with '0'
+1595939873.952486 format_expand1: result is: 0
+1595939873.952488 format_expand1: expanding format: #{!=:#{window-status-last-style},default}
+1595939873.952491 format_expand1: found #{}: !=:#{window-status-last-style},default
+1595939873.952494 format_replace: modifier 0 is !=
+1595939873.952497 format_expand1: expanding format: #{window-status-last-style}
+1595939873.952500 format_expand1: found #{}: window-status-last-style
+1595939873.952503 format_replace: format 'window-status-last-style' found: fg=#00afff,bg=default,none
+1595939873.952506 format_replace: replaced 'window-status-last-style' with 'fg=#00afff,bg=default,none'
+1595939873.952509 format_expand1: result is: fg=#00afff,bg=default,none
+1595939873.952511 format_expand1: expanding format: default
+1595939873.952513 format_expand1: result is: default
+1595939873.952515 format_replace: compare != left is: fg=#00afff,bg=default,none
+1595939873.952518 format_replace: compare != right is: default
+1595939873.952521 format_replace: replaced '!=:#{window-status-last-style},default' with '1'
+1595939873.952523 format_expand1: result is: 1
+1595939873.952525 format_replace: compare && left is: 0
+1595939873.952527 format_replace: compare && right is: 1
+1595939873.952530 format_replace: replaced '&&:#{window_last_flag},#{!=:#{window-status-last-style},default}' with '0'
+1595939873.952532 format_expand1: result is: 0
+1595939873.952535 format_replace: condition '#{&&:#{window_last_flag},#{!=:#{window-status-last-style},default}}' not found; assuming false
+1595939873.952543 format_replace: condition '#{&&:#{window_last_flag},#{!=:#{window-status-last-style},default}}' is false
+1595939873.952546 format_replace: replaced '?#{&&:#{window_last_flag},#{!=:#{window-status-last-style},default}}, #{window-status-last-style},' with ''
+1595939873.952555 format_expand1: found #{}: ?#{&&:#{window_bell_flag},#{!=:#{window-status-bell-style},default}}, #{window-status-bell-style},#{?#{&&:#{||:#{window_activity_flag},#{window_silence_flag}},#{!=:#{window-status-activity-style},default}}, #{window-status-activity-style},}
+1595939873.952560 format_replace: condition is: #{&&:#{window_bell_flag},#{!=:#{window-status-bell-style},default}}
+1595939873.952564 format_expand1: expanding format: #{&&:#{window_bell_flag},#{!=:#{window-status-bell-style},default}}
+1595939873.952567 format_expand1: found #{}: &&:#{window_bell_flag},#{!=:#{window-status-bell-style},default}
+1595939873.952570 format_replace: modifier 0 is &&
+1595939873.952573 format_expand1: expanding format: #{window_bell_flag}
+1595939873.952575 format_expand1: found #{}: window_bell_flag
+1595939873.952579 format_replace: format 'window_bell_flag' found: 0
+1595939873.952581 format_replace: replaced 'window_bell_flag' with '0'
+1595939873.952583 format_expand1: result is: 0
+1595939873.952586 format_expand1: expanding format: #{!=:#{window-status-bell-style},default}
+1595939873.952589 format_expand1: found #{}: !=:#{window-status-bell-style},default
+1595939873.952591 format_replace: modifier 0 is !=
+1595939873.952594 format_expand1: expanding format: #{window-status-bell-style}
+1595939873.952596 format_expand1: found #{}: window-status-bell-style
+1595939873.952600 format_replace: format 'window-status-bell-style' found: fg=#ffff00,bg=default,blink,bold
+1595939873.952603 format_replace: replaced 'window-status-bell-style' with 'fg=#ffff00,bg=default,blink,bold'
+1595939873.952605 format_expand1: result is: fg=#ffff00,bg=default,blink,bold
+1595939873.952608 format_expand1: expanding format: default
+1595939873.952610 format_expand1: result is: default
+1595939873.952612 format_replace: compare != left is: fg=#ffff00,bg=default,blink,bold
+1595939873.952615 format_replace: compare != right is: default
+1595939873.952618 format_replace: replaced '!=:#{window-status-bell-style},default' with '1'
+1595939873.952620 format_expand1: result is: 1
+1595939873.952622 format_replace: compare && left is: 0
+1595939873.952624 format_replace: compare && right is: 1
+1595939873.952627 format_replace: replaced '&&:#{window_bell_flag},#{!=:#{window-status-bell-style},default}' with '0'
+1595939873.952629 format_expand1: result is: 0
+1595939873.952632 format_replace: condition '#{&&:#{window_bell_flag},#{!=:#{window-status-bell-style},default}}' not found; assuming false
+1595939873.952636 format_replace: condition '#{&&:#{window_bell_flag},#{!=:#{window-status-bell-style},default}}' is false
+1595939873.952640 format_expand1: expanding format: #{?#{&&:#{||:#{window_activity_flag},#{window_silence_flag}},#{!=:#{window-status-activity-style},default}}, #{window-status-activity-style},}
+1595939873.952644 format_expand1: found #{}: ?#{&&:#{||:#{window_activity_flag},#{window_silence_flag}},#{!=:#{window-status-activity-style},default}}, #{window-status-activity-style},
+1595939873.952649 format_replace: condition is: #{&&:#{||:#{window_activity_flag},#{window_silence_flag}},#{!=:#{window-status-activity-style},default}}
+1595939873.952653 format_expand1: expanding format: #{&&:#{||:#{window_activity_flag},#{window_silence_flag}},#{!=:#{window-status-activity-style},default}}
+1595939873.952657 format_expand1: found #{}: &&:#{||:#{window_activity_flag},#{window_silence_flag}},#{!=:#{window-status-activity-style},default}
+1595939873.952660 format_replace: modifier 0 is &&
+1595939873.952663 format_expand1: expanding format: #{||:#{window_activity_flag},#{window_silence_flag}}
+1595939873.952666 format_expand1: found #{}: ||:#{window_activity_flag},#{window_silence_flag}
+1595939873.952668 format_replace: modifier 0 is ||
+1595939873.952672 format_expand1: expanding format: #{window_activity_flag}
+1595939873.952678 format_expand1: found #{}: window_activity_flag
+1595939873.952682 format_replace: format 'window_activity_flag' found: 0
+1595939873.952685 format_replace: replaced 'window_activity_flag' with '0'
+1595939873.952687 format_expand1: result is: 0
+1595939873.952690 format_expand1: expanding format: #{window_silence_flag}
+1595939873.952692 format_expand1: found #{}: window_silence_flag
+1595939873.952696 format_replace: format 'window_silence_flag' found: 0
+1595939873.952698 format_replace: replaced 'window_silence_flag' with '0'
+1595939873.952701 format_expand1: result is: 0
+1595939873.952703 format_replace: compare || left is: 0
+1595939873.952705 format_replace: compare || right is: 0
+1595939873.952708 format_replace: replaced '||:#{window_activity_flag},#{window_silence_flag}' with '0'
+1595939873.952710 format_expand1: result is: 0
+1595939873.952712 format_expand1: expanding format: #{!=:#{window-status-activity-style},default}
+1595939873.952715 format_expand1: found #{}: !=:#{window-status-activity-style},default
+1595939873.952718 format_replace: modifier 0 is !=
+1595939873.952721 format_expand1: expanding format: #{window-status-activity-style}
+1595939873.952723 format_expand1: found #{}: window-status-activity-style
+1595939873.952727 format_replace: format 'window-status-activity-style' found: fg=default,bg=default,underscore
+1595939873.952730 format_replace: replaced 'window-status-activity-style' with 'fg=default,bg=default,underscore'
+1595939873.952732 format_expand1: result is: fg=default,bg=default,underscore
+1595939873.952734 format_expand1: expanding format: default
+1595939873.952737 format_expand1: result is: default
+1595939873.952739 format_replace: compare != left is: fg=default,bg=default,underscore
+1595939873.952741 format_replace: compare != right is: default
+1595939873.952744 format_replace: replaced '!=:#{window-status-activity-style},default' with '1'
+1595939873.952746 format_expand1: result is: 1
+1595939873.952748 format_replace: compare && left is: 0
+1595939873.952751 format_replace: compare && right is: 1
+1595939873.952754 format_replace: replaced '&&:#{||:#{window_activity_flag},#{window_silence_flag}},#{!=:#{window-status-activity-style},default}' with '0'
+1595939873.952756 format_expand1: result is: 0
+1595939873.952760 format_replace: condition '#{&&:#{||:#{window_activity_flag},#{window_silence_flag}},#{!=:#{window-status-activity-style},default}}' not found; assuming false
+1595939873.952763 format_replace: condition '#{&&:#{||:#{window_activity_flag},#{window_silence_flag}},#{!=:#{window-status-activity-style},default}}' is false
+1595939873.952767 format_replace: replaced '?#{&&:#{||:#{window_activity_flag},#{window_silence_flag}},#{!=:#{window-status-activity-style},default}}, #{window-status-activity-style},' with ''
+1595939873.952770 format_expand1: result is: 
+1595939873.952778 format_replace: replaced '?#{&&:#{window_bell_flag},#{!=:#{window-status-bell-style},default}}, #{window-status-bell-style},#{?#{&&:#{||:#{window_activity_flag},#{window_silence_flag}},#{!=:#{window-status-activity-style},default}}, #{window-status-activity-style},}' with ''
+1595939873.952781 format_expand1: found #{}: T:window-status-current-format
+1595939873.952784 format_replace: modifier 0 is T
+1595939873.952788 format_replace: format 'window-status-current-format' found: #[fg=#080808,bg=#00afff]#[fg=#000000,bg=#00afff,bold] #I #W #[fg=#00afff,bg=#080808,none]
+1595939873.952791 format_expand1: expanding format: #[fg=#080808,bg=#00afff]#[fg=#000000,bg=#00afff,bold] #I #W #[fg=#00afff,bg=#080808,none]
+1595939873.952801 format_expand1: found #I: window_index
+1595939873.952805 format_replace: format 'window_index' found: 1
+1595939873.952807 format_replace: replaced 'window_index' with '1'
+1595939873.952810 format_expand1: found #W: window_name
+1595939873.952813 format_replace: format 'window_name' found: zsh
+1595939873.952815 format_replace: replaced 'window_name' with 'zsh'
+1595939873.952819 format_expand1: result is: #[fg=#080808,bg=#00afff]#[fg=#000000,bg=#00afff,bold] 1 zsh #[fg=#00afff,bg=#080808,none]
+1595939873.952826 format_replace: replaced 'T:window-status-current-format' with '#[fg=#080808,bg=#00afff]#[fg=#000000,bg=#00afff,bold] 1 zsh #[fg=#00afff,bg=#080808,none]'
+1595939873.952830 format_expand1: found #{}: ?window_end_flag,,#{window-status-separator}
+1595939873.952832 format_replace: condition is: window_end_flag
+1595939873.952836 format_replace: condition 'window_end_flag' found
+1595939873.952839 format_replace: condition 'window_end_flag' is false
+1595939873.952841 format_expand1: expanding format: #{window-status-separator}
+1595939873.952844 format_expand1: found #{}: window-status-separator
+1595939873.952847 format_replace: format 'window-status-separator' found:  
+1595939873.952850 format_replace: replaced 'window-status-separator' with ' '
+1595939873.952852 format_expand1: result is:  
+1595939873.952854 format_replace: replaced '?window_end_flag,,#{window-status-separator}' with ' '
+1595939873.952859 format_expand1: result is: #[range=window|1 list=focus fg=#000000,bg=#00afff,bold]#[push-default]#[fg=#080808,bg=#00afff]#[fg=#000000,bg=#00afff,bold] 1 zsh #[fg=#00afff,bg=#080808,none]#[pop-default]#[norange list=on default] 
+1595939873.952875 unref client 0x56366d41a470 (3 references)
+1595939873.952878 format_loop_windows: window loop: 2 @1
+1595939873.952884 format_defaults: c=/dev/pts/4
+1595939873.952886 format_defaults: s=$0
+1595939873.952888 format_defaults: wl=2
+1595939873.952890 format_defaults: wp=none
+1595939873.952970 format_expand1: expanding format: #[range=window|#{window_index} #{window-status-style}#{?#{&&:#{window_last_flag},#{!=:#{window-status-last-style},default}}, #{window-status-last-style},}#{?#{&&:#{window_bell_flag},#{!=:#{window-status-bell-style},default}}, #{window-status-bell-style},#{?#{&&:#{||:#{window_activity_flag},#{window_silence_flag}},#{!=:#{window-status-activity-style},default}}, #{window-status-activity-style},}}]#[push-default]#{T:window-status-format}#[pop-default]#[norange default]#{?window_end_flag,,#{window-status-separator}}
+1595939873.952975 format_expand1: found #{}: window_index
+1595939873.952980 format_replace: format 'window_index' found: 2
+1595939873.952982 format_replace: replaced 'window_index' with '2'
+1595939873.952985 format_expand1: found #{}: window-status-style
+1595939873.952989 format_replace: format 'window-status-style' found: fg=#8a8a8a,bg=#080808,none
+1595939873.952992 format_replace: replaced 'window-status-style' with 'fg=#8a8a8a,bg=#080808,none'
+1595939873.952996 format_expand1: found #{}: ?#{&&:#{window_last_flag},#{!=:#{window-status-last-style},default}}, #{window-status-last-style},
+1595939873.953000 format_replace: condition is: #{&&:#{window_last_flag},#{!=:#{window-status-last-style},default}}
+1595939873.953004 format_expand1: expanding format: #{&&:#{window_last_flag},#{!=:#{window-status-last-style},default}}
+1595939873.953008 format_expand1: found #{}: &&:#{window_last_flag},#{!=:#{window-status-last-style},default}
+1595939873.953010 format_replace: modifier 0 is &&
+1595939873.953013 format_expand1: expanding format: #{window_last_flag}
+1595939873.953016 format_expand1: found #{}: window_last_flag
+1595939873.953021 format_replace: format 'window_last_flag' found: 0
+1595939873.953023 format_replace: replaced 'window_last_flag' with '0'
+1595939873.953026 format_expand1: result is: 0
+1595939873.953028 format_expand1: expanding format: #{!=:#{window-status-last-style},default}
+1595939873.953031 format_expand1: found #{}: !=:#{window-status-last-style},default
+1595939873.953033 format_replace: modifier 0 is !=
+1595939873.953037 format_expand1: expanding format: #{window-status-last-style}
+1595939873.953039 format_expand1: found #{}: window-status-last-style
+1595939873.953043 format_replace: format 'window-status-last-style' found: fg=#00afff,bg=default,none
+1595939873.953045 format_replace: replaced 'window-status-last-style' with 'fg=#00afff,bg=default,none'
+1595939873.953048 format_expand1: result is: fg=#00afff,bg=default,none
+1595939873.953050 format_expand1: expanding format: default
+1595939873.953056 format_expand1: result is: default
+1595939873.953059 format_replace: compare != left is: fg=#00afff,bg=default,none
+1595939873.953061 format_replace: compare != right is: default
+1595939873.953064 format_replace: replaced '!=:#{window-status-last-style},default' with '1'
+1595939873.953066 format_expand1: result is: 1
+1595939873.953069 format_replace: compare && left is: 0
+1595939873.953071 format_replace: compare && right is: 1
+1595939873.953074 format_replace: replaced '&&:#{window_last_flag},#{!=:#{window-status-last-style},default}' with '0'
+1595939873.953076 format_expand1: result is: 0
+1595939873.953079 format_replace: condition '#{&&:#{window_last_flag},#{!=:#{window-status-last-style},default}}' not found; assuming false
+1595939873.953083 format_replace: condition '#{&&:#{window_last_flag},#{!=:#{window-status-last-style},default}}' is false
+1595939873.953086 format_replace: replaced '?#{&&:#{window_last_flag},#{!=:#{window-status-last-style},default}}, #{window-status-last-style},' with ''
+1595939873.953095 format_expand1: found #{}: ?#{&&:#{window_bell_flag},#{!=:#{window-status-bell-style},default}}, #{window-status-bell-style},#{?#{&&:#{||:#{window_activity_flag},#{window_silence_flag}},#{!=:#{window-status-activity-style},default}}, #{window-status-activity-style},}
+1595939873.953099 format_replace: condition is: #{&&:#{window_bell_flag},#{!=:#{window-status-bell-style},default}}
+1595939873.953103 format_expand1: expanding format: #{&&:#{window_bell_flag},#{!=:#{window-status-bell-style},default}}
+1595939873.953106 format_expand1: found #{}: &&:#{window_bell_flag},#{!=:#{window-status-bell-style},default}
+1595939873.953109 format_replace: modifier 0 is &&
+1595939873.953111 format_expand1: expanding format: #{window_bell_flag}
+1595939873.953114 format_expand1: found #{}: window_bell_flag
+1595939873.953118 format_replace: format 'window_bell_flag' found: 0
+1595939873.953120 format_replace: replaced 'window_bell_flag' with '0'
+1595939873.953122 format_expand1: result is: 0
+1595939873.953125 format_expand1: expanding format: #{!=:#{window-status-bell-style},default}
+1595939873.953128 format_expand1: found #{}: !=:#{window-status-bell-style},default
+1595939873.953130 format_replace: modifier 0 is !=
+1595939873.953133 format_expand1: expanding format: #{window-status-bell-style}
+1595939873.953136 format_expand1: found #{}: window-status-bell-style
+1595939873.953139 format_replace: format 'window-status-bell-style' found: fg=#ffff00,bg=default,blink,bold
+1595939873.953142 format_replace: replaced 'window-status-bell-style' with 'fg=#ffff00,bg=default,blink,bold'
+1595939873.953144 format_expand1: result is: fg=#ffff00,bg=default,blink,bold
+1595939873.953147 format_expand1: expanding format: default
+1595939873.953149 format_expand1: result is: default
+1595939873.953151 format_replace: compare != left is: fg=#ffff00,bg=default,blink,bold
+1595939873.953154 format_replace: compare != right is: default
+1595939873.953156 format_replace: replaced '!=:#{window-status-bell-style},default' with '1'
+1595939873.953159 format_expand1: result is: 1
+1595939873.953161 format_replace: compare && left is: 0
+1595939873.953163 format_replace: compare && right is: 1
+1595939873.953166 format_replace: replaced '&&:#{window_bell_flag},#{!=:#{window-status-bell-style},default}' with '0'
+1595939873.953168 format_expand1: result is: 0
+1595939873.953171 format_replace: condition '#{&&:#{window_bell_flag},#{!=:#{window-status-bell-style},default}}' not found; assuming false
+1595939873.953175 format_replace: condition '#{&&:#{window_bell_flag},#{!=:#{window-status-bell-style},default}}' is false
+1595939873.953178 format_expand1: expanding format: #{?#{&&:#{||:#{window_activity_flag},#{window_silence_flag}},#{!=:#{window-status-activity-style},default}}, #{window-status-activity-style},}
+1595939873.953183 format_expand1: found #{}: ?#{&&:#{||:#{window_activity_flag},#{window_silence_flag}},#{!=:#{window-status-activity-style},default}}, #{window-status-activity-style},
+1595939873.953187 format_replace: condition is: #{&&:#{||:#{window_activity_flag},#{window_silence_flag}},#{!=:#{window-status-activity-style},default}}
+1595939873.953195 format_expand1: expanding format: #{&&:#{||:#{window_activity_flag},#{window_silence_flag}},#{!=:#{window-status-activity-style},default}}
+1595939873.953199 format_expand1: found #{}: &&:#{||:#{window_activity_flag},#{window_silence_flag}},#{!=:#{window-status-activity-style},default}
+1595939873.953202 format_replace: modifier 0 is &&
+1595939873.953205 format_expand1: expanding format: #{||:#{window_activity_flag},#{window_silence_flag}}
+1595939873.953208 format_expand1: found #{}: ||:#{window_activity_flag},#{window_silence_flag}
+1595939873.953211 format_replace: modifier 0 is ||
+1595939873.953214 format_expand1: expanding format: #{window_activity_flag}
+1595939873.953216 format_expand1: found #{}: window_activity_flag
+1595939873.953220 format_replace: format 'window_activity_flag' found: 0
+1595939873.953223 format_replace: replaced 'window_activity_flag' with '0'
+1595939873.953225 format_expand1: result is: 0
+1595939873.953227 format_expand1: expanding format: #{window_silence_flag}
+1595939873.953230 format_expand1: found #{}: window_silence_flag
+1595939873.953234 format_replace: format 'window_silence_flag' found: 0
+1595939873.953236 format_replace: replaced 'window_silence_flag' with '0'
+1595939873.953238 format_expand1: result is: 0
+1595939873.953257 format_replace: compare || left is: 0
+1595939873.953260 format_replace: compare || right is: 0
+1595939873.953263 format_replace: replaced '||:#{window_activity_flag},#{window_silence_flag}' with '0'
+1595939873.953265 format_expand1: result is: 0
+1595939873.953267 format_expand1: expanding format: #{!=:#{window-status-activity-style},default}
+1595939873.953270 format_expand1: found #{}: !=:#{window-status-activity-style},default
+1595939873.953273 format_replace: modifier 0 is !=
+1595939873.953276 format_expand1: expanding format: #{window-status-activity-style}
+1595939873.953278 format_expand1: found #{}: window-status-activity-style
+1595939873.953282 format_replace: format 'window-status-activity-style' found: fg=default,bg=default,underscore
+1595939873.953285 format_replace: replaced 'window-status-activity-style' with 'fg=default,bg=default,underscore'
+1595939873.953287 format_expand1: result is: fg=default,bg=default,underscore
+1595939873.953289 format_expand1: expanding format: default
+1595939873.953292 format_expand1: result is: default
+1595939873.953294 format_replace: compare != left is: fg=default,bg=default,underscore
+1595939873.953296 format_replace: compare != right is: default
+1595939873.953299 format_replace: replaced '!=:#{window-status-activity-style},default' with '1'
+1595939873.953301 format_expand1: result is: 1
+1595939873.953303 format_replace: compare && left is: 0
+1595939873.953306 format_replace: compare && right is: 1
+1595939873.953310 format_replace: replaced '&&:#{||:#{window_activity_flag},#{window_silence_flag}},#{!=:#{window-status-activity-style},default}' with '0'
+1595939873.953312 format_expand1: result is: 0
+1595939873.953316 format_replace: condition '#{&&:#{||:#{window_activity_flag},#{window_silence_flag}},#{!=:#{window-status-activity-style},default}}' not found; assuming false
+1595939873.953320 format_replace: condition '#{&&:#{||:#{window_activity_flag},#{window_silence_flag}},#{!=:#{window-status-activity-style},default}}' is false
+1595939873.953324 format_replace: replaced '?#{&&:#{||:#{window_activity_flag},#{window_silence_flag}},#{!=:#{window-status-activity-style},default}}, #{window-status-activity-style},' with ''
+1595939873.953326 format_expand1: result is: 
+1595939873.953334 format_replace: replaced '?#{&&:#{window_bell_flag},#{!=:#{window-status-bell-style},default}}, #{window-status-bell-style},#{?#{&&:#{||:#{window_activity_flag},#{window_silence_flag}},#{!=:#{window-status-activity-style},default}}, #{window-status-activity-style},}' with ''
+1595939873.953337 format_expand1: found #{}: T:window-status-format
+1595939873.953340 format_replace: modifier 0 is T
+1595939873.953343 format_replace: format 'window-status-format' found: #I #W
+1595939873.953352 format_expand1: expanding format: #I #W
+1595939873.953360 format_expand1: found #I: window_index
+1595939873.953365 format_replace: format 'window_index' found: 2
+1595939873.953367 format_replace: replaced 'window_index' with '2'
+1595939873.953369 format_expand1: found #W: window_name
+1595939873.953373 format_replace: format 'window_name' found: nvim
+1595939873.953375 format_replace: replaced 'window_name' with 'nvim'
+1595939873.953377 format_expand1: result is: 2 nvim
+1595939873.953380 format_replace: replaced 'T:window-status-format' with '2 nvim'
+1595939873.953383 format_expand1: found #{}: ?window_end_flag,,#{window-status-separator}
+1595939873.953386 format_replace: condition is: window_end_flag
+1595939873.953389 format_replace: condition 'window_end_flag' found
+1595939873.953392 format_replace: condition 'window_end_flag' is false
+1595939873.953395 format_expand1: expanding format: #{window-status-separator}
+1595939873.953397 format_expand1: found #{}: window-status-separator
+1595939873.953400 format_replace: format 'window-status-separator' found:  
+1595939873.953402 format_replace: replaced 'window-status-separator' with ' '
+1595939873.953404 format_expand1: result is:  
+1595939873.953407 format_replace: replaced '?window_end_flag,,#{window-status-separator}' with ' '
+1595939873.953411 format_expand1: result is: #[range=window|2 fg=#8a8a8a,bg=#080808,none]#[push-default]2 nvim#[pop-default]#[norange default] 
+1595939873.953425 unref client 0x56366d41a470 (3 references)
+1595939873.953428 format_loop_windows: window loop: 3 @2
+1595939873.953434 format_defaults: c=/dev/pts/4
+1595939873.953436 format_defaults: s=$0
+1595939873.953438 format_defaults: wl=3
+1595939873.953440 format_defaults: wp=none
+1595939873.953516 format_expand1: expanding format: #[range=window|#{window_index} #{window-status-style}#{?#{&&:#{window_last_flag},#{!=:#{window-status-last-style},default}}, #{window-status-last-style},}#{?#{&&:#{window_bell_flag},#{!=:#{window-status-bell-style},default}}, #{window-status-bell-style},#{?#{&&:#{||:#{window_activity_flag},#{window_silence_flag}},#{!=:#{window-status-activity-style},default}}, #{window-status-activity-style},}}]#[push-default]#{T:window-status-format}#[pop-default]#[norange default]#{?window_end_flag,,#{window-status-separator}}
+1595939873.953521 format_expand1: found #{}: window_index
+1595939873.953525 format_replace: format 'window_index' found: 3
+1595939873.953528 format_replace: replaced 'window_index' with '3'
+1595939873.953530 format_expand1: found #{}: window-status-style
+1595939873.953535 format_replace: format 'window-status-style' found: fg=#8a8a8a,bg=#080808,none
+1595939873.953537 format_replace: replaced 'window-status-style' with 'fg=#8a8a8a,bg=#080808,none'
+1595939873.953541 format_expand1: found #{}: ?#{&&:#{window_last_flag},#{!=:#{window-status-last-style},default}}, #{window-status-last-style},
+1595939873.953545 format_replace: condition is: #{&&:#{window_last_flag},#{!=:#{window-status-last-style},default}}
+1595939873.953550 format_expand1: expanding format: #{&&:#{window_last_flag},#{!=:#{window-status-last-style},default}}
+1595939873.953553 format_expand1: found #{}: &&:#{window_last_flag},#{!=:#{window-status-last-style},default}
+1595939873.953555 format_replace: modifier 0 is &&
+1595939873.953558 format_expand1: expanding format: #{window_last_flag}
+1595939873.953561 format_expand1: found #{}: window_last_flag
+1595939873.953566 format_replace: format 'window_last_flag' found: 1
+1595939873.953568 format_replace: replaced 'window_last_flag' with '1'
+1595939873.953570 format_expand1: result is: 1
+1595939873.953573 format_expand1: expanding format: #{!=:#{window-status-last-style},default}
+1595939873.953576 format_expand1: found #{}: !=:#{window-status-last-style},default
+1595939873.953578 format_replace: modifier 0 is !=
+1595939873.953581 format_expand1: expanding format: #{window-status-last-style}
+1595939873.953584 format_expand1: found #{}: window-status-last-style
+1595939873.953587 format_replace: format 'window-status-last-style' found: fg=#00afff,bg=default,none
+1595939873.953594 format_replace: replaced 'window-status-last-style' with 'fg=#00afff,bg=default,none'
+1595939873.953597 format_expand1: result is: fg=#00afff,bg=default,none
+1595939873.953599 format_expand1: expanding format: default
+1595939873.953601 format_expand1: result is: default
+1595939873.953604 format_replace: compare != left is: fg=#00afff,bg=default,none
+1595939873.953606 format_replace: compare != right is: default
+1595939873.953609 format_replace: replaced '!=:#{window-status-last-style},default' with '1'
+1595939873.953611 format_expand1: result is: 1
+1595939873.953614 format_replace: compare && left is: 1
+1595939873.953616 format_replace: compare && right is: 1
+1595939873.953619 format_replace: replaced '&&:#{window_last_flag},#{!=:#{window-status-last-style},default}' with '1'
+1595939873.953621 format_expand1: result is: 1
+1595939873.953624 format_replace: condition '#{&&:#{window_last_flag},#{!=:#{window-status-last-style},default}}' not found; assuming false
+1595939873.953628 format_replace: condition '#{&&:#{window_last_flag},#{!=:#{window-status-last-style},default}}' is true
+1595939873.953630 format_expand1: expanding format:  #{window-status-last-style}
+1595939873.953633 format_expand1: found #{}: window-status-last-style
+1595939873.953636 format_replace: format 'window-status-last-style' found: fg=#00afff,bg=default,none
+1595939873.953639 format_replace: replaced 'window-status-last-style' with 'fg=#00afff,bg=default,none'
+1595939873.953641 format_expand1: result is:  fg=#00afff,bg=default,none
+1595939873.953645 format_replace: replaced '?#{&&:#{window_last_flag},#{!=:#{window-status-last-style},default}}, #{window-status-last-style},' with ' fg=#00afff,bg=default,none'
+1595939873.953654 format_expand1: found #{}: ?#{&&:#{window_bell_flag},#{!=:#{window-status-bell-style},default}}, #{window-status-bell-style},#{?#{&&:#{||:#{window_activity_flag},#{window_silence_flag}},#{!=:#{window-status-activity-style},default}}, #{window-status-activity-style},}
+1595939873.953658 format_replace: condition is: #{&&:#{window_bell_flag},#{!=:#{window-status-bell-style},default}}
+1595939873.953663 format_expand1: expanding format: #{&&:#{window_bell_flag},#{!=:#{window-status-bell-style},default}}
+1595939873.953666 format_expand1: found #{}: &&:#{window_bell_flag},#{!=:#{window-status-bell-style},default}
+1595939873.953668 format_replace: modifier 0 is &&
+1595939873.953671 format_expand1: expanding format: #{window_bell_flag}
+1595939873.953674 format_expand1: found #{}: window_bell_flag
+1595939873.953678 format_replace: format 'window_bell_flag' found: 0
+1595939873.953681 format_replace: replaced 'window_bell_flag' with '0'
+1595939873.953683 format_expand1: result is: 0
+1595939873.953685 format_expand1: expanding format: #{!=:#{window-status-bell-style},default}
+1595939873.953688 format_expand1: found #{}: !=:#{window-status-bell-style},default
+1595939873.953691 format_replace: modifier 0 is !=
+1595939873.953694 format_expand1: expanding format: #{window-status-bell-style}
+1595939873.953697 format_expand1: found #{}: window-status-bell-style
+1595939873.953700 format_replace: format 'window-status-bell-style' found: fg=#ffff00,bg=default,blink,bold
+1595939873.953703 format_replace: replaced 'window-status-bell-style' with 'fg=#ffff00,bg=default,blink,bold'
+1595939873.953705 format_expand1: result is: fg=#ffff00,bg=default,blink,bold
+1595939873.953708 format_expand1: expanding format: default
+1595939873.953710 format_expand1: result is: default
+1595939873.953713 format_replace: compare != left is: fg=#ffff00,bg=default,blink,bold
+1595939873.953715 format_replace: compare != right is: default
+1595939873.953718 format_replace: replaced '!=:#{window-status-bell-style},default' with '1'
+1595939873.953720 format_expand1: result is: 1
+1595939873.953722 format_replace: compare && left is: 0
+1595939873.953724 format_replace: compare && right is: 1
+1595939873.953727 format_replace: replaced '&&:#{window_bell_flag},#{!=:#{window-status-bell-style},default}' with '0'
+1595939873.953730 format_expand1: result is: 0
+1595939873.953736 format_replace: condition '#{&&:#{window_bell_flag},#{!=:#{window-status-bell-style},default}}' not found; assuming false
+1595939873.953740 format_replace: condition '#{&&:#{window_bell_flag},#{!=:#{window-status-bell-style},default}}' is false
+1595939873.953743 format_expand1: expanding format: #{?#{&&:#{||:#{window_activity_flag},#{window_silence_flag}},#{!=:#{window-status-activity-style},default}}, #{window-status-activity-style},}
+1595939873.953748 format_expand1: found #{}: ?#{&&:#{||:#{window_activity_flag},#{window_silence_flag}},#{!=:#{window-status-activity-style},default}}, #{window-status-activity-style},
+1595939873.953752 format_replace: condition is: #{&&:#{||:#{window_activity_flag},#{window_silence_flag}},#{!=:#{window-status-activity-style},default}}
+1595939873.953757 format_expand1: expanding format: #{&&:#{||:#{window_activity_flag},#{window_silence_flag}},#{!=:#{window-status-activity-style},default}}
+1595939873.953761 format_expand1: found #{}: &&:#{||:#{window_activity_flag},#{window_silence_flag}},#{!=:#{window-status-activity-style},default}
+1595939873.953763 format_replace: modifier 0 is &&
+1595939873.953767 format_expand1: expanding format: #{||:#{window_activity_flag},#{window_silence_flag}}
+1595939873.953770 format_expand1: found #{}: ||:#{window_activity_flag},#{window_silence_flag}
+1595939873.953772 format_replace: modifier 0 is ||
+1595939873.953775 format_expand1: expanding format: #{window_activity_flag}
+1595939873.953778 format_expand1: found #{}: window_activity_flag
+1595939873.953781 format_replace: format 'window_activity_flag' found: 0
+1595939873.953784 format_replace: replaced 'window_activity_flag' with '0'
+1595939873.953786 format_expand1: result is: 0
+1595939873.953788 format_expand1: expanding format: #{window_silence_flag}
+1595939873.953791 format_expand1: found #{}: window_silence_flag
+1595939873.953794 format_replace: format 'window_silence_flag' found: 0
+1595939873.953797 format_replace: replaced 'window_silence_flag' with '0'
+1595939873.953799 format_expand1: result is: 0
+1595939873.953801 format_replace: compare || left is: 0
+1595939873.953803 format_replace: compare || right is: 0
+1595939873.953806 format_replace: replaced '||:#{window_activity_flag},#{window_silence_flag}' with '0'
+1595939873.953808 format_expand1: result is: 0
+1595939873.953811 format_expand1: expanding format: #{!=:#{window-status-activity-style},default}
+1595939873.953814 format_expand1: found #{}: !=:#{window-status-activity-style},default
+1595939873.953816 format_replace: modifier 0 is !=
+1595939873.953819 format_expand1: expanding format: #{window-status-activity-style}
+1595939873.953821 format_expand1: found #{}: window-status-activity-style
+1595939873.953825 format_replace: format 'window-status-activity-style' found: fg=default,bg=default,underscore
+1595939873.953828 format_replace: replaced 'window-status-activity-style' with 'fg=default,bg=default,underscore'
+1595939873.953830 format_expand1: result is: fg=default,bg=default,underscore
+1595939873.953833 format_expand1: expanding format: default
+1595939873.953835 format_expand1: result is: default
+1595939873.953837 format_replace: compare != left is: fg=default,bg=default,underscore
+1595939873.953840 format_replace: compare != right is: default
+1595939873.953843 format_replace: replaced '!=:#{window-status-activity-style},default' with '1'
+1595939873.953845 format_expand1: result is: 1
+1595939873.953847 format_replace: compare && left is: 0
+1595939873.953849 format_replace: compare && right is: 1
+1595939873.953852 format_replace: replaced '&&:#{||:#{window_activity_flag},#{window_silence_flag}},#{!=:#{window-status-activity-style},default}' with '0'
+1595939873.953855 format_expand1: result is: 0
+1595939873.953858 format_replace: condition '#{&&:#{||:#{window_activity_flag},#{window_silence_flag}},#{!=:#{window-status-activity-style},default}}' not found; assuming false
+1595939873.953862 format_replace: condition '#{&&:#{||:#{window_activity_flag},#{window_silence_flag}},#{!=:#{window-status-activity-style},default}}' is false
+1595939873.953869 format_replace: replaced '?#{&&:#{||:#{window_activity_flag},#{window_silence_flag}},#{!=:#{window-status-activity-style},default}}, #{window-status-activity-style},' with ''
+1595939873.953872 format_expand1: result is: 
+1595939873.953880 format_replace: replaced '?#{&&:#{window_bell_flag},#{!=:#{window-status-bell-style},default}}, #{window-status-bell-style},#{?#{&&:#{||:#{window_activity_flag},#{window_silence_flag}},#{!=:#{window-status-activity-style},default}}, #{window-status-activity-style},}' with ''
+1595939873.953883 format_expand1: found #{}: T:window-status-format
+1595939873.953885 format_replace: modifier 0 is T
+1595939873.953889 format_replace: format 'window-status-format' found: #I #W
+1595939873.953891 format_expand1: expanding format: #I #W
+1595939873.953899 format_expand1: found #I: window_index
+1595939873.953903 format_replace: format 'window_index' found: 3
+1595939873.953905 format_replace: replaced 'window_index' with '3'
+1595939873.953908 format_expand1: found #W: window_name
+1595939873.953911 format_replace: format 'window_name' found: zsh
+1595939873.953913 format_replace: replaced 'window_name' with 'zsh'
+1595939873.953915 format_expand1: result is: 3 zsh
+1595939873.953918 format_replace: replaced 'T:window-status-format' with '3 zsh'
+1595939873.953921 format_expand1: found #{}: ?window_end_flag,,#{window-status-separator}
+1595939873.953924 format_replace: condition is: window_end_flag
+1595939873.953927 format_replace: condition 'window_end_flag' found
+1595939873.953930 format_replace: condition 'window_end_flag' is true
+1595939873.953932 format_replace: replaced '?window_end_flag,,#{window-status-separator}' with ''
+1595939873.953936 format_expand1: result is: #[range=window|3 fg=#8a8a8a,bg=#080808,none fg=#00afff,bg=default,none]#[push-default]3 zsh#[pop-default]#[norange default]
+1595939873.953949 unref client 0x56366d41a470 (3 references)
+1595939873.953982 format_replace: replaced 'W:#[range=window|#{window_index} #{window-status-style}#{?#{&&:#{window_last_flag},#{!=:#{window-status-last-style},default}}, #{window-status-last-style},}#{?#{&&:#{window_bell_flag},#{!=:#{window-status-bell-style},default}}, #{window-status-bell-style},#{?#{&&:#{||:#{window_activity_flag},#{window_silence_flag}},#{!=:#{window-status-activity-style},default}}, #{window-status-activity-style},}}]#[push-default]#{T:window-status-format}#[pop-default]#[norange default]#{?window_end_flag,,#{window-status-separator}},#[range=window|#{window_index} list=focus #{?#{!=:#{window-status-current-style},default},#{window-status-current-style},#{window-status-style}}#{?#{&&:#{window_last_flag},#{!=:#{window-status-last-style},default}}, #{window-status-last-style},}#{?#{&&:#{window_bell_flag},#{!=:#{window-status-bell-style},default}}, #{window-status-bell-style},#{?#{&&:#{||:#{window_activity_flag},#{window_silence_flag}},#{!=:#{window-status-activity-style},default}}, #{window-status-activity-style},}}]#[push-default]#{T:window-status-current-format}#[pop-default]#[norange list=on default]#{?window_end_flag,,#{window-status-separator}}' with '#[range=window|1 list=focus fg=#000000,bg=#00afff,bold]#[push-default]#[fg=#080808,bg=#00afff]#[fg=#000000,bg=#00afff,bold] 1 zsh #[fg=#00afff,bg=#080808,none]#[pop-default]#[norange list=on default] #[range=window|2 fg=#8a8a8a,bg=#080808,none]#[push-default]2 nvim#[pop-default]#[norange default] #[range=window|3 fg=#8a8a8a,bg=#080808,none fg=#00afff,bg=default,none]#[push-default]3 zsh#[pop-default]#[norange default]'
+1595939873.953987 format_expand1: found #{}: status-right-style
+1595939873.953992 format_replace: format 'status-right-style' found: fg=#8a8a8a,bg=#080808,none
+1595939873.953995 format_replace: replaced 'status-right-style' with 'fg=#8a8a8a,bg=#080808,none'
+1595939873.953998 format_expand1: found #{}: T;=/#{status-right-length}:status-right
+1595939873.954001 format_expand1: expanding format: #{status-right-length}
+1595939873.954004 format_expand1: found #{}: status-right-length
+1595939873.954008 format_replace: format 'status-right-length' found: 1000
+1595939873.954014 format_replace: replaced 'status-right-length' with '1000'
+1595939873.954016 format_expand1: result is: 1000
+1595939873.954019 format_replace: modifier 0 is T
+1595939873.954021 format_replace: modifier 1 is =
+1595939873.954023 format_replace: modifier 1 argument 0: 1000
+1595939873.954039 format_replace: format 'status-right' found: #(cut -c3- ~/.tmux.conf | sh -s _uptime)#(cut -c3- ~/.tmux.conf | sh -s _battery)#[fg=#080808,bg=default,none]#[fg=#8a8a8a,bg=#080808,none]#[fg=none]#[bg=none]#[none]#{?client_prefix,\342\214\250 ,}#[fg=none]#[bg=none]#[none]#{?session_many_attached,\360\237\221\223 ,}#[fg=none]#[bg=none]#[none]#{?pane_synchronized,\360\237\224\222,} #{?@battery_status, #{@battery_status},}#{?@battery_bar, #{@battery_bar},}#{?@battery_percentage, #{@battery_percentage},} #[fg=#8a8a8a,bg=#080808,none]| %R #[fg=#8a8a8a,bg=#080808,none]| %d %b #[fg=#d70000,bg=#080808,none]#[fg=#e4e4e4,bg=#d70000,none] #(cut -c3- ~/.tmux.conf | sh -s _username #{pane_tty} false #D)#[fg=none]#[bg=none]#[bold,blink]#(cut -c3- ~/.tmux.conf | sh -s _root #{pane_tty} #D)#[default]#[fg=#e4e4e4,bg=#d70000,none] #[fg=#e4e4e4,bg=#d70000,none]#[fg=#000000,bg=#e4e4e4,bold] #(cut -c3- ~/.tmux.conf | sh -s _hostname #{pane_tty} false #D) 
+1595939873.954050 format_expand1: expanding format: #(cut -c3- ~/.tmux.conf | sh -s _uptime)#(cut -c3- ~/.tmux.conf | sh -s _battery)#[fg=#080808,bg=default,none]#[fg=#8a8a8a,bg=#080808,none]#[fg=none]#[bg=none]#[none]#{?client_prefix,\342\214\250 ,}#[fg=none]#[bg=none]#[none]#{?session_many_attached,\360\237\221\223 ,}#[fg=none]#[bg=none]#[none]#{?pane_synchronized,\360\237\224\222,} #{?@battery_status, #{@battery_status},}#{?@battery_bar, #{@battery_bar},}#{?@battery_percentage, #{@battery_percentage},} #[fg=#8a8a8a,bg=#080808,none]| %R #[fg=#8a8a8a,bg=#080808,none]| %d %b #[fg=#d70000,bg=#080808,none]#[fg=#e4e4e4,bg=#d70000,none] #(cut -c3- ~/.tmux.conf | sh -s _username #{pane_tty} false #D)#[fg=none]#[bg=none]#[bold,blink]#(cut -c3- ~/.tmux.conf | sh -s _root #{pane_tty} #D)#[default]#[fg=#e4e4e4,bg=#d70000,none] #[fg=#e4e4e4,bg=#d70000,none]#[fg=#000000,bg=#e4e4e4,bold] #(cut -c3- ~/.tmux.conf | sh -s _hostname #{pane_tty} false #D) 
+1595939873.954069 format_expand1: after time expanded: #(cut -c3- ~/.tmux.conf | sh -s _uptime)#(cut -c3- ~/.tmux.conf | sh -s _battery)#[fg=#080808,bg=default,none]#[fg=#8a8a8a,bg=#080808,none]#[fg=none]#[bg=none]#[none]#{?client_prefix,\342\214\250 ,}#[fg=none]#[bg=none]#[none]#{?session_many_attached,\360\237\221\223 ,}#[fg=none]#[bg=none]#[none]#{?pane_synchronized,\360\237\224\222,} #{?@battery_status, #{@battery_status},}#{?@battery_bar, #{@battery_bar},}#{?@battery_percentage, #{@battery_percentage},} #[fg=#8a8a8a,bg=#080808,none]| 20:37 #[fg=#8a8a8a,bg=#080808,none]| 28 Jul #[fg=#d70000,bg=#080808,none]#[fg=#e4e4e4,bg=#d70000,none] #(cut -c3- ~/.tmux.conf | sh -s _username #{pane_tty} false #D)#[fg=none]#[bg=none]#[bold,blink]#(cut -c3- ~/.tmux.conf | sh -s _root #{pane_tty} #D)#[default]#[fg=#e4e4e4,bg=#d70000,none] #[fg=#e4e4e4,bg=#d70000,none]#[fg=#000000,bg=#e4e4e4,bold] #(cut -c3- ~/.tmux.conf | sh -s _hostname #{pane_tty} false #D) 
+1595939873.954073 format_expand1: found #(): cut -c3- ~/.tmux.conf | sh -s _uptime
+1595939873.954076 format_expand1: expanding format: cut -c3- ~/.tmux.conf | sh -s _uptime
+1595939873.954078 format_expand1: result is: cut -c3- ~/.tmux.conf | sh -s _uptime
+1595939873.954413 job_run: cmd=cut -c3- ~/.tmux.conf | sh -s _uptime, cwd=/home/Joe
+1595939873.990480 job_run: cmd=cut -c3- ~/.tmux.conf | sh -s _uptime, cwd=/home/Joe
