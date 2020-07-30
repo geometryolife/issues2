@@ -1,0 +1,4 @@
+test/tmux-client-1733.log
+test/tmux-out-1735.log
+test/tmux-server-1735.log
+test/strace.out
