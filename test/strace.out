@@ -1,0 +1,365 @@
+13354 20:39:53.142256 execve("/usr/local/bin/tmux", ["tmux", "new"], 0x7ffff6a5e9a8 /* 23 vars */) = 0
+13354 20:39:53.142557 brk(NULL)         = 0x55b51a4b1000
+13354 20:39:53.142619 access("/etc/ld.so.nohwcap", F_OK) = -1 ENOENT (No such file or directory)
+13354 20:39:53.142652 access("/etc/ld.so.preload", R_OK) = -1 ENOENT (No such file or directory)
+13354 20:39:53.142674 openat(AT_FDCWD, "/etc/ld.so.cache", O_RDONLY|O_CLOEXEC) = 3
+13354 20:39:53.142702 fstat(3, {st_mode=S_IFREG|0644, st_size=29900, ...}) = 0
+13354 20:39:53.142739 mmap(NULL, 29900, PROT_READ, MAP_PRIVATE, 3, 0) = 0x7f240f972000
+13354 20:39:53.142772 close(3)          = 0
+13354 20:39:53.142801 access("/etc/ld.so.nohwcap", F_OK) = -1 ENOENT (No such file or directory)
+13354 20:39:53.142829 openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libutil.so.1", O_RDONLY|O_CLOEXEC) = 3
+13354 20:39:53.142851 read(3, "\177ELF\2\1\1\0\0\0\0\0\0\0\0\0\3\0>\0\1\0\0\0p\16\0\0\0\0\0\0"..., 832) = 832
+13354 20:39:53.142871 fstat(3, {st_mode=S_IFREG|0644, st_size=10592, ...}) = 0
+13354 20:39:53.142889 mmap(NULL, 8192, PROT_READ|PROT_WRITE, MAP_PRIVATE|MAP_ANONYMOUS, -1, 0) = 0x7f240f970000
+13354 20:39:53.143125 mmap(NULL, 2105616, PROT_READ|PROT_EXEC, MAP_PRIVATE|MAP_DENYWRITE, 3, 0) = 0x7f240f550000
+13354 20:39:53.143161 mprotect(0x7f240f552000, 2093056, PROT_NONE) = 0
+13354 20:39:53.143182 mmap(0x7f240f751000, 8192, PROT_READ|PROT_WRITE, MAP_PRIVATE|MAP_FIXED|MAP_DENYWRITE, 3, 0x1000) = 0x7f240f751000
+13354 20:39:53.143227 close(3)          = 0
+13354 20:39:53.143257 access("/etc/ld.so.nohwcap", F_OK) = -1 ENOENT (No such file or directory)
+13354 20:39:53.143284 openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libtinfo.so.5", O_RDONLY|O_CLOEXEC) = 3
+13354 20:39:53.143307 read(3, "\177ELF\2\1\1\0\0\0\0\0\0\0\0\0\3\0>\0\1\0\0\0\220\311\0\0\0\0\0\0"..., 832) = 832
+13354 20:39:53.143327 fstat(3, {st_mode=S_IFREG|0644, st_size=170784, ...}) = 0
+13354 20:39:53.143350 mmap(NULL, 2267936, PROT_READ|PROT_EXEC, MAP_PRIVATE|MAP_DENYWRITE, 3, 0) = 0x7f240f326000
+13354 20:39:53.143382 mprotect(0x7f240f34b000, 2097152, PROT_NONE) = 0
+13354 20:39:53.143414 mmap(0x7f240f54b000, 20480, PROT_READ|PROT_WRITE, MAP_PRIVATE|MAP_FIXED|MAP_DENYWRITE, 3, 0x25000) = 0x7f240f54b000
+13354 20:39:53.143459 close(3)          = 0
+13354 20:39:53.143484 access("/etc/ld.so.nohwcap", F_OK) = -1 ENOENT (No such file or directory)
+13354 20:39:53.143508 openat(AT_FDCWD, "/usr/lib/x86_64-linux-gnu/libevent-2.1.so.6", O_RDONLY|O_CLOEXEC) = 3
+13354 20:39:53.143543 read(3, "\177ELF\2\1\1\0\0\0\0\0\0\0\0\0\3\0>\0\1\0\0\0\360\274\0\0\0\0\0\0"..., 832) = 832
+13354 20:39:53.143575 fstat(3, {st_mode=S_IFREG|0644, st_size=330128, ...}) = 0
+13354 20:39:53.143607 mmap(NULL, 2427144, PROT_READ|PROT_EXEC, MAP_PRIVATE|MAP_DENYWRITE, 3, 0) = 0x7f240f0d5000
+13354 20:39:53.143637 mprotect(0x7f240f124000, 2097152, PROT_NONE) = 0
+13354 20:39:53.143658 mmap(0x7f240f324000, 8192, PROT_READ|PROT_WRITE, MAP_PRIVATE|MAP_FIXED|MAP_DENYWRITE, 3, 0x4f000) = 0x7f240f324000
+13354 20:39:53.143687 close(3)          = 0
+13354 20:39:53.143710 access("/etc/ld.so.nohwcap", F_OK) = -1 ENOENT (No such file or directory)
+13354 20:39:53.143741 openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libm.so.6", O_RDONLY|O_CLOEXEC) = 3
+13354 20:39:53.143777 read(3, "\177ELF\2\1\1\3\0\0\0\0\0\0\0\0\3\0>\0\1\0\0\0\200\272\0\0\0\0\0\0"..., 832) = 832
+13354 20:39:53.143808 fstat(3, {st_mode=S_IFREG|0644, st_size=1700792, ...}) = 0
+13354 20:39:53.143840 mmap(NULL, 3789144, PROT_READ|PROT_EXEC, MAP_PRIVATE|MAP_DENYWRITE, 3, 0) = 0x7f240ed37000
+13354 20:39:53.143863 mprotect(0x7f240eed4000, 2093056, PROT_NONE) = 0
+13354 20:39:53.143883 mmap(0x7f240f0d3000, 8192, PROT_READ|PROT_WRITE, MAP_PRIVATE|MAP_FIXED|MAP_DENYWRITE, 3, 0x19c000) = 0x7f240f0d3000
+13354 20:39:53.143913 close(3)          = 0
+13354 20:39:53.143940 access("/etc/ld.so.nohwcap", F_OK) = -1 ENOENT (No such file or directory)
+13354 20:39:53.143976 openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libresolv.so.2", O_RDONLY|O_CLOEXEC) = 3
+13354 20:39:53.144012 read(3, "\177ELF\2\1\1\0\0\0\0\0\0\0\0\0\3\0>\0\1\0\0\00008\0\0\0\0\0\0"..., 832) = 832
+13354 20:39:53.144053 fstat(3, {st_mode=S_IFREG|0644, st_size=101168, ...}) = 0
+13354 20:39:53.144087 mmap(NULL, 2206336, PROT_READ|PROT_EXEC, MAP_PRIVATE|MAP_DENYWRITE, 3, 0) = 0x7f240eb1c000
+13354 20:39:53.144120 mprotect(0x7f240eb33000, 2097152, PROT_NONE) = 0
+13354 20:39:53.144153 mmap(0x7f240ed33000, 8192, PROT_READ|PROT_WRITE, MAP_PRIVATE|MAP_FIXED|MAP_DENYWRITE, 3, 0x17000) = 0x7f240ed33000
+13354 20:39:53.144185 mmap(0x7f240ed35000, 6784, PROT_READ|PROT_WRITE, MAP_PRIVATE|MAP_FIXED|MAP_ANONYMOUS, -1, 0) = 0x7f240ed35000
+13354 20:39:53.144211 close(3)          = 0
+13354 20:39:53.144245 access("/etc/ld.so.nohwcap", F_OK) = -1 ENOENT (No such file or directory)
+13354 20:39:53.144270 openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libc.so.6", O_RDONLY|O_CLOEXEC) = 3
+13354 20:39:53.144292 read(3, "\177ELF\2\1\1\3\0\0\0\0\0\0\0\0\3\0>\0\1\0\0\0\260\34\2\0\0\0\0\0"..., 832) = 832
+13354 20:39:53.144310 fstat(3, {st_mode=S_IFREG|0755, st_size=2030544, ...}) = 0
+13354 20:39:53.144329 mmap(NULL, 4131552, PROT_READ|PROT_EXEC, MAP_PRIVATE|MAP_DENYWRITE, 3, 0) = 0x7f240e72b000
+13354 20:39:53.144347 mprotect(0x7f240e912000, 2097152, PROT_NONE) = 0
+13354 20:39:53.144368 mmap(0x7f240eb12000, 24576, PROT_READ|PROT_WRITE, MAP_PRIVATE|MAP_FIXED|MAP_DENYWRITE, 3, 0x1e7000) = 0x7f240eb12000
+13354 20:39:53.144411 mmap(0x7f240eb18000, 15072, PROT_READ|PROT_WRITE, MAP_PRIVATE|MAP_FIXED|MAP_ANONYMOUS, -1, 0) = 0x7f240eb18000
+13354 20:39:53.144452 close(3)          = 0
+13354 20:39:53.144599 access("/etc/ld.so.nohwcap", F_OK) = -1 ENOENT (No such file or directory)
+13354 20:39:53.144644 openat(AT_FDCWD, "/lib/x86_64-linux-gnu/libpthread.so.0", O_RDONLY|O_CLOEXEC) = 3
+13354 20:39:53.144675 read(3, "\177ELF\2\1\1\0\0\0\0\0\0\0\0\0\3\0>\0\1\0\0\0000b\0\0\0\0\0\0"..., 832) = 832
+13354 20:39:53.144696 fstat(3, {st_mode=S_IFREG|0755, st_size=144976, ...}) = 0
+13354 20:39:53.144715 mmap(NULL, 8192, PROT_READ|PROT_WRITE, MAP_PRIVATE|MAP_ANONYMOUS, -1, 0) = 0x7f240f96e000
+13354 20:39:53.144740 mmap(NULL, 2221184, PROT_READ|PROT_EXEC, MAP_PRIVATE|MAP_DENYWRITE, 3, 0) = 0x7f240e50c000
+13354 20:39:53.144767 mprotect(0x7f240e526000, 2093056, PROT_NONE) = 0
+13354 20:39:53.144801 mmap(0x7f240e725000, 8192, PROT_READ|PROT_WRITE, MAP_PRIVATE|MAP_FIXED|MAP_DENYWRITE, 3, 0x19000) = 0x7f240e725000
+13354 20:39:53.144842 mmap(0x7f240e727000, 13440, PROT_READ|PROT_WRITE, MAP_PRIVATE|MAP_FIXED|MAP_ANONYMOUS, -1, 0) = 0x7f240e727000
+13354 20:39:53.144878 close(3)          = 0
+13354 20:39:53.144922 mmap(NULL, 12288, PROT_READ|PROT_WRITE, MAP_PRIVATE|MAP_ANONYMOUS, -1, 0) = 0x7f240f96b000
+13354 20:39:53.144946 arch_prctl(ARCH_SET_FS, 0x7f240f96b740) = 0
+13354 20:39:53.145092 mprotect(0x7f240eb12000, 16384, PROT_READ) = 0
+13354 20:39:53.145146 mprotect(0x7f240e725000, 4096, PROT_READ) = 0
+13354 20:39:53.145186 mprotect(0x7f240ed33000, 4096, PROT_READ) = 0
+13354 20:39:53.145234 mprotect(0x7f240f0d3000, 4096, PROT_READ) = 0
+13354 20:39:53.145316 mprotect(0x7f240f324000, 4096, PROT_READ) = 0
+13354 20:39:53.145381 mprotect(0x7f240f54b000, 16384, PROT_READ) = 0
+13354 20:39:53.145408 mprotect(0x7f240f751000, 4096, PROT_READ) = 0
+13354 20:39:53.145589 mprotect(0x55b5186a3000, 53248, PROT_READ) = 0
+13354 20:39:53.145634 mprotect(0x7f240f97a000, 4096, PROT_READ) = 0
+13354 20:39:53.145668 munmap(0x7f240f972000, 29900) = 0
+13354 20:39:53.145703 set_tid_address(0x7f240f96ba10) = 13354
+13354 20:39:53.145721 set_robust_list(0x7f240f96ba20, 24) = 0
+13354 20:39:53.145742 rt_sigaction(SIGRTMIN, {sa_handler=0x7f240e511cb0, sa_mask=[], sa_flags=SA_RESTORER|SA_SIGINFO, sa_restorer=0x7f240e51e8a0}, NULL, 8) = 0
+13354 20:39:53.145769 rt_sigaction(SIGRT_1, {sa_handler=0x7f240e511d50, sa_mask=[], sa_flags=SA_RESTORER|SA_RESTART|SA_SIGINFO, sa_restorer=0x7f240e51e8a0}, NULL, 8) = 0
+13354 20:39:53.145793 rt_sigprocmask(SIG_UNBLOCK, [RTMIN RT_1], NULL, 8) = 0
+13354 20:39:53.145831 prlimit64(0, RLIMIT_STACK, NULL, {rlim_cur=8192*1024, rlim_max=RLIM64_INFINITY}) = 0
+13354 20:39:53.145961 brk(NULL)         = 0x55b51a4b1000
+13354 20:39:53.145982 brk(0x55b51a4d2000) = 0x55b51a4d2000
+13354 20:39:53.146016 openat(AT_FDCWD, "/usr/lib/locale/locale-archive", O_RDONLY|O_CLOEXEC) = 3
+13354 20:39:53.146065 fstat(3, {st_mode=S_IFREG|0644, st_size=3004464, ...}) = 0
+13354 20:39:53.146098 mmap(NULL, 3004464, PROT_READ, MAP_PRIVATE, 3, 0) = 0x7f240e22e000
+13354 20:39:53.146138 close(3)          = 0
+13354 20:39:53.146207 openat(AT_FDCWD, "/etc/localtime", O_RDONLY|O_CLOEXEC) = 3
+13354 20:39:53.146249 fstat(3, {st_mode=S_IFREG|0644, st_size=554, ...}) = 0
+13354 20:39:53.146271 fstat(3, {st_mode=S_IFREG|0644, st_size=554, ...}) = 0
+13354 20:39:53.146292 read(3, "TZif2\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\3\0\0\0\3\0\0\0\0"..., 4096) = 554
+13354 20:39:53.146312 lseek(3, -339, SEEK_CUR) = 215
+13354 20:39:53.146329 read(3, "TZif2\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\3\0\0\0\3\0\0\0\0"..., 4096) = 339
+13354 20:39:53.146350 close(3)          = 0
+13354 20:39:53.146412 getcwd("/home/Joe", 4096) = 10
+13354 20:39:53.146447 lstat("/home", {st_mode=S_IFDIR|0755, st_size=4096, ...}) = 0
+13354 20:39:53.146485 lstat("/home/Joe", {st_mode=S_IFDIR|0755, st_size=4096, ...}) = 0
+13354 20:39:53.146519 lstat("/home", {st_mode=S_IFDIR|0755, st_size=4096, ...}) = 0
+13354 20:39:53.146551 lstat("/home/Joe", {st_mode=S_IFDIR|0755, st_size=4096, ...}) = 0
+13354 20:39:53.146686 access("/usr/bin/zsh", X_OK) = 0
+13354 20:39:53.146728 getuid()          = 1001
+13354 20:39:53.146747 lstat("/tmp", {st_mode=S_IFDIR|S_ISVTX|0777, st_size=4096, ...}) = 0
+13354 20:39:53.146770 mkdir("/tmp/tmux-1001", 0700) = -1 EEXIST (File exists)
+13354 20:39:53.146793 lstat("/tmp/tmux-1001", {st_mode=S_IFDIR|0700, st_size=4096, ...}) = 0
+13354 20:39:53.146827 getuid()          = 1001
+13354 20:39:53.146854 geteuid()         = 1001
+13354 20:39:53.146878 getgid()          = 1001
+13354 20:39:53.146903 getegid()         = 1001
+13354 20:39:53.146986 getuid()          = 1001
+13354 20:39:53.147005 geteuid()         = 1001
+13354 20:39:53.147022 getgid()          = 1001
+13354 20:39:53.147045 getegid()         = 1001
+13354 20:39:53.147071 getuid()          = 1001
+13354 20:39:53.147096 geteuid()         = 1001
+13354 20:39:53.147120 getgid()          = 1001
+13354 20:39:53.147144 getegid()         = 1001
+13354 20:39:53.147162 pipe2([3, 4], O_NONBLOCK|O_CLOEXEC) = 0
+13354 20:39:53.147190 getpid()          = 13354
+13354 20:39:53.147206 getuid()          = 1001
+13354 20:39:53.147229 geteuid()         = 1001
+13354 20:39:53.147245 getgid()          = 1001
+13354 20:39:53.147259 getegid()         = 1001
+13354 20:39:53.147277 rt_sigaction(SIGCHLD, {sa_handler=SIG_IGN, sa_mask=[CHLD], sa_flags=SA_RESTORER|SA_RESTART, sa_restorer=0x7f240e769fd0}, {sa_handler=SIG_DFL, sa_mask=[], sa_flags=0}, 8) = 0
+13354 20:39:53.147319 prctl(PR_SET_NAME, "tmux: client") = 0
+13354 20:39:53.147350 uname({sysname="Linux", nodename="mx", ...}) = 0
+13354 20:39:53.147369 getpid()          = 13354
+13354 20:39:53.147385 rt_sigaction(SIGPIPE, {sa_handler=SIG_IGN, sa_mask=[], sa_flags=SA_RESTORER|SA_RESTART, sa_restorer=0x7f240e769fd0}, NULL, 8) = 0
+13354 20:39:53.147404 rt_sigaction(SIGTSTP, {sa_handler=SIG_IGN, sa_mask=[], sa_flags=SA_RESTORER|SA_RESTART, sa_restorer=0x7f240e769fd0}, NULL, 8) = 0
+13354 20:39:53.147421 rt_sigaction(SIGTTIN, {sa_handler=SIG_IGN, sa_mask=[], sa_flags=SA_RESTORER|SA_RESTART, sa_restorer=0x7f240e769fd0}, NULL, 8) = 0
+13354 20:39:53.147437 rt_sigaction(SIGTTOU, {sa_handler=SIG_IGN, sa_mask=[], sa_flags=SA_RESTORER|SA_RESTART, sa_restorer=0x7f240e769fd0}, NULL, 8) = 0
+13354 20:39:53.147456 rt_sigaction(SIGINT, {sa_handler=0x7f240f0fe660, sa_mask=~[RTMIN RT_1], sa_flags=SA_RESTORER|SA_RESTART, sa_restorer=0x7f240e769fd0}, {sa_handler=SIG_DFL, sa_mask=[], sa_flags=0}, 8) = 0
+13354 20:39:53.147495 rt_sigaction(SIGHUP, {sa_handler=0x7f240f0fe660, sa_mask=~[RTMIN RT_1], sa_flags=SA_RESTORER|SA_RESTART, sa_restorer=0x7f240e769fd0}, {sa_handler=SIG_IGN, sa_mask=[], sa_flags=0}, 8) = 0
+13354 20:39:53.147533 rt_sigaction(SIGCHLD, {sa_handler=0x7f240f0fe660, sa_mask=~[RTMIN RT_1], sa_flags=SA_RESTORER|SA_RESTART, sa_restorer=0x7f240e769fd0}, {sa_handler=SIG_IGN, sa_mask=[CHLD], sa_flags=SA_RESTORER|SA_RESTART, sa_restorer=0x7f240e769fd0}, 8) = 0
+13354 20:39:53.147577 rt_sigaction(SIGCONT, {sa_handler=0x7f240f0fe660, sa_mask=~[RTMIN RT_1], sa_flags=SA_RESTORER|SA_RESTART, sa_restorer=0x7f240e769fd0}, {sa_handler=SIG_DFL, sa_mask=[], sa_flags=0}, 8) = 0
+13354 20:39:53.147606 rt_sigaction(SIGTERM, {sa_handler=0x7f240f0fe660, sa_mask=~[RTMIN RT_1], sa_flags=SA_RESTORER|SA_RESTART, sa_restorer=0x7f240e769fd0}, {sa_handler=SIG_DFL, sa_mask=[], sa_flags=0}, 8) = 0
+13354 20:39:53.147626 rt_sigaction(SIGUSR1, {sa_handler=0x7f240f0fe660, sa_mask=~[RTMIN RT_1], sa_flags=SA_RESTORER|SA_RESTART, sa_restorer=0x7f240e769fd0}, {sa_handler=SIG_DFL, sa_mask=[], sa_flags=0}, 8) = 0
+13354 20:39:53.147651 rt_sigaction(SIGUSR2, {sa_handler=0x7f240f0fe660, sa_mask=~[RTMIN RT_1], sa_flags=SA_RESTORER|SA_RESTART, sa_restorer=0x7f240e769fd0}, {sa_handler=SIG_DFL, sa_mask=[], sa_flags=0}, 8) = 0
+13354 20:39:53.147685 rt_sigaction(SIGWINCH, {sa_handler=0x7f240f0fe660, sa_mask=~[RTMIN RT_1], sa_flags=SA_RESTORER|SA_RESTART, sa_restorer=0x7f240e769fd0}, {sa_handler=SIG_DFL, sa_mask=[], sa_flags=0}, 8) = 0
+13354 20:39:53.147719 socket(AF_UNIX, SOCK_STREAM, 0) = 5
+13354 20:39:53.147757 connect(5, {sa_family=AF_UNIX, sun_path="/tmp/tmux-1001/default"}, 110) = -1 ECONNREFUSED (Connection refused)
+13354 20:39:53.147791 close(5)          = 0
+13354 20:39:53.147815 openat(AT_FDCWD, "/tmp/tmux-1001/default.lock", O_WRONLY|O_CREAT, 0600) = 5
+13354 20:39:53.147881 flock(5, LOCK_EX|LOCK_NB) = 0
+13354 20:39:53.147915 socket(AF_UNIX, SOCK_STREAM, 0) = 6
+13354 20:39:53.147945 connect(6, {sa_family=AF_UNIX, sun_path="/tmp/tmux-1001/default"}, 110) = -1 ECONNREFUSED (Connection refused)
+13354 20:39:53.147971 close(6)          = 0
+13354 20:39:53.147990 unlink("/tmp/tmux-1001/default") = 0
+13354 20:39:53.148025 rt_sigprocmask(SIG_BLOCK, ~[RTMIN RT_1], [], 8) = 0
+13354 20:39:53.148046 socketpair(AF_UNIX, SOCK_STREAM, 0, [6, 7]) = 0
+13354 20:39:53.148109 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x7f240f96ba10) = 13355
+13354 20:39:53.148330 rt_sigprocmask(SIG_SETMASK, [], NULL, 8) = 0
+13354 20:39:53.148354 close(7)          = 0
+13354 20:39:53.148376 close(5)          = 0
+13354 20:39:53.148392 fcntl(6, F_GETFL) = 0x2 (flags O_RDWR)
+13354 20:39:53.148409 fcntl(6, F_SETFL, O_RDWR|O_NONBLOCK) = 0
+13354 20:39:53.148475 getpid()          = 13354
+13354 20:39:53.148507 getcwd("/home/Joe", 4096) = 10
+13354 20:39:53.148546 lstat("/home", {st_mode=S_IFDIR|0755, st_size=4096, ...}) = 0
+13354 20:39:53.148583 lstat("/home/Joe", {st_mode=S_IFDIR|0755, st_size=4096, ...}) = 0
+13354 20:39:53.148622 lstat("/home", {st_mode=S_IFDIR|0755, st_size=4096, ...}) = 0
+13354 20:39:53.148645 lstat("/home/Joe", {st_mode=S_IFDIR|0755, st_size=4096, ...}) = 0
+13354 20:39:53.148666 ioctl(0, TCGETS, 0x7fff304be950) = -1 ENOTTY (Inappropriate ioctl for device)
+13354 20:39:53.148703 close(2147483647) = -1 EBADF (Bad file descriptor)
+13354 20:39:53.148810 dup(0)            = 5
+13354 20:39:53.148831 dup(1)            = 7
+13354 20:39:53.148847 getpid()          = 13354
+13354 20:39:53.148883 poll([{fd=3, events=POLLIN}, {fd=6, events=POLLIN|POLLOUT}], 2, -1) = 1 ([{fd=6, revents=POLLOUT}])
+13354 20:39:53.148943 sendmsg(6, {msg_name=NULL, msg_namelen=0, msg_iov=[{iov_base="d\0\0\0\24\0\0\0\10\0\0\0\377\377\377\377\0\0\1\30", iov_len=20}, {iov_base="e\0\0\0\37\0\0\0\10\0\0\0\377\377\377\377xterm-256color\0", iov_len=31}, {iov_base="m\0\0\0\24\0\0\0\10\0\0\0\377\377\377\377\0\0\0\0", iov_len=20}, {iov_base="f\0\0\0\21\0\0\0\10\0\0\0\377\377\377\377\0", iov_len=17}, {iov_base="l\0\0\0\32\0\0\0\10\0\0\0\377\377\377\377/home/Joe\0", iov_len=26}, {iov_base="h\0\0\0\20\0\1\0\10\0\0\0\377\377\377\377", iov_len=16}], msg_iovlen=6, msg_control=[{cmsg_len=20, cmsg_level=SOL_SOCKET, cmsg_type=SCM_RIGHTS, cmsg_data=[5]}], msg_controllen=24, msg_flags=0}, 0) = 130
+13354 20:39:53.149018 close(5)          = 0
+13354 20:39:53.149038 poll([{fd=3, events=POLLIN}, {fd=6, events=POLLIN|POLLOUT}], 2, -1) = 1 ([{fd=6, revents=POLLOUT}])
+13354 20:39:53.149063 sendmsg(6, {msg_name=NULL, msg_namelen=0, msg_iov=[{iov_base="n\0\0\0\20\0\1\0\10\0\0\0\377\377\377\377", iov_len=16}], msg_iovlen=1, msg_control=[{cmsg_len=20, cmsg_level=SOL_SOCKET, cmsg_type=SCM_RIGHTS, cmsg_data=[7]}], msg_controllen=24, msg_flags=0}, 0) = 16
+13354 20:39:53.149102 close(7)          = 0
+13354 20:39:53.149131 poll([{fd=3, events=POLLIN}, {fd=6, events=POLLIN|POLLOUT}], 2, -1) = 1 ([{fd=6, revents=POLLOUT}])
+13354 20:39:53.149171 sendmsg(6, {msg_name=NULL, msg_namelen=0, msg_iov=[{iov_base="k\0\0\0\24\0\0\0\10\0\0\0\377\377\377\377*4\0\0", iov_len=20}, {iov_base="i\0\0\0\31\0\0\0\10\0\0\0\377\377\377\377USER=Joe\0", iov_len=25}, {iov_base="i\0\0\0\34\0\0\0\10\0\0\0\377\377\377\377LOGNAME=Joe\0", iov_len=28}, {iov_base="i\0\0\0\37\0\0\0\10\0\0\0\377\377\377\377HOME=/home/Joe\0", iov_len=31}, {iov_base="i\0\0\0n\0\0\0\10\0\0\0\377\377\377\377PATH=/usr/local/"..., iov_len=110}, {iov_base="i\0\0\0#\0\0\0\10\0\0\0\377\377\377\377MAIL=/var/mail/J"..., iov_len=35}, {iov_base="i\0\0\0#\0\0\0\10\0\0\0\377\377\377\377SHELL=/usr/bin/z"..., iov_len=35}, {iov_base="i\0\0\0003\0\0\0\10\0\0\0\377\377\377\377SSH_CLIENT=171.1"..., iov_len=51}, {iov_base="i\0\0\0E\0\0\0\10\0\0\0\377\377\377\377SSH_CONNECTION=1"..., iov_len=69}, {iov_base="i\0\0\0#\0\0\0\10\0\0\0\377\377\377\377SSH_TTY=/dev/pts"..., iov_len=35}, {iov_base="i\0\0\0$\0\0\0\10\0\0\0\377\377\377\377TERM=xterm-256co"..., iov_len=36}, {iov_base="i\0\0\0\"\0\0\0\10\0\0\0\377\377\377\377XDG_SESSION_ID=8"..., iov_len=34}, {iov_base="i\0\0\0/\0\0\0\10\0\0\0\377\377\377\377XDG_RUNTIME_DIR="..., iov_len=47}, {iov_base="i\0\0\0!\0\0\0\10\0\0\0\377\377\377\377LANG=en_US.UTF-8"..., iov_len=33}, {iov_base="i\0\0\0\30\0\0\0\10\0\0\0\377\377\377\377SHLVL=1\0", iov_len=24}, {iov_base="i\0\0\0\36\0\0\0\10\0\0\0\377\377\377\377PWD=/home/Joe\0", iov_len=30}, {iov_base="i\0\0\0!\0\0\0\10\0\0\0\377\377\377\377OLDPWD=/home/Joe"..., iov_len=33}, {iov_base="i\0\0\0\34\0\0\0\10\0\0\0\377\377\377\377EDITOR=nvim\0", iov_len=28}, {iov_base="i\0\0\0002\0\0\0\10\0\0\0\377\377\377\377ZSH=/home/Joe/.c"..., iov_len=50}, {iov_base="i\0\0\0\33\0\0\0\10\0\0\0\377\377\377\377PAGER=less\0", iov_len=27}, {iov_base="i\0\0\0\30\0\0\0\10\0\0\0\377\377\377\377LESS=-R\0", iov_len=24}, {iov_base="i\0\0\0000\0\0\0\10\0\0\0\377\377\377\377LSCOLORS=Gxfxcxd"..., iov_len=48}, {iov_base="i\0\0\0\374\5\0\0\10\0\0\0\377\377\377\377LS_COLORS=rs=0:d"..., iov_len=1532}, {iov_base="i\0\0\0!\0\0\0\10\0\0\0\377\377\377\377_=/usr/bin/nohup"..., iov_len=33}, {iov_base="j\0\0\0\20\0\0\0\10\0\0\0\377\377\377\377", iov_len=16}, {iov_base="\310\0\0\0\30\0\0\0\10\0\0\0\377\377\377\377\1\0\0\0new\0", iov_len=24}], msg_iovlen=26, msg_controllen=0, msg_flags=0}, 0) = 2458
+13354 20:39:53.149266 poll([{fd=3, events=POLLIN}, {fd=6, events=POLLIN}], 2, -1 <unfinished ...>
+13355 20:39:53.149310 set_robust_list(0x7f240f96ba20, 24) = 0
+13355 20:39:53.149344 close(6)          = 0
+13355 20:39:53.149363 clone(child_stack=NULL, flags=CLONE_CHILD_CLEARTID|CLONE_CHILD_SETTID|SIGCHLD, child_tidptr=0x7f240f96ba10) = 13356
+13355 20:39:53.149526 exit_group(0)     = ?
+13355 20:39:53.149647 +++ exited with 0 +++
+13354 20:39:53.149665 <... poll resumed> ) = ? ERESTART_RESTARTBLOCK (Interrupted by signal)
+13354 20:39:53.149676 --- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=13355, si_uid=1001, si_status=0, si_utime=0, si_stime=0} ---
+13354 20:39:53.149694 write(4, "\21", 1) = 1
+13354 20:39:53.149729 rt_sigreturn({mask=[]}) = -1 EINTR (Interrupted system call)
+13354 20:39:53.149764 poll([{fd=3, events=POLLIN}, {fd=6, events=POLLIN}], 2, -1) = 1 ([{fd=3, revents=POLLIN}])
+13354 20:39:53.149804 read(3, "\21", 1024) = 1
+13354 20:39:53.149826 read(3, 0x7f240f3254e0, 1024) = -1 EAGAIN (Resource temporarily unavailable)
+13354 20:39:53.149845 wait4(-1, [{WIFEXITED(s) && WEXITSTATUS(s) == 0}], WNOHANG, NULL) = 13355
+13354 20:39:53.149877 poll([{fd=3, events=POLLIN}, {fd=6, events=POLLIN}], 2, -1 <unfinished ...>
+13356 20:39:53.149917 set_robust_list(0x7f240f96ba20, 24) = 0
+13356 20:39:53.149955 setsid()          = 13356
+13356 20:39:53.149996 openat(AT_FDCWD, "/dev/null", O_RDWR) = 6
+13356 20:39:53.150035 fstat(6, {st_mode=S_IFCHR|0666, st_rdev=makedev(1, 3), ...}) = 0
+13356 20:39:53.150055 dup2(6, 0)        = 0
+13356 20:39:53.150070 dup2(6, 1)        = 1
+13356 20:39:53.150084 dup2(6, 2)        = 2
+13356 20:39:53.150098 close(6)          = 0
+13356 20:39:53.150130 rt_sigaction(SIGPIPE, {sa_handler=SIG_DFL, sa_mask=[], sa_flags=SA_RESTORER|SA_RESTART, sa_restorer=0x7f240e769fd0}, NULL, 8) = 0
+13356 20:39:53.150163 rt_sigaction(SIGTSTP, {sa_handler=SIG_DFL, sa_mask=[], sa_flags=SA_RESTORER|SA_RESTART, sa_restorer=0x7f240e769fd0}, NULL, 8) = 0
+13356 20:39:53.150206 rt_sigaction(SIGINT, {sa_handler=SIG_DFL, sa_mask=[], sa_flags=SA_RESTORER, sa_restorer=0x7f240e769fd0}, NULL, 8) = 0
+13356 20:39:53.150250 rt_sigaction(SIGHUP, {sa_handler=SIG_IGN, sa_mask=[], sa_flags=SA_RESTORER, sa_restorer=0x7f240e769fd0}, NULL, 8) = 0
+13356 20:39:53.150272 rt_sigaction(SIGCHLD, {sa_handler=SIG_IGN, sa_mask=[CHLD], sa_flags=SA_RESTORER|SA_RESTART, sa_restorer=0x7f240e769fd0}, NULL, 8) = 0
+13356 20:39:53.150289 rt_sigaction(SIGCONT, {sa_handler=SIG_DFL, sa_mask=[], sa_flags=SA_RESTORER, sa_restorer=0x7f240e769fd0}, NULL, 8) = 0
+13356 20:39:53.150305 rt_sigaction(SIGTERM, {sa_handler=SIG_DFL, sa_mask=[], sa_flags=SA_RESTORER, sa_restorer=0x7f240e769fd0}, NULL, 8) = 0
+13356 20:39:53.150320 rt_sigaction(SIGUSR1, {sa_handler=SIG_DFL, sa_mask=[], sa_flags=SA_RESTORER, sa_restorer=0x7f240e769fd0}, NULL, 8) = 0
+13356 20:39:53.150336 rt_sigaction(SIGUSR2, {sa_handler=SIG_DFL, sa_mask=[], sa_flags=SA_RESTORER, sa_restorer=0x7f240e769fd0}, NULL, 8) = 0
+13356 20:39:53.150352 rt_sigaction(SIGWINCH, {sa_handler=SIG_DFL, sa_mask=[], sa_flags=SA_RESTORER, sa_restorer=0x7f240e769fd0}, NULL, 8) = 0
+13356 20:39:53.150370 close(3)          = 0
+13356 20:39:53.150385 close(4)          = 0
+13356 20:39:53.150399 pipe2([3, 4], O_NONBLOCK|O_CLOEXEC) = 0
+13356 20:39:53.150445 prctl(PR_SET_NAME, "tmux: server") = 0
+13356 20:39:53.150467 uname({sysname="Linux", nodename="mx", ...}) = 0
+13356 20:39:53.150487 getpid()          = 13356
+13356 20:39:53.150507 rt_sigaction(SIGPIPE, {sa_handler=SIG_IGN, sa_mask=[], sa_flags=SA_RESTORER|SA_RESTART, sa_restorer=0x7f240e769fd0}, NULL, 8) = 0
+13356 20:39:53.150529 rt_sigaction(SIGTSTP, {sa_handler=SIG_IGN, sa_mask=[], sa_flags=SA_RESTORER|SA_RESTART, sa_restorer=0x7f240e769fd0}, NULL, 8) = 0
+13356 20:39:53.150548 rt_sigaction(SIGTTIN, {sa_handler=SIG_IGN, sa_mask=[], sa_flags=SA_RESTORER|SA_RESTART, sa_restorer=0x7f240e769fd0}, NULL, 8) = 0
+13356 20:39:53.150566 rt_sigaction(SIGTTOU, {sa_handler=SIG_IGN, sa_mask=[], sa_flags=SA_RESTORER|SA_RESTART, sa_restorer=0x7f240e769fd0}, NULL, 8) = 0
+13356 20:39:53.150594 rt_sigaction(SIGINT, {sa_handler=0x7f240f0fe660, sa_mask=~[RTMIN RT_1], sa_flags=SA_RESTORER|SA_RESTART, sa_restorer=0x7f240e769fd0}, {sa_handler=SIG_DFL, sa_mask=[], sa_flags=SA_RESTORER, sa_restorer=0x7f240e769fd0}, 8) = 0
+13356 20:39:53.150628 rt_sigaction(SIGHUP, {sa_handler=0x7f240f0fe660, sa_mask=~[RTMIN RT_1], sa_flags=SA_RESTORER|SA_RESTART, sa_restorer=0x7f240e769fd0}, {sa_handler=SIG_IGN, sa_mask=[], sa_flags=SA_RESTORER, sa_restorer=0x7f240e769fd0}, 8) = 0
+13356 20:39:53.150661 rt_sigaction(SIGCHLD, {sa_handler=0x7f240f0fe660, sa_mask=~[RTMIN RT_1], sa_flags=SA_RESTORER|SA_RESTART, sa_restorer=0x7f240e769fd0}, {sa_handler=SIG_IGN, sa_mask=[CHLD], sa_flags=SA_RESTORER|SA_RESTART, sa_restorer=0x7f240e769fd0}, 8) = 0
+13356 20:39:53.150689 rt_sigaction(SIGCONT, {sa_handler=0x7f240f0fe660, sa_mask=~[RTMIN RT_1], sa_flags=SA_RESTORER|SA_RESTART, sa_restorer=0x7f240e769fd0}, {sa_handler=SIG_DFL, sa_mask=[], sa_flags=SA_RESTORER, sa_restorer=0x7f240e769fd0}, 8) = 0
+13356 20:39:53.150709 rt_sigaction(SIGTERM, {sa_handler=0x7f240f0fe660, sa_mask=~[RTMIN RT_1], sa_flags=SA_RESTORER|SA_RESTART, sa_restorer=0x7f240e769fd0}, {sa_handler=SIG_DFL, sa_mask=[], sa_flags=SA_RESTORER, sa_restorer=0x7f240e769fd0}, 8) = 0
+13356 20:39:53.150731 rt_sigaction(SIGUSR1, {sa_handler=0x7f240f0fe660, sa_mask=~[RTMIN RT_1], sa_flags=SA_RESTORER|SA_RESTART, sa_restorer=0x7f240e769fd0}, {sa_handler=SIG_DFL, sa_mask=[], sa_flags=SA_RESTORER, sa_restorer=0x7f240e769fd0}, 8) = 0
+13356 20:39:53.150770 rt_sigaction(SIGUSR2, {sa_handler=0x7f240f0fe660, sa_mask=~[RTMIN RT_1], sa_flags=SA_RESTORER|SA_RESTART, sa_restorer=0x7f240e769fd0}, {sa_handler=SIG_DFL, sa_mask=[], sa_flags=SA_RESTORER, sa_restorer=0x7f240e769fd0}, 8) = 0
+13356 20:39:53.150804 rt_sigaction(SIGWINCH, {sa_handler=0x7f240f0fe660, sa_mask=~[RTMIN RT_1], sa_flags=SA_RESTORER|SA_RESTART, sa_restorer=0x7f240e769fd0}, {sa_handler=SIG_DFL, sa_mask=[], sa_flags=SA_RESTORER, sa_restorer=0x7f240e769fd0}, 8) = 0
+13356 20:39:53.150835 rt_sigprocmask(SIG_SETMASK, [], NULL, 8) = 0
+13356 20:39:53.151542 brk(0x55b51a4f3000) = 0x55b51a4f3000
+13356 20:39:53.153039 brk(0x55b51a514000) = 0x55b51a514000
+13356 20:39:53.154168 brk(0x55b51a535000) = 0x55b51a535000
+13356 20:39:53.154656 unlink("/tmp/tmux-1001/default") = -1 ENOENT (No such file or directory)
+13356 20:39:53.154705 socket(AF_UNIX, SOCK_STREAM, 0) = 6
+13356 20:39:53.154751 umask(0117)       = 002
+13356 20:39:53.154778 bind(6, {sa_family=AF_UNIX, sun_path="/tmp/tmux-1001/default"}, 110) = 0
+13356 20:39:53.154839 umask(002)        = 0117
+13356 20:39:53.154864 listen(6, 128)    = 0
+13356 20:39:53.154892 fcntl(6, F_GETFL) = 0x2 (flags O_RDWR)
+13356 20:39:53.154978 fcntl(6, F_SETFL, O_RDWR|O_NONBLOCK) = 0
+13356 20:39:53.155002 stat("/tmp/tmux-1001/default", {st_mode=S_IFSOCK|0660, st_size=0, ...}) = 0
+13356 20:39:53.155033 chmod("/tmp/tmux-1001/default", 0660) = 0
+13356 20:39:53.155072 fcntl(7, F_GETFL) = 0x2 (flags O_RDWR)
+13356 20:39:53.155100 fcntl(7, F_SETFL, O_RDWR|O_NONBLOCK) = 0
+13356 20:39:53.155176 getpid()          = 13356
+13356 20:39:53.155201 unlink("/tmp/tmux-1001/default.lock") = 0
+13356 20:39:53.155243 close(5)          = 0
+13356 20:39:53.155284 poll([{fd=3, events=POLLIN}, {fd=7, events=POLLIN}, {fd=6, events=POLLIN}], 3, -1) = 1 ([{fd=7, revents=POLLIN}])
+13356 20:39:53.155346 getpid()          = 13356
+13356 20:39:53.155378 openat(AT_FDCWD, "/proc/13356/fd", O_RDONLY|O_NONBLOCK|O_CLOEXEC|O_DIRECTORY) = 5
+13356 20:39:53.155416 fstat(5, {st_mode=S_IFDIR|0500, st_size=0, ...}) = 0
+13356 20:39:53.155438 brk(0x55b51a55c000) = 0x55b51a55c000
+13356 20:39:53.155460 getdents(5, /* 10 entries */, 32768) = 240
+13356 20:39:53.155567 openat(AT_FDCWD, "/usr/lib/x86_64-linux-gnu/gconv/gconv-modules.cache", O_RDONLY) = 8
+13356 20:39:53.155598 fstat(8, {st_mode=S_IFREG|0644, st_size=26376, ...}) = 0
+13356 20:39:53.155617 mmap(NULL, 26376, PROT_READ, MAP_SHARED, 8, 0) = 0x7f240f973000
+13356 20:39:53.155641 close(8)          = 0
+13356 20:39:53.155660 futex(0x7f240eb17a08, FUTEX_WAKE_PRIVATE, 2147483647) = 0
+13356 20:39:53.155692 getdents(5, /* 0 entries */, 32768) = 0
+13356 20:39:53.155712 close(5)          = 0
+13356 20:39:53.155745 prlimit64(0, RLIMIT_NOFILE, NULL, {rlim_cur=65535, rlim_max=65535}) = 0
+13356 20:39:53.155780 recvmsg(7, {msg_name=NULL, msg_namelen=0, msg_iov=[{iov_base="d\0\0\0\24\0\0\0\10\0\0\0\377\377\377\377\0\0\1\30e\0\0\0\37\0\0\0\10\0\0\0"..., iov_len=65535}], msg_iovlen=1, msg_control=[{cmsg_len=20, cmsg_level=SOL_SOCKET, cmsg_type=SCM_RIGHTS, cmsg_data=[5]}], msg_controllen=24, msg_flags=0}, 0) = 130
+13356 20:39:53.155838 access("/home/Joe", X_OK) = 0
+13356 20:39:53.158011 poll([{fd=3, events=POLLIN}, {fd=6, events=POLLIN}, {fd=7, events=POLLIN}], 3, -1) = 1 ([{fd=7, revents=POLLIN}])
+13356 20:39:53.158064 getpid()          = 13356
+13356 20:39:53.158084 openat(AT_FDCWD, "/proc/13356/fd", O_RDONLY|O_NONBLOCK|O_CLOEXEC|O_DIRECTORY) = 8
+13356 20:39:53.158112 fstat(8, {st_mode=S_IFDIR|0500, st_size=0, ...}) = 0
+13356 20:39:53.158194 getdents(8, /* 11 entries */, 32768) = 264
+13356 20:39:53.158254 getdents(8, /* 0 entries */, 32768) = 0
+13356 20:39:53.158274 close(8)          = 0
+13356 20:39:53.158295 prlimit64(0, RLIMIT_NOFILE, NULL, {rlim_cur=65535, rlim_max=65535}) = 0
+13356 20:39:53.158315 recvmsg(7, {msg_name=NULL, msg_namelen=0, msg_iov=[{iov_base="n\0\0\0\20\0\1\0\10\0\0\0\377\377\377\377", iov_len=65535}], msg_iovlen=1, msg_control=[{cmsg_len=20, cmsg_level=SOL_SOCKET, cmsg_type=SCM_RIGHTS, cmsg_data=[8]}], msg_controllen=24, msg_flags=0}, 0) = 16
+13356 20:39:53.158361 poll([{fd=3, events=POLLIN}, {fd=6, events=POLLIN}, {fd=7, events=POLLIN}], 3, -1) = 1 ([{fd=7, revents=POLLIN}])
+13356 20:39:53.158406 getpid()          = 13356
+13356 20:39:53.158436 openat(AT_FDCWD, "/proc/13356/fd", O_RDONLY|O_NONBLOCK|O_CLOEXEC|O_DIRECTORY) = 9
+13356 20:39:53.158473 fstat(9, {st_mode=S_IFDIR|0500, st_size=0, ...}) = 0
+13356 20:39:53.158498 getdents(9, /* 12 entries */, 32768) = 288
+13356 20:39:53.158534 getdents(9, /* 0 entries */, 32768) = 0
+13356 20:39:53.158553 close(9)          = 0
+13356 20:39:53.158572 prlimit64(0, RLIMIT_NOFILE, NULL, {rlim_cur=65535, rlim_max=65535}) = 0
+13356 20:39:53.158590 recvmsg(7, {msg_name=NULL, msg_namelen=0, msg_iov=[{iov_base="k\0\0\0\24\0\0\0\10\0\0\0\377\377\377\377*4\0\0i\0\0\0\31\0\0\0\10\0\0\0"..., iov_len=65535}], msg_iovlen=1, msg_controllen=0, msg_flags=0}, 0) = 2458
+13356 20:39:53.158636 ioctl(5, TCGETS, 0x7fff304be6f0) = -1 ENOTTY (Inappropriate ioctl for device)
+13356 20:39:53.158658 close(5)          = 0
+13356 20:39:53.158674 close(8)          = 0
+13356 20:39:53.158696 lstat("/etc", {st_mode=S_IFDIR|0755, st_size=4096, ...}) = 0
+13356 20:39:53.158719 lstat("/etc/tmux.conf", 0x7fff304bd600) = -1 ENOENT (No such file or directory)
+13356 20:39:53.158740 lstat("/home", {st_mode=S_IFDIR|0755, st_size=4096, ...}) = 0
+13356 20:39:53.158760 lstat("/home/Joe", {st_mode=S_IFDIR|0755, st_size=4096, ...}) = 0
+13356 20:39:53.158779 lstat("/home/Joe/.tmux.conf", 0x7fff304bd600) = -1 ENOENT (No such file or directory)
+13356 20:39:53.158804 lstat("/home", {st_mode=S_IFDIR|0755, st_size=4096, ...}) = 0
+13356 20:39:53.158839 lstat("/home/Joe", {st_mode=S_IFDIR|0755, st_size=4096, ...}) = 0
+13356 20:39:53.158872 lstat("/home/Joe/.config", {st_mode=S_IFDIR|0775, st_size=4096, ...}) = 0
+13356 20:39:53.158905 lstat("/home/Joe/.config/tmux", 0x7fff304bd600) = -1 ENOENT (No such file or directory)
+13356 20:39:53.158998 ioctl(0, TCGETS, 0x7fff304be680) = -1 ENOTTY (Inappropriate ioctl for device)
+13356 20:39:53.159019 ioctl(1, TCGETS, 0x7fff304be680) = -1 ENOTTY (Inappropriate ioctl for device)
+13356 20:39:53.159035 ioctl(2, TCGETS, 0x7fff304be680) = -1 ENOTTY (Inappropriate ioctl for device)
+13356 20:39:53.159061 poll([{fd=3, events=POLLIN}, {fd=6, events=POLLIN}, {fd=7, events=POLLIN|POLLOUT}], 3, -1) = 1 ([{fd=7, revents=POLLOUT}])
+13356 20:39:53.159097 sendmsg(7, {msg_name=NULL, msg_namelen=0, msg_iov=[{iov_base="/\1\0\0\34\0\0\0\10\0\0\0\377\377\377\377\2\0\0\0\2\0\0\0\0\0\0\0", iov_len=28}], msg_iovlen=1, msg_controllen=0, msg_flags=0}, 0 <unfinished ...>
+13354 20:39:53.159127 <... poll resumed> ) = 1 ([{fd=6, revents=POLLIN}])
+13354 20:39:53.159151 getpid()          = 13354
+13354 20:39:53.159179 openat(AT_FDCWD, "/proc/13354/fd", O_RDONLY|O_NONBLOCK|O_CLOEXEC|O_DIRECTORY) = 5
+13354 20:39:53.159233 fstat(5, {st_mode=S_IFDIR|0500, st_size=0, ...}) = 0
+13354 20:39:53.159273 brk(0x55b51a4f9000) = 0x55b51a4f9000
+13354 20:39:53.159298 getdents(5, /* 9 entries */, 32768) = 216
+13354 20:39:53.159345 openat(AT_FDCWD, "/usr/lib/x86_64-linux-gnu/gconv/gconv-modules.cache", O_RDONLY) = 7
+13354 20:39:53.159369 fstat(7, {st_mode=S_IFREG|0644, st_size=26376, ...}) = 0
+13354 20:39:53.159386 mmap(NULL, 26376, PROT_READ, MAP_SHARED, 7, 0) = 0x7f240f973000
+13354 20:39:53.159413 close(7)          = 0
+13354 20:39:53.159441 futex(0x7f240eb17a08, FUTEX_WAKE_PRIVATE, 2147483647) = 0
+13354 20:39:53.159476 getdents(5, /* 0 entries */, 32768) = 0
+13354 20:39:53.159502 brk(0x55b51a4f1000) = 0x55b51a4f1000
+13354 20:39:53.159535 close(5)          = 0
+13354 20:39:53.159555 prlimit64(0, RLIMIT_NOFILE, NULL, {rlim_cur=65535, rlim_max=65535}) = 0
+13354 20:39:53.159573 recvmsg(6, {msg_name=NULL, msg_namelen=0, msg_iov=[{iov_base="/\1\0\0\34\0\0\0\10\0\0\0\377\377\377\377\2\0\0\0\2\0\0\0\0\0\0\0", iov_len=65535}], msg_iovlen=1, msg_controllen=0, msg_flags=0}, 0) = 28
+13354 20:39:53.159600 dup(2)            = 5
+13354 20:39:53.159615 close(2)          = 0
+13354 20:39:53.159635 poll([{fd=3, events=POLLIN}, {fd=5, events=POLLOUT}, {fd=6, events=POLLIN|POLLOUT}], 3, -1) = 2 ([{fd=5, revents=POLLOUT}, {fd=6, revents=POLLOUT}])
+13354 20:39:53.159672 sendmsg(6, {msg_name=NULL, msg_namelen=0, msg_iov=[{iov_base="1\1\0\0\30\0\0\0\10\0\0\0\377\377\377\377\2\0\0\0\0\0\0\0", iov_len=24}], msg_iovlen=1, msg_controllen=0, msg_flags=0}, 0) = 24
+13354 20:39:53.159696 poll([{fd=3, events=POLLIN}, {fd=6, events=POLLIN}], 2, -1 <unfinished ...>
+13356 20:39:53.159709 <... sendmsg resumed> ) = 28
+13356 20:39:53.159724 poll([{fd=3, events=POLLIN}, {fd=6, events=POLLIN}, {fd=7, events=POLLIN}], 3, -1) = 1 ([{fd=7, revents=POLLIN}])
+13356 20:39:53.159750 getpid()          = 13356
+13356 20:39:53.159767 openat(AT_FDCWD, "/proc/13356/fd", O_RDONLY|O_NONBLOCK|O_CLOEXEC|O_DIRECTORY) = 5
+13356 20:39:53.159790 fstat(5, {st_mode=S_IFDIR|0500, st_size=0, ...}) = 0
+13356 20:39:53.159810 getdents(5, /* 10 entries */, 32768) = 240
+13356 20:39:53.159843 getdents(5, /* 0 entries */, 32768) = 0
+13356 20:39:53.159871 close(5)          = 0
+13356 20:39:53.159901 prlimit64(0, RLIMIT_NOFILE, NULL, {rlim_cur=65535, rlim_max=65535}) = 0
+13356 20:39:53.159931 recvmsg(7, {msg_name=NULL, msg_namelen=0, msg_iov=[{iov_base="1\1\0\0\30\0\0\0\10\0\0\0\377\377\377\377\2\0\0\0\0\0\0\0", iov_len=65535}], msg_iovlen=1, msg_controllen=0, msg_flags=0}, 0) = 24
+13356 20:39:53.159968 poll([{fd=3, events=POLLIN}, {fd=6, events=POLLIN}, {fd=7, events=POLLIN|POLLOUT}], 3, -1) = 1 ([{fd=7, revents=POLLOUT}])
+13356 20:39:53.159997 sendmsg(7, {msg_name=NULL, msg_namelen=0, msg_iov=[{iov_base="0\1\0\0009\0\0\0\10\0\0\0\377\377\377\377\2\0\0\0open termina"..., iov_len=57}, {iov_base="\313\0\0\0\24\0\0\0\10\0\0\0\377\377\377\377\1\0\0\0", iov_len=20}], msg_iovlen=2, msg_controllen=0, msg_flags=0}, 0 <unfinished ...>
+13354 20:39:53.160020 <... poll resumed> ) = 1 ([{fd=6, revents=POLLIN}])
+13354 20:39:53.160035 getpid()          = 13354
+13354 20:39:53.160051 openat(AT_FDCWD, "/proc/13354/fd", O_RDONLY|O_NONBLOCK|O_CLOEXEC|O_DIRECTORY) = 2
+13354 20:39:53.160072 fstat(2, {st_mode=S_IFDIR|0500, st_size=0, ...}) = 0
+13354 20:39:53.160090 getdents(2, /* 9 entries */, 32768) = 216
+13354 20:39:53.160112 getdents(2, /* 0 entries */, 32768) = 0
+13354 20:39:53.160127 close(2)          = 0
+13354 20:39:53.160144 prlimit64(0, RLIMIT_NOFILE, NULL, {rlim_cur=65535, rlim_max=65535}) = 0
+13354 20:39:53.160160 recvmsg(6, {msg_name=NULL, msg_namelen=0, msg_iov=[{iov_base="0\1\0\0009\0\0\0\10\0\0\0\377\377\377\377\2\0\0\0open termina"..., iov_len=65535}], msg_iovlen=1, msg_controllen=0, msg_flags=0}, 0) = 77
+13354 20:39:53.160194 poll([{fd=3, events=POLLIN}, {fd=5, events=POLLOUT}, {fd=6, events=POLLIN}], 3, -1) = 1 ([{fd=5, revents=POLLOUT}])
+13354 20:39:53.160250 writev(5, [{iov_base="open terminal failed: not a term"..., iov_len=37}], 1) = 37
+13354 20:39:53.160302 fcntl(0, F_GETFL) = 0x8001 (flags O_WRONLY|O_LARGEFILE)
+13354 20:39:53.160320 fcntl(0, F_SETFL, O_WRONLY|O_LARGEFILE) = 0
+13354 20:39:53.160336 fcntl(1, F_GETFL) = 0x8401 (flags O_WRONLY|O_APPEND|O_LARGEFILE)
+13354 20:39:53.160350 fcntl(1, F_SETFL, O_WRONLY|O_APPEND|O_LARGEFILE) = 0
+13354 20:39:53.160363 fcntl(2, F_GETFL) = -1 EBADF (Bad file descriptor)
+13354 20:39:53.160439 exit_group(1)     = ?
+13354 20:39:53.160672 +++ exited with 1 +++
+13356 20:39:53.160686 <... sendmsg resumed> ) = 77
+13356 20:39:53.160704 poll([{fd=3, events=POLLIN}, {fd=6, events=POLLIN}, {fd=7, events=POLLIN}], 3, -1) = 1 ([{fd=7, revents=POLLIN|POLLHUP}])
+13356 20:39:53.160756 getpid()          = 13356
+13356 20:39:53.160776 openat(AT_FDCWD, "/proc/13356/fd", O_RDONLY|O_NONBLOCK|O_CLOEXEC|O_DIRECTORY) = 5
+13356 20:39:53.160801 fstat(5, {st_mode=S_IFDIR|0500, st_size=0, ...}) = 0
+13356 20:39:53.160823 getdents(5, /* 10 entries */, 32768) = 240
+13356 20:39:53.160849 getdents(5, /* 0 entries */, 32768) = 0
+13356 20:39:53.160875 close(5)          = 0
+13356 20:39:53.160906 prlimit64(0, RLIMIT_NOFILE, NULL, {rlim_cur=65535, rlim_max=65535}) = 0
+13356 20:39:53.160937 recvmsg(7, {msg_name=NULL, msg_namelen=0, msg_iov=[{iov_base="", iov_len=65535}], msg_iovlen=1, msg_controllen=0, msg_flags=0}, 0) = 0
+13356 20:39:53.160982 close(7)          = 0
+13356 20:39:53.161048 exit_group(0)     = ?
+13356 20:39:53.161398 +++ exited with 0 +++
